@@ -98,3 +98,10 @@ The tests cover annex page numbering, text, provenance, and failed-annex
 output preservation. Run `python -m unittest -v test_pdf_decree` from this directory.
 
 The committed XML examples include decree and annex text. Their local source URIs and object keys use portable `inputs/` references; place the original PDFs there to resolve those references. SHA-256 values identify the original bytes.
+
+## Giunta regionale deliberations
+
+Use `pdf_deliberation_to_xml.py` for deliberations (DGR), including the supplied
+cover layout with attendance and meeting metadata. See [DELIBERATIONS.md](DELIBERATIONS.md)
+for optional cover OCR, examples and commands. The entry points share extraction,
+attachment and validation logic.
