@@ -1,0 +1,2461 @@
+{
+  "source_version": "fvg:lr:2024:7:version:2e6f879bbfdf4468",
+  "notes": [
+    {
+      "category": "editorial_note",
+      "text": "1 Parole aggiunte al comma 92 da art. 2, comma 8, L. R. 8/2024",
+      "note_id": "editorial1",
+      "source_article": "Art. 2",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art2-com8",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "2",
+            "comma": "8"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art2-com8"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "2 Parole sostituite al comma 99 da art. 2, comma 11, L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial2",
+      "source_article": "Art. 2",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art2-com11",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "2",
+            "comma": "11"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art2-com11"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "3 Comma 33 abrogato da art. 141, comma 1, lettera ttt), L. R. 17/2025",
+      "note_id": "editorial3",
+      "source_article": "Art. 2",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0017#art141-com1-let_ttt",
+            "atto": "fvg:lr:2025:17",
+            "articolo": "141",
+            "comma": "1",
+            "lettera": "ttt"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0017#art141-com1-let_ttt"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "4 Comma 34 abrogato da art. 141, comma 1, lettera ttt), L. R. 17/2025",
+      "note_id": "editorial4",
+      "source_article": "Art. 2",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0017#art141-com1-let_ttt",
+            "atto": "fvg:lr:2025:17",
+            "articolo": "141",
+            "comma": "1",
+            "lettera": "ttt"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0017#art141-com1-let_ttt"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "5 Comma 41 abrogato da art. 141, comma 1, lettera ttt), L. R. 17/2025",
+      "note_id": "editorial5",
+      "source_article": "Art. 2",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0017#art141-com1-let_ttt",
+            "atto": "fvg:lr:2025:17",
+            "articolo": "141",
+            "comma": "1",
+            "lettera": "ttt"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0017#art141-com1-let_ttt"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "6 Comma 95 abrogato da art. 141, comma 2, lettera oo), L. R. 17/2025 , a seguito dell'abrogazione dell'art. 38, L.R. 3/2021, a decorrere dall'1/1/2026.",
+      "note_id": "editorial6",
+      "source_article": "Art. 2",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0017#art141-com2-let_oo",
+            "atto": "fvg:lr:2025:17",
+            "articolo": "141",
+            "comma": "2",
+            "lettera": "oo"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0017#art141-com2-let_oo"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "7 Comma 96 abrogato da art. 141, comma 2, lettera oo), L. R. 17/2025 , a seguito dell'abrogazione dell'art. 38, L.R. 3/2021, a decorrere dall'1/1/2026.",
+      "note_id": "editorial7",
+      "source_article": "Art. 2",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0017#art141-com2-let_oo",
+            "atto": "fvg:lr:2025:17",
+            "articolo": "141",
+            "comma": "2",
+            "lettera": "oo"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0017#art141-com2-let_oo"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "8 Comma 97 abrogato da art. 141, comma 2, lettera oo), L. R. 17/2025 , a seguito dell'abrogazione dell'art. 38, L.R. 3/2021, a decorrere dall'1/1/2026.",
+      "note_id": "editorial8",
+      "source_article": "Art. 2",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0017#art141-com2-let_oo",
+            "atto": "fvg:lr:2025:17",
+            "articolo": "141",
+            "comma": "2",
+            "lettera": "oo"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0017#art141-com2-let_oo"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "9 Comma 35 abrogato da art. 141, comma 2, lettera bbb), L. R. 17/2025 , a decorrere dall'1/1/2026.",
+      "note_id": "editorial9",
+      "source_article": "Art. 2",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0017#art141-com2-let_bbb",
+            "atto": "fvg:lr:2025:17",
+            "articolo": "141",
+            "comma": "2",
+            "lettera": "bbb"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0017#art141-com2-let_bbb"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "10 Comma 36 abrogato da art. 141, comma 2, lettera bbb), L. R. 17/2025 , a decorrere dall'1/1/2026.",
+      "note_id": "editorial10",
+      "source_article": "Art. 2",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0017#art141-com2-let_bbb",
+            "atto": "fvg:lr:2025:17",
+            "articolo": "141",
+            "comma": "2",
+            "lettera": "bbb"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0017#art141-com2-let_bbb"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "1 Parole aggiunte al comma 33 da art. 3, comma 7, L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial11",
+      "source_article": "Art. 3",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art3-com7",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "3",
+            "comma": "7"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art3-com7"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "2 Parole soppresse al comma 90 da art. 23, comma 1, lettera a), L. R. 7/2025",
+      "note_id": "editorial12",
+      "source_article": "Art. 3",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0007#art23-com1-let_a",
+            "atto": "fvg:lr:2025:7",
+            "articolo": "23",
+            "comma": "1",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0007#art23-com1-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "3 Parole aggiunte al comma 90 da art. 23, comma 1, lettera b), L. R. 7/2025",
+      "note_id": "editorial13",
+      "source_article": "Art. 3",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0007#art23-com1-let_b",
+            "atto": "fvg:lr:2025:7",
+            "articolo": "23",
+            "comma": "1",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0007#art23-com1-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "4 Il \"Programma Anticrisi conflitto russo - ucraino\", di cui al comma 5 del presente articolo, continua a trovare applicazione fino al 31 dicembre 2027 e, in considerazione dell'evoluzione della congiuntura economica, assume la denominazione di \"Programma Anticrisi conflitti e tensioni commerciali internazionali\", ai sensi dell'art. 3, c. 1, L.R. 12/2025.",
+      "note_id": "editorial14",
+      "source_article": "Art. 3",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0012#art3-com1",
+            "atto": "fvg:lr:2025:12",
+            "articolo": "3",
+            "comma": "1"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0012#art3-com1"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "5 Parole sostituite al comma 5 da art. 3, comma 4, L. R. 12/2025",
+      "note_id": "editorial15",
+      "source_article": "Art. 3",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0012#art3-com4",
+            "atto": "fvg:lr:2025:12",
+            "articolo": "3",
+            "comma": "4"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0012#art3-com4"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "1 Comma 91 abrogato da art. 4, comma 42, L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial16",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art4-com42",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "4",
+            "comma": "42"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art4-com42"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "2 Comma 92 abrogato da art. 4, comma 42, L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial17",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art4-com42",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "4",
+            "comma": "42"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art4-com42"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "3 Comma 93 abrogato da art. 4, comma 42, L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial18",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art4-com42",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "4",
+            "comma": "42"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art4-com42"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "4 Comma 94 abrogato da art. 4, comma 42, L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial19",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art4-com42",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "4",
+            "comma": "42"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art4-com42"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "5 Parole aggiunte al comma 84 da art. 4, comma 51, L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial20",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art4-com51",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "4",
+            "comma": "51"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art4-com51"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "6 Comma 102 abrogato da art. 9, comma 1, lettera e), L. R. 2/2025",
+      "note_id": "editorial21",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0002#art9-com1-let_e",
+            "atto": "fvg:lr:2025:2",
+            "articolo": "9",
+            "comma": "1",
+            "lettera": "e"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0002#art9-com1-let_e"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "7 Parole sostituite al comma 70 da art. 47, comma 1, L. R. 7/2025",
+      "note_id": "editorial22",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0007#art47-com1",
+            "atto": "fvg:lr:2025:7",
+            "articolo": "47",
+            "comma": "1"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0007#art47-com1"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "8 Comma 19 bis aggiunto da art. 4, comma 56, lettera a), L. R. 12/2025",
+      "note_id": "editorial23",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0012#art4-com56-let_a",
+            "atto": "fvg:lr:2025:12",
+            "articolo": "4",
+            "comma": "56",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0012#art4-com56-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "9 Parole aggiunte al comma 51 da art. 4, comma 56, lettera b), L. R. 12/2025",
+      "note_id": "editorial24",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0012#art4-com56-let_b",
+            "atto": "fvg:lr:2025:12",
+            "articolo": "4",
+            "comma": "56",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0012#art4-com56-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "10 Parole aggiunte al comma 53 da art. 4, comma 56, lettera c), L. R. 12/2025",
+      "note_id": "editorial25",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0012#art4-com56-let_c",
+            "atto": "fvg:lr:2025:12",
+            "articolo": "4",
+            "comma": "56",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0012#art4-com56-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "11 Parole soppresse al comma 53 da art. 4, comma 56, lettera c), L. R. 12/2025",
+      "note_id": "editorial26",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0012#art4-com56-let_c",
+            "atto": "fvg:lr:2025:12",
+            "articolo": "4",
+            "comma": "56",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0012#art4-com56-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "12 Parole soppresse al comma 19 da art. 3, comma 11, lettera a), L. R. 18/2025 , con effetto dall'1/1/2026.",
+      "note_id": "editorial27",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0018#art3-com11-let_a",
+            "atto": "fvg:lr:2025:18",
+            "articolo": "3",
+            "comma": "11",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0018#art3-com11-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "13 Parole sostituite al comma 19 bis da art. 3, comma 11, lettera b), L. R. 18/2025 , con effetto dall'1/1/2026.",
+      "note_id": "editorial28",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0018#art3-com11-let_b",
+            "atto": "fvg:lr:2025:18",
+            "articolo": "3",
+            "comma": "11",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0018#art3-com11-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "14 Comma 56 abrogato da art. 19, comma 1, lettera g), L. R. 1/2026",
+      "note_id": "editorial29",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2026&legge=0001#art19-com1-let_g",
+            "atto": "fvg:lr:2026:1",
+            "articolo": "19",
+            "comma": "1",
+            "lettera": "g"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2026&legge=0001#art19-com1-let_g"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "15 Comma 57 abrogato da art. 19, comma 1, lettera g), L. R. 1/2026",
+      "note_id": "editorial30",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2026&legge=0001#art19-com1-let_g",
+            "atto": "fvg:lr:2026:1",
+            "articolo": "19",
+            "comma": "1",
+            "lettera": "g"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2026&legge=0001#art19-com1-let_g"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "16 Parole aggiunte al comma 19 bis da art. 154, comma 1, L. R. 5/2026",
+      "note_id": "editorial31",
+      "source_article": "Art. 4",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2026&legge=0005#art154-com1",
+            "atto": "fvg:lr:2026:5",
+            "articolo": "154",
+            "comma": "1"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2026&legge=0005#art154-com1"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "1 Parole aggiunte al comma 161 da art. 5, comma 3, lettera a), L. R. 8/2024",
+      "note_id": "editorial32",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com3-let_a",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "3",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com3-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "2 Parole aggiunte al comma 162 da art. 5, comma 3, lettera b), L. R. 8/2024",
+      "note_id": "editorial33",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com3-let_b",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "3",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com3-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "3 Parole sostituite al comma 162 da art. 5, comma 3, lettera b), L. R. 8/2024",
+      "note_id": "editorial34",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com3-let_b",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "3",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com3-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "4 Parole sostituite al comma 163 da art. 5, comma 3, lettera c), L. R. 8/2024",
+      "note_id": "editorial35",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com3-let_c",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "3",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com3-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "5 Parole soppresse al comma 163 da art. 5, comma 3, lettera c), L. R. 8/2024",
+      "note_id": "editorial36",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com3-let_c",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "3",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com3-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "6 Comma 164 sostituito da art. 5, comma 3, lettera d), L. R. 8/2024",
+      "note_id": "editorial37",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com3-let_d",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "3",
+            "lettera": "d"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com3-let_d"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "7 Comma 165 abrogato da art. 5, comma 3, lettera e), L. R. 8/2024",
+      "note_id": "editorial38",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com3-let_e",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "3",
+            "lettera": "e"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com3-let_e"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "8 Parole sostituite al comma 171 da art. 5, comma 5, L. R. 8/2024",
+      "note_id": "editorial39",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com5",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "5"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com5"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "9 Parole aggiunte al comma 184 da art. 5, comma 7, L. R. 8/2024",
+      "note_id": "editorial40",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com7",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "7"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com7"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "10 Parole soppresse al comma 184 da art. 5, comma 7, L. R. 8/2024",
+      "note_id": "editorial41",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com7",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "7"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com7"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "11 Parole aggiunte al comma 103 da art. 5, comma 22, lettera a), L. R. 8/2024",
+      "note_id": "editorial42",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com22-let_a",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "22",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com22-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "12 Parole aggiunte al comma 103 da art. 5, comma 22, lettera b), L. R. 8/2024",
+      "note_id": "editorial43",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com22-let_b",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "22",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com22-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "13 Parole aggiunte al comma 103 da art. 5, comma 22, lettera c), L. R. 8/2024",
+      "note_id": "editorial44",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com22-let_c",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "22",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com22-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "14 Comma 176 sostituito da art. 5, comma 24, lettera a), L. R. 8/2024",
+      "note_id": "editorial45",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com24-let_a",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "24",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com24-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "15 Comma 177 sostituito da art. 5, comma 24, lettera b), L. R. 8/2024",
+      "note_id": "editorial46",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com24-let_b",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "24",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com24-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "16 Comma 179 sostituito da art. 5, comma 24, lettera c), L. R. 8/2024",
+      "note_id": "editorial47",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art5-com24-let_c",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "5",
+            "comma": "24",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art5-com24-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "17 Parole sostituite al comma 11 da art. 5, comma 5, L. R. 12/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial48",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0012#art5-com5",
+            "atto": "fvg:lr:2024:12",
+            "articolo": "5",
+            "comma": "5"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0012#art5-com5"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "18 Comma 17 abrogato da art. 5, comma 7, L. R. 13/2024",
+      "note_id": "editorial49",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art5-com7",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "5",
+            "comma": "7"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art5-com7"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "19 Comma 18 abrogato da art. 5, comma 7, L. R. 13/2024",
+      "note_id": "editorial50",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art5-com7",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "5",
+            "comma": "7"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art5-com7"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "20 Comma 19 abrogato da art. 5, comma 7, L. R. 13/2024",
+      "note_id": "editorial51",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art5-com7",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "5",
+            "comma": "7"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art5-com7"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "21 Comma 20 abrogato da art. 5, comma 7, L. R. 13/2024",
+      "note_id": "editorial52",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art5-com7",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "5",
+            "comma": "7"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art5-com7"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "22 Comma 186 sostituito da art. 5, comma 25, lettera a), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial53",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art5-com25-let_a",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "5",
+            "comma": "25",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art5-com25-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "23 Comma 187 sostituito da art. 5, comma 25, lettera b), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial54",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art5-com25-let_b",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "5",
+            "comma": "25",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art5-com25-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "24 Comma 189 sostituito da art. 5, comma 25, lettera c), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial55",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art5-com25-let_c",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "5",
+            "comma": "25",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art5-com25-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "25 Comma 57 sostituito da art. 5, comma 53, lettera a), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial56",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art5-com53-let_a",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "5",
+            "comma": "53",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art5-com53-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "26 Parole sostituite al comma 58 da art. 5, comma 53, lettera b), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial57",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art5-com53-let_b",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "5",
+            "comma": "53",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art5-com53-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "27 Comma 169 abrogato da art. 10, comma 1, lettera o), L. R. 8/2025",
+      "note_id": "editorial58",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o",
+            "atto": "fvg:lr:2025:8",
+            "articolo": "10",
+            "comma": "1",
+            "lettera": "o"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "28 Comma 170 abrogato da art. 10, comma 1, lettera o), L. R. 8/2025",
+      "note_id": "editorial59",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o",
+            "atto": "fvg:lr:2025:8",
+            "articolo": "10",
+            "comma": "1",
+            "lettera": "o"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "29 Comma 171 abrogato da art. 10, comma 1, lettera o), L. R. 8/2025",
+      "note_id": "editorial60",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o",
+            "atto": "fvg:lr:2025:8",
+            "articolo": "10",
+            "comma": "1",
+            "lettera": "o"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "30 Comma 172 abrogato da art. 10, comma 1, lettera o), L. R. 8/2025",
+      "note_id": "editorial61",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o",
+            "atto": "fvg:lr:2025:8",
+            "articolo": "10",
+            "comma": "1",
+            "lettera": "o"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "31 Comma 173 abrogato da art. 10, comma 1, lettera o), L. R. 8/2025",
+      "note_id": "editorial62",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o",
+            "atto": "fvg:lr:2025:8",
+            "articolo": "10",
+            "comma": "1",
+            "lettera": "o"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "32 Comma 174 abrogato da art. 10, comma 1, lettera o), L. R. 8/2025",
+      "note_id": "editorial63",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o",
+            "atto": "fvg:lr:2025:8",
+            "articolo": "10",
+            "comma": "1",
+            "lettera": "o"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "33 Comma 175 abrogato da art. 10, comma 1, lettera o), L. R. 8/2025",
+      "note_id": "editorial64",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o",
+            "atto": "fvg:lr:2025:8",
+            "articolo": "10",
+            "comma": "1",
+            "lettera": "o"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0008#art10-com1-let_o"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "34 Comma 191 sostituito da art. 5, comma 159, L. R. 12/2025",
+      "note_id": "editorial65",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0012#art5-com159",
+            "atto": "fvg:lr:2025:12",
+            "articolo": "5",
+            "comma": "159"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0012#art5-com159"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "35 Integrata la disciplina del comma 197 da art. 5, comma 161, L. R. 12/2025 . Le domande presentate, non finanziate per insufficiente disponibilità finanziaria nell'anno 2024, sono mantenute valide e finanziate con le risorse stanziate per l'anno 2025.",
+      "note_id": "editorial66",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0012#art5-com161",
+            "atto": "fvg:lr:2025:12",
+            "articolo": "5",
+            "comma": "161"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0012#art5-com161"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "36 Comma 191 abrogato da art. 5, comma 4, L. R. 19/2025 , con effetto dall'1/1/2026.",
+      "note_id": "editorial67",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0019#art5-com4",
+            "atto": "fvg:lr:2025:19",
+            "articolo": "5",
+            "comma": "4"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0019#art5-com4"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "37 Comma 192 abrogato da art. 5, comma 4, L. R. 19/2025 , con effetto dall'1/1/2026.",
+      "note_id": "editorial68",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0019#art5-com4",
+            "atto": "fvg:lr:2025:19",
+            "articolo": "5",
+            "comma": "4"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0019#art5-com4"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "38 Comma 193 abrogato da art. 5, comma 4, L. R. 19/2025 , con effetto dall'1/1/2026.",
+      "note_id": "editorial69",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0019#art5-com4",
+            "atto": "fvg:lr:2025:19",
+            "articolo": "5",
+            "comma": "4"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0019#art5-com4"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "39 Comma 194 abrogato da art. 5, comma 4, L. R. 19/2025 , con effetto dall'1/1/2026.",
+      "note_id": "editorial70",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0019#art5-com4",
+            "atto": "fvg:lr:2025:19",
+            "articolo": "5",
+            "comma": "4"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0019#art5-com4"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "40 Comma 195 abrogato da art. 5, comma 4, L. R. 19/2025 , con effetto dall'1/1/2026.",
+      "note_id": "editorial71",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0019#art5-com4",
+            "atto": "fvg:lr:2025:19",
+            "articolo": "5",
+            "comma": "4"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0019#art5-com4"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "41 Integrata la disciplina del comma 181 da art. 5, comma 18, L. R. 19/2025 . Le domande presentate, non soddisfatte per insufficiente disponibilità finanziaria nell'anno 2024, conservano validità fino al 30 giugno 2026 e sono finanziate con le risorse stanziate per l'anno 2026.",
+      "note_id": "editorial72",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0019#art5-com18",
+            "atto": "fvg:lr:2025:19",
+            "articolo": "5",
+            "comma": "18"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0019#art5-com18"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "42 Comma 186 sostituito da art. 5, comma 20, L. R. 19/2025 , con effetto dall'1/1/2026.",
+      "note_id": "editorial73",
+      "source_article": "Art. 5",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0019#art5-com20",
+            "atto": "fvg:lr:2025:19",
+            "articolo": "5",
+            "comma": "20"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0019#art5-com20"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "1 Comma 119 abrogato da art. 6, comma 9, L. R. 8/2024",
+      "note_id": "editorial74",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "2 Comma 120 abrogato da art. 6, comma 9, L. R. 8/2024",
+      "note_id": "editorial75",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "3 Comma 121 abrogato da art. 6, comma 9, L. R. 8/2024",
+      "note_id": "editorial76",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "4 Comma 122 abrogato da art. 6, comma 9, L. R. 8/2024",
+      "note_id": "editorial77",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "5 Comma 123 abrogato da art. 6, comma 9, L. R. 8/2024",
+      "note_id": "editorial78",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "6 Comma 124 abrogato da art. 6, comma 9, L. R. 8/2024",
+      "note_id": "editorial79",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "7 Comma 125 abrogato da art. 6, comma 9, L. R. 8/2024",
+      "note_id": "editorial80",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "8 Comma 126 abrogato da art. 6, comma 9, L. R. 8/2024",
+      "note_id": "editorial81",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "9 Comma 127 abrogato da art. 6, comma 9, L. R. 8/2024",
+      "note_id": "editorial82",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "10 Parole aggiunte al comma 219 da art. 6, comma 18, lettera a), L. R. 8/2024",
+      "note_id": "editorial83",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com18-let_a",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "18",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com18-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "11 Parole aggiunte al comma 221 da art. 6, comma 18, lettera b), L. R. 8/2024",
+      "note_id": "editorial84",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com18-let_b",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "18",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com18-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "12 Comma 33 bis aggiunto da art. 6, comma 20, L. R. 8/2024",
+      "note_id": "editorial85",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art6-com20",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "6",
+            "comma": "20"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art6-com20"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "13 Parole aggiunte al comma 93 da art. 6, comma 14, L. R. 12/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial86",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0012#art6-com14",
+            "atto": "fvg:lr:2024:12",
+            "articolo": "6",
+            "comma": "14"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0012#art6-com14"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "14 Parole aggiunte al comma 50 da art. 83, comma 1, L. R. 7/2025",
+      "note_id": "editorial87",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0007#art83-com1",
+            "atto": "fvg:lr:2025:7",
+            "articolo": "83",
+            "comma": "1"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0007#art83-com1"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "15 Comma 221 bis aggiunto da art. 6, comma 20, L. R. 13/2025",
+      "note_id": "editorial88",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0013#art6-com20",
+            "atto": "fvg:lr:2025:13",
+            "articolo": "6",
+            "comma": "20"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0013#art6-com20"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "16 Comma 50 sostituito da art. 6, comma 64, lettera a), L. R. 19/2025 , con effetto dall'1/1/2026.",
+      "note_id": "editorial89",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0019#art6-com64-let_a",
+            "atto": "fvg:lr:2025:19",
+            "articolo": "6",
+            "comma": "64",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0019#art6-com64-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "17 Parole sostituite al comma 53 da art. 6, comma 64, lettera b), L. R. 19/2025 , con effetto dall'1/1/2026.",
+      "note_id": "editorial90",
+      "source_article": "Art. 6",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0019#art6-com64-let_b",
+            "atto": "fvg:lr:2025:19",
+            "articolo": "6",
+            "comma": "64",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0019#art6-com64-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "1 Parole soppresse al comma 33 da art. 7, comma 63, lettera a), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial91",
+      "source_article": "Art. 7",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art7-com63-let_a",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "7",
+            "comma": "63",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art7-com63-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "2 Parole aggiunte al comma 33 da art. 7, comma 63, lettera b), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial92",
+      "source_article": "Art. 7",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art7-com63-let_b",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "7",
+            "comma": "63",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art7-com63-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "3 Comma 62 bis aggiunto da art. 7, comma 4, L. R. 12/2025",
+      "note_id": "editorial93",
+      "source_article": "Art. 7",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0012#art7-com4",
+            "atto": "fvg:lr:2025:12",
+            "articolo": "7",
+            "comma": "4"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0012#art7-com4"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "4 Comma 26 abrogato da art. 40, comma 2, lettera f), L. R. 14/2025 , a decorrere dall'1/1/2026.",
+      "note_id": "editorial94",
+      "source_article": "Art. 7",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0014#art40-com2-let_f",
+            "atto": "fvg:lr:2025:14",
+            "articolo": "40",
+            "comma": "2",
+            "lettera": "f"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0014#art40-com2-let_f"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "5 Integrata la disciplina del comma 59 da art. 7, comma 17, L. R. 19/2025 . È prorogato agli anni 2027 e 2028 il sussidio economico annuale a titolo assistenziale.",
+      "note_id": "editorial95",
+      "source_article": "Art. 7",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0019#art7-com17",
+            "atto": "fvg:lr:2025:19",
+            "articolo": "7",
+            "comma": "17"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0019#art7-com17"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "1 Parole sostituite al comma 71 da art. 8, comma 18, L. R. 8/2024",
+      "note_id": "editorial96",
+      "source_article": "Art. 8",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art8-com18",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "8",
+            "comma": "18"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art8-com18"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "2 Parole soppresse al comma 73 da art. 8, comma 20, lettera a), L. R. 8/2024",
+      "note_id": "editorial97",
+      "source_article": "Art. 8",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art8-com20-let_a",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "8",
+            "comma": "20",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art8-com20-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "3 Comma 77 bis aggiunto da art. 8, comma 20, lettera b), L. R. 8/2024",
+      "note_id": "editorial98",
+      "source_article": "Art. 8",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art8-com20-let_b",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "8",
+            "comma": "20",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art8-com20-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "4 Comma 77 ter aggiunto da art. 8, comma 20, lettera b), L. R. 8/2024",
+      "note_id": "editorial99",
+      "source_article": "Art. 8",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art8-com20-let_b",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "8",
+            "comma": "20",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art8-com20-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "5 Comma 77 quater aggiunto da art. 8, comma 20, lettera b), L. R. 8/2024",
+      "note_id": "editorial100",
+      "source_article": "Art. 8",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art8-com20-let_b",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "8",
+            "comma": "20",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art8-com20-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "6 Comma 77 quinquies aggiunto da art. 8, comma 20, lettera b), L. R. 8/2024",
+      "note_id": "editorial101",
+      "source_article": "Art. 8",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art8-com20-let_b",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "8",
+            "comma": "20",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art8-com20-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "7 Parole sostituite al comma 112 da art. 8, comma 43, L. R. 8/2024",
+      "note_id": "editorial102",
+      "source_article": "Art. 8",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art8-com43",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "8",
+            "comma": "43"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art8-com43"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "1 Parole aggiunte al comma 46 da art. 9, comma 2, L. R. 8/2024",
+      "note_id": "editorial103",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com2",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "2"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com2"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "2 Comma 32 interpretato da art. 9, comma 8, L. R. 8/2024 . Il comma 32 del presente articolo si interpreta nel senso che la disciplina di cui all'articolo 15 bis del decreto-legge 2 marzo 2024, n. 19 (Ulteriori disposizioni urgenti per l'attuazione del Piano nazionale di ripresa e resilienza (PNRR)), convertito in legge, con modificazioni, dalla legge 29 aprile 2024, n. 56, trova applicazione dalla data di entrata in vigore dello stesso.",
+      "note_id": "editorial104",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com8",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "8"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com8"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "3 Comma 127 abrogato da art. 9, comma 9, L. R. 8/2024",
+      "note_id": "editorial105",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "4 Comma 128 abrogato da art. 9, comma 9, L. R. 8/2024",
+      "note_id": "editorial106",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "5 Comma 129 abrogato da art. 9, comma 9, L. R. 8/2024",
+      "note_id": "editorial107",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com9",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "9"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com9"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "6 Parole sostituite alla lettera a) del comma 51 da art. 9, comma 10, lettera a), L. R. 8/2024",
+      "note_id": "editorial108",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com10-let_a",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "10",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com10-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "7 Parole sostituite alla lettera b) del comma 51 da art. 9, comma 10, lettera b), L. R. 8/2024",
+      "note_id": "editorial109",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com10-let_b",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "10",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com10-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "8 Parole sostituite alla lettera c) del comma 51 da art. 9, comma 10, lettera c), L. R. 8/2024",
+      "note_id": "editorial110",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com10-let_c",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "10",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com10-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "9 Parole sostituite alla lettera d) del comma 51 da art. 9, comma 10, lettera d), L. R. 8/2024",
+      "note_id": "editorial111",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com10-let_d",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "10",
+            "lettera": "d"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com10-let_d"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "10 Parole sostituite alla lettera e) del comma 51 da art. 9, comma 10, lettera e), L. R. 8/2024",
+      "note_id": "editorial112",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com10-let_e",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "10",
+            "lettera": "e"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com10-let_e"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "11 Parole sostituite alla lettera f) del comma 51 da art. 9, comma 10, lettera f), L. R. 8/2024",
+      "note_id": "editorial113",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com10-let_f",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "10",
+            "lettera": "f"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com10-let_f"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "12 Parole sostituite al comma 52 da art. 9, comma 10, lettera g), L. R. 8/2024",
+      "note_id": "editorial114",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0008#art9-com10-let_g",
+            "atto": "fvg:lr:2024:8",
+            "articolo": "9",
+            "comma": "10",
+            "lettera": "g"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0008#art9-com10-let_g"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "13 Parole soppresse al comma 114 da art. 1, comma 1, lettera a), L. R. 5/2025",
+      "note_id": "editorial115",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0005#art1-com1-let_a",
+            "atto": "fvg:lr:2025:5",
+            "articolo": "1",
+            "comma": "1",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0005#art1-com1-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "14 Parole aggiunte al comma 114 da art. 1, comma 1, lettera a), L. R. 5/2025",
+      "note_id": "editorial116",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0005#art1-com1-let_a",
+            "atto": "fvg:lr:2025:5",
+            "articolo": "1",
+            "comma": "1",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0005#art1-com1-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "15 Comma 114 bis aggiunto da art. 1, comma 1, lettera b), L. R. 5/2025",
+      "note_id": "editorial117",
+      "source_article": "Art. 9",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0005#art1-com1-let_b",
+            "atto": "fvg:lr:2025:5",
+            "articolo": "1",
+            "comma": "1",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0005#art1-com1-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "1 Parole sostituite al comma 15 da art. 10, comma 12, lettera a), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial118",
+      "source_article": "Art. 10",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art10-com12-let_a",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "10",
+            "comma": "12",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art10-com12-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "2 Parole sostituite al comma 17 da art. 10, comma 12, lettera b), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial119",
+      "source_article": "Art. 10",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art10-com12-let_b",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "10",
+            "comma": "12",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art10-com12-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "3 Parole aggiunte al comma 17 da art. 10, comma 12, lettera b), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial120",
+      "source_article": "Art. 10",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art10-com12-let_b",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "10",
+            "comma": "12",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art10-com12-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "4 Comma 17 bis aggiunto da art. 10, comma 12, lettera c), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial121",
+      "source_article": "Art. 10",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art10-com12-let_c",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "10",
+            "comma": "12",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art10-com12-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "5 Comma 17 ter aggiunto da art. 10, comma 12, lettera c), L. R. 13/2024 , con effetto dall'1/1/2025.",
+      "note_id": "editorial122",
+      "source_article": "Art. 10",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2024&legge=0013#art10-com12-let_c",
+            "atto": "fvg:lr:2024:13",
+            "articolo": "10",
+            "comma": "12",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2024&legge=0013#art10-com12-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "6 Parole sostituite al comma 17 da art. 164, comma 1, L. R. 7/2025",
+      "note_id": "editorial123",
+      "source_article": "Art. 10",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0007#art164-com1",
+            "atto": "fvg:lr:2025:7",
+            "articolo": "164",
+            "comma": "1"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0007#art164-com1"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "7 Comma 15 sostituito da art. 10, comma 2, lettera a), L. R. 13/2025",
+      "note_id": "editorial124",
+      "source_article": "Art. 10",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0013#art10-com2-let_a",
+            "atto": "fvg:lr:2025:13",
+            "articolo": "10",
+            "comma": "2",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0013#art10-com2-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "8 Comma 15 bis aggiunto da art. 10, comma 2, lettera b), L. R. 13/2025",
+      "note_id": "editorial125",
+      "source_article": "Art. 10",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0013#art10-com2-let_b",
+            "atto": "fvg:lr:2025:13",
+            "articolo": "10",
+            "comma": "2",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0013#art10-com2-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "9 Comma 15 ter aggiunto da art. 10, comma 2, lettera b), L. R. 13/2025",
+      "note_id": "editorial126",
+      "source_article": "Art. 10",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0013#art10-com2-let_b",
+            "atto": "fvg:lr:2025:13",
+            "articolo": "10",
+            "comma": "2",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0013#art10-com2-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "10 Comma 17 ter abrogato da art. 10, comma 2, lettera c), L. R. 13/2025",
+      "note_id": "editorial127",
+      "source_article": "Art. 10",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0013#art10-com2-let_c",
+            "atto": "fvg:lr:2025:13",
+            "articolo": "10",
+            "comma": "2",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0013#art10-com2-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "1 Parole sostituite al comma 13 da art. 165, comma 1, lettera a), L. R. 7/2025",
+      "note_id": "editorial128",
+      "source_article": "Art. 11",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0007#art165-com1-let_a",
+            "atto": "fvg:lr:2025:7",
+            "articolo": "165",
+            "comma": "1",
+            "lettera": "a"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0007#art165-com1-let_a"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "2 Comma 14 abrogato da art. 165, comma 1, lettera b), L. R. 7/2025",
+      "note_id": "editorial129",
+      "source_article": "Art. 11",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0007#art165-com1-let_b",
+            "atto": "fvg:lr:2025:7",
+            "articolo": "165",
+            "comma": "1",
+            "lettera": "b"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0007#art165-com1-let_b"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "3 Comma 15 bis aggiunto da art. 165, comma 1, lettera c), L. R. 7/2025",
+      "note_id": "editorial130",
+      "source_article": "Art. 11",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0007#art165-com1-let_c",
+            "atto": "fvg:lr:2025:7",
+            "articolo": "165",
+            "comma": "1",
+            "lettera": "c"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0007#art165-com1-let_c"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "4 Parole sostituite al comma 16 da art. 165, comma 1, lettera d), L. R. 7/2025",
+      "note_id": "editorial131",
+      "source_article": "Art. 11",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0007#art165-com1-let_d",
+            "atto": "fvg:lr:2025:7",
+            "articolo": "165",
+            "comma": "1",
+            "lettera": "d"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0007#art165-com1-let_d"
+        }
+      ]
+    },
+    {
+      "category": "editorial_note",
+      "text": "5 Comma 28 abrogato da art. 141, comma 1, lettera ttt), L. R. 17/2025",
+      "note_id": "editorial132",
+      "source_article": "Art. 11",
+      "references": [
+        {
+          "destination": {
+            "uri": "https://lexview-int.regione.fvg.it/FontiNormative/xml/xmllex.aspx?anno=2025&legge=0017#art141-com1-let_ttt",
+            "atto": "fvg:lr:2025:17",
+            "articolo": "141",
+            "comma": "1",
+            "lettera": "ttt"
+          },
+          "status": "risolta",
+          "href": "xmllex.aspx?anno=2025&legge=0017#art141-com1-let_ttt"
+        }
+      ]
+    }
+  ]
+}

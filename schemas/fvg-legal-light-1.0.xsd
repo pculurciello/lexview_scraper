@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xmlns:fvg="urn:fvg:legal:light:1.0"
+           targetNamespace="urn:fvg:legal:light:1.0"
+           elementFormDefault="qualified" version="1.0">
+  <xs:annotation><xs:documentation>FVG Legal XML Light 1.0. Descrizione documentale e citazioni senza qualificazione semantica.</xs:documentation></xs:annotation>
+  <xs:simpleType name="TipoDocumentoType"><xs:restriction base="xs:string">
+    <xs:enumeration value="leggeRegionale"/><xs:enumeration value="regolamento"/>
+    <xs:enumeration value="deliberazioneGiunta"/><xs:enumeration value="decretoPresidente"/>
+    <xs:enumeration value="decretoDirettore"/><xs:enumeration value="decretoAltro"/>
+    <xs:enumeration value="altro"/>
+  </xs:restriction></xs:simpleType>
+  <xs:simpleType name="StatoCitazioneType"><xs:restriction base="xs:string">
+    <xs:enumeration value="risolta"/><xs:enumeration value="parziale"/><xs:enumeration value="nonRisolta"/>
+  </xs:restriction></xs:simpleType>
+  <xs:complexType name="FonteType">
+    <xs:attribute name="url" type="xs:anyURI" use="required"/>
+    <xs:attribute name="formato" type="xs:string"/>
+    <xs:attribute name="dataAcquisizione" type="xs:date"/>
+    <xs:attribute name="sha256" type="xs:string"/>
+  </xs:complexType>
+  <xs:complexType name="PubblicazioneType">
+    <xs:sequence><xs:element name="testata" type="xs:string"/><xs:element name="numero" type="xs:string" minOccurs="0"/><xs:element name="data" type="xs:date" minOccurs="0"/></xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="MetadatiType"><xs:sequence>
+    <xs:element name="tipo" type="fvg:TipoDocumentoType"/>
+    <xs:element name="numero" type="xs:string" minOccurs="0"/>
+    <xs:element name="data" type="xs:date"/>
+    <xs:element name="titolo" type="xs:string"/>
+    <xs:element name="ente" type="xs:string"/>
+    <xs:element name="organo" type="xs:string" minOccurs="0"/>
+    <xs:element name="pubblicazione" type="fvg:PubblicazioneType" minOccurs="0"/>
+    <xs:element name="fonte" type="fvg:FonteType" minOccurs="0" maxOccurs="unbounded"/>
+  </xs:sequence></xs:complexType>
+  <xs:complexType name="TestoType"><xs:simpleContent><xs:extension base="xs:string"><xs:attribute name="id" type="xs:ID"/></xs:extension></xs:simpleContent></xs:complexType>
+  <xs:complexType name="LetteraType"><xs:sequence><xs:element name="testo" type="fvg:TestoType"/></xs:sequence>
+    <xs:attribute name="id" type="xs:ID" use="required"/><xs:attribute name="numero" type="xs:string" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="CommaType"><xs:sequence>
+    <xs:element name="testo" type="fvg:TestoType" minOccurs="0"/>
+    <xs:element name="lettera" type="fvg:LetteraType" minOccurs="0" maxOccurs="unbounded"/>
+  </xs:sequence><xs:attribute name="id" type="xs:ID" use="required"/><xs:attribute name="numero" type="xs:string" use="required"/></xs:complexType>
+  <xs:complexType name="ArticoloType"><xs:sequence>
+    <xs:element name="rubrica" type="xs:string" minOccurs="0"/>
+    <xs:element name="comma" type="fvg:CommaType" minOccurs="0" maxOccurs="unbounded"/>
+  </xs:sequence><xs:attribute name="id" type="xs:ID" use="required"/><xs:attribute name="numero" type="xs:string" use="required"/></xs:complexType>
+  <xs:complexType name="ArticolatoType"><xs:sequence>
+    <xs:element name="preambolo" type="fvg:TestoType" minOccurs="0"/>
+    <xs:element name="articolo" type="fvg:ArticoloType" minOccurs="1" maxOccurs="unbounded"/>
+  </xs:sequence></xs:complexType>
+  <xs:complexType name="PuntoType"><xs:sequence><xs:element name="testo" type="fvg:TestoType"/></xs:sequence>
+    <xs:attribute name="id" type="xs:ID" use="required"/><xs:attribute name="numero" type="xs:string" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="AmministrativoType"><xs:sequence>
+    <xs:element name="premesse" type="fvg:TestoType" minOccurs="0"/>
+    <xs:element name="dispositivo"><xs:complexType><xs:sequence>
+      <xs:element name="punto" type="fvg:PuntoType" minOccurs="1" maxOccurs="unbounded"/>
+    </xs:sequence></xs:complexType></xs:element>
+  </xs:sequence></xs:complexType>
+  <xs:complexType name="ContenutoType"><xs:choice>
+    <xs:element name="articolato" type="fvg:ArticolatoType"/>
+    <xs:element name="amministrativo" type="fvg:AmministrativoType"/>
+    <xs:element name="testoLibero" type="fvg:TestoType"/>
+  </xs:choice></xs:complexType>
+  <xs:complexType name="DestinazioneType">
+    <xs:attribute name="atto" type="xs:string"/>
+    <xs:attribute name="articolo" type="xs:string"/>
+    <xs:attribute name="comma" type="xs:string"/>
+    <xs:attribute name="lettera" type="xs:string"/>
+    <xs:attribute name="punto" type="xs:string"/>
+    <xs:attribute name="uri" type="xs:anyURI"/>
+  </xs:complexType>
+  <xs:complexType name="CitazioneType"><xs:sequence>
+    <xs:element name="destinazione" type="fvg:DestinazioneType" minOccurs="0"/>
+    <xs:element name="testoCitato" type="xs:string" minOccurs="0"/>
+  </xs:sequence>
+    <xs:attribute name="id" type="xs:ID" use="required"/>
+    <xs:attribute name="sorgente" type="xs:IDREF" use="required"/>
+    <xs:attribute name="stato" type="fvg:StatoCitazioneType" use="required"/>
+    <xs:attribute name="inizio" type="xs:nonNegativeInteger"/>
+    <xs:attribute name="fine" type="xs:nonNegativeInteger"/>
+  </xs:complexType>
+  <xs:complexType name="CitazioniType"><xs:sequence><xs:element name="citazione" type="fvg:CitazioneType" minOccurs="0" maxOccurs="unbounded"/></xs:sequence></xs:complexType>
+  <xs:element name="documento"><xs:complexType><xs:sequence>
+    <xs:element name="metadati" type="fvg:MetadatiType"/>
+    <xs:element name="contenuto" type="fvg:ContenutoType"/>
+    <xs:element name="citazioni" type="fvg:CitazioniType" minOccurs="0"/>
+  </xs:sequence><xs:attribute name="id" type="xs:string" use="required"/><xs:attribute name="versioneSchema" type="xs:string" fixed="1.0"/></xs:complexType></xs:element>
+</xs:schema>

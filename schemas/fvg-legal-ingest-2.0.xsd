@@ -1,0 +1,416 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:f="urn:fvg:legal:ingest:2.0" targetNamespace="urn:fvg:legal:ingest:2.0" elementFormDefault="qualified" version="2.0">
+  <xs:simpleType name="uuid">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="json">
+    <xs:restriction base="xs:string"/>
+  </xs:simpleType>
+  <xs:simpleType name="year">
+    <xs:restriction base="xs:integer">
+      <xs:minInclusive value="1800"/>
+      <xs:maxInclusive value="2200"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="confidence">
+    <xs:restriction base="xs:decimal">
+      <xs:minInclusive value="0"/>
+      <xs:maxInclusive value="1"/>
+      <xs:fractionDigits value="4"/>
+      <xs:totalDigits value="5"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="period">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="\[[0-9]{4}-[0-9]{2}-[0-9]{2},([0-9]{4}-[0-9]{2}-[0-9]{2})?\)"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="code30">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="30"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="code40">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="40"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="code50">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="50"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="code60">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="60"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="code80">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="80"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="code100">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="100"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="code120">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="120"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="code128">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="128"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="code255">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="255"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="code700">
+    <xs:restriction base="xs:string">
+      <xs:maxLength value="700"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:complexType name="source_documentType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="jurisdiction" type="f:code50" minOccurs="1"/>
+      <xs:element name="document_type" type="f:code80" minOccurs="1"/>
+      <xs:element name="number" type="f:code80" minOccurs="0"/>
+      <xs:element name="year" type="f:year" minOccurs="0"/>
+      <xs:element name="document_date" type="xs:date" minOccurs="0"/>
+      <xs:element name="title" type="xs:string" minOccurs="0"/>
+      <xs:element name="issuer" type="f:code255" minOccurs="0"/>
+      <xs:element name="publication_type" type="f:code80" minOccurs="0"/>
+      <xs:element name="publication_number" type="f:code80" minOccurs="0"/>
+      <xs:element name="publication_date" type="xs:date" minOccurs="0"/>
+      <xs:element name="official_uri" type="xs:string" minOccurs="0"/>
+      <xs:element name="metadata" type="f:json" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="source_representationType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="source_document_id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="source_system" type="f:code80" minOccurs="1"/>
+      <xs:element name="format" type="f:code30" minOccurs="1"/>
+      <xs:element name="source_url" type="xs:string" minOccurs="1"/>
+      <xs:element name="retrieved_at" type="xs:dateTime" minOccurs="0"/>
+      <xs:element name="content_hash" type="f:code128" minOccurs="0"/>
+      <xs:element name="local_object_key" type="xs:string" minOccurs="0"/>
+      <xs:element name="media_type" type="f:code120" minOccurs="0"/>
+      <xs:element name="character_encoding" type="f:code40" minOccurs="0"/>
+      <xs:element name="is_official" type="xs:boolean" minOccurs="1"/>
+      <xs:element name="legal_authority" type="xs:boolean" minOccurs="1"/>
+      <xs:element name="raw_metadata" type="f:json" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="provision_identityType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="source_document_id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="parent_provision_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="unit_type" type="f:code50" minOccurs="1"/>
+      <xs:element name="unit_label" type="f:code100" minOccurs="1"/>
+      <xs:element name="canonical_key" type="f:code700" minOccurs="1"/>
+      <xs:element name="ordinal" type="xs:integer" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="provision_versionType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="provision_identity_id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="valid_period" type="f:period" minOccurs="1"/>
+      <xs:element name="text" type="xs:string" minOccurs="1"/>
+      <xs:element name="normalized_text" type="xs:string" minOccurs="0"/>
+      <xs:element name="version_number" type="xs:positiveInteger" minOccurs="0"/>
+      <xs:element name="status" type="f:code30" minOccurs="1"/>
+      <xs:element name="introduced_by_document_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="introduced_by_provision_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="metadata" type="f:json" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="document_unitType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="source_representation_id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="provision_version_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="parent_unit_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="unit_type" type="f:code50" minOccurs="1"/>
+      <xs:element name="unit_label" type="f:code100" minOccurs="0"/>
+      <xs:element name="ordinal" type="xs:integer" minOccurs="0"/>
+      <xs:element name="recital_type" type="f:code50" minOccurs="0"/>
+      <xs:element name="raw_text" type="xs:string" minOccurs="0"/>
+      <xs:element name="normalized_text" type="xs:string" minOccurs="0"/>
+      <xs:element name="source_locator" type="f:json" minOccurs="1"/>
+      <xs:element name="parser_confidence" type="f:confidence" minOccurs="0"/>
+      <xs:element name="review_status" type="f:code30" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ingestion_runType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="source_representation_id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="parser_name" type="f:code100" minOccurs="1"/>
+      <xs:element name="parser_version" type="f:code50" minOccurs="1"/>
+      <xs:element name="status" type="f:code30" minOccurs="1"/>
+      <xs:element name="started_at" type="xs:dateTime" minOccurs="1"/>
+      <xs:element name="finished_at" type="xs:dateTime" minOccurs="0"/>
+      <xs:element name="statistics" type="f:json" minOccurs="1"/>
+      <xs:element name="error_detail" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="parser_issueType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="ingestion_run_id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="document_unit_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="issue_type" type="f:code60" minOccurs="1"/>
+      <xs:element name="candidate_text" type="xs:string" minOccurs="1"/>
+      <xs:element name="source_locator" type="f:json" minOccurs="1"/>
+      <xs:element name="parser_context" type="f:json" minOccurs="1"/>
+      <xs:element name="resolution_status" type="f:code30" minOccurs="1"/>
+      <xs:element name="resolution" type="f:json" minOccurs="0"/>
+      <xs:element name="resolved_by" type="f:code100" minOccurs="0"/>
+      <xs:element name="resolved_at" type="xs:dateTime" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="citationType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:choice>
+        <xs:element name="citing_provision_version_id" type="f:uuid"/>
+        <xs:element name="citing_document_unit_id" type="f:uuid"/>
+      </xs:choice>
+      <xs:element name="cited_text" type="xs:string" minOccurs="1"/>
+      <xs:element name="parsed_reference" type="f:json" minOccurs="1"/>
+      <xs:element name="target_document_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="target_provision_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="resolution_status" type="f:code30" minOccurs="1"/>
+      <xs:element name="extraction_method" type="f:code40" minOccurs="1"/>
+      <xs:element name="confidence" type="f:confidence" minOccurs="0"/>
+      <xs:element name="verified_by" type="f:code100" minOccurs="0"/>
+      <xs:element name="verified_at" type="xs:dateTime" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="knowledge_entityType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="entity_type" type="f:code60" minOccurs="1"/>
+      <xs:element name="canonical_key" type="f:code700" minOccurs="1"/>
+      <xs:element name="preferred_label" type="xs:string" minOccurs="1"/>
+      <xs:element name="description" type="xs:string" minOccurs="0"/>
+      <xs:element name="provision_identity_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="attributes" type="f:json" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="legal_assertionType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="assertion_type" type="f:code80" minOccurs="1"/>
+      <xs:element name="statement" type="xs:string" minOccurs="1"/>
+      <xs:element name="subject_entity_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="object_entity_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="source_provision_version_id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="evidence_document_unit_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="extraction_method" type="f:code40" minOccurs="1"/>
+      <xs:element name="verification_status" type="f:code30" minOccurs="1"/>
+      <xs:element name="confidence" type="f:confidence" minOccurs="0"/>
+      <xs:element name="model_info" type="f:json" minOccurs="1"/>
+      <xs:element name="verified_by" type="f:code100" minOccurs="0"/>
+      <xs:element name="verified_at" type="xs:dateTime" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="legal_relationType">
+    <xs:sequence>
+      <xs:element name="id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="subject_entity_id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="predicate" type="f:code80" minOccurs="1"/>
+      <xs:element name="object_entity_id" type="f:uuid" minOccurs="1"/>
+      <xs:element name="source_assertion_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="source_provision_version_id" type="f:uuid" minOccurs="0"/>
+      <xs:element name="verification_status" type="f:code30" minOccurs="1"/>
+      <xs:element name="valid_period" type="f:period" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="legal_ingestion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="source_document" type="f:source_documentType"/>
+        <xs:element name="source_representation" type="f:source_representationType"/>
+        <xs:element name="provision_identities">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="provision_identity" type="f:provision_identityType" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="provision_versions">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="provision_version" type="f:provision_versionType" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="document_units">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="document_unit" type="f:document_unitType" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ingestion_run" type="f:ingestion_runType"/>
+        <xs:element name="parser_issues">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="parser_issue" type="f:parser_issueType" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="citations">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="citation" type="f:citationType" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="knowledge_entities">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="knowledge_entity" type="f:knowledge_entityType" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="legal_assertions">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="legal_assertion" type="f:legal_assertionType" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="legal_relations">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="legal_relation" type="f:legal_relationType" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="schema_version" type="xs:string" fixed="2.0" use="required"/>
+    </xs:complexType>
+    <xs:key name="source_documentIds">
+      <xs:selector xpath="f:source_document"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:key name="source_representationIds">
+      <xs:selector xpath="f:source_representation"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:key name="provision_identityIds">
+      <xs:selector xpath="f:provision_identities/f:provision_identity"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:key name="provision_versionIds">
+      <xs:selector xpath="f:provision_versions/f:provision_version"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:key name="document_unitIds">
+      <xs:selector xpath="f:document_units/f:document_unit"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:key name="ingestion_runIds">
+      <xs:selector xpath="f:ingestion_run"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:key name="parser_issueIds">
+      <xs:selector xpath="f:parser_issues/f:parser_issue"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:key name="citationIds">
+      <xs:selector xpath="f:citations/f:citation"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:key name="knowledge_entityIds">
+      <xs:selector xpath="f:knowledge_entities/f:knowledge_entity"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:key name="legal_assertionIds">
+      <xs:selector xpath="f:legal_assertions/f:legal_assertion"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:key name="legal_relationIds">
+      <xs:selector xpath="f:legal_relations/f:legal_relation"/>
+      <xs:field xpath="f:id"/>
+    </xs:key>
+    <xs:keyref name="source_representation_source_document_id" refer="f:source_documentIds">
+      <xs:selector xpath="f:source_representation"/>
+      <xs:field xpath="f:source_document_id"/>
+    </xs:keyref>
+    <xs:keyref name="provision_identity_source_document_id" refer="f:source_documentIds">
+      <xs:selector xpath="f:provision_identities/f:provision_identity"/>
+      <xs:field xpath="f:source_document_id"/>
+    </xs:keyref>
+    <xs:keyref name="provision_identity_parent_provision_id" refer="f:provision_identityIds">
+      <xs:selector xpath="f:provision_identities/f:provision_identity"/>
+      <xs:field xpath="f:parent_provision_id"/>
+    </xs:keyref>
+    <xs:keyref name="provision_version_provision_identity_id" refer="f:provision_identityIds">
+      <xs:selector xpath="f:provision_versions/f:provision_version"/>
+      <xs:field xpath="f:provision_identity_id"/>
+    </xs:keyref>
+    <xs:keyref name="document_unit_source_representation_id" refer="f:source_representationIds">
+      <xs:selector xpath="f:document_units/f:document_unit"/>
+      <xs:field xpath="f:source_representation_id"/>
+    </xs:keyref>
+    <xs:keyref name="document_unit_parent_unit_id" refer="f:document_unitIds">
+      <xs:selector xpath="f:document_units/f:document_unit"/>
+      <xs:field xpath="f:parent_unit_id"/>
+    </xs:keyref>
+    <xs:keyref name="document_unit_provision_version_id" refer="f:provision_versionIds">
+      <xs:selector xpath="f:document_units/f:document_unit"/>
+      <xs:field xpath="f:provision_version_id"/>
+    </xs:keyref>
+    <xs:keyref name="ingestion_run_source_representation_id" refer="f:source_representationIds">
+      <xs:selector xpath="f:ingestion_run"/>
+      <xs:field xpath="f:source_representation_id"/>
+    </xs:keyref>
+    <xs:keyref name="parser_issue_ingestion_run_id" refer="f:ingestion_runIds">
+      <xs:selector xpath="f:parser_issues/f:parser_issue"/>
+      <xs:field xpath="f:ingestion_run_id"/>
+    </xs:keyref>
+    <xs:keyref name="parser_issue_document_unit_id" refer="f:document_unitIds">
+      <xs:selector xpath="f:parser_issues/f:parser_issue"/>
+      <xs:field xpath="f:document_unit_id"/>
+    </xs:keyref>
+    <xs:keyref name="citation_citing_document_unit_id" refer="f:document_unitIds">
+      <xs:selector xpath="f:citations/f:citation"/>
+      <xs:field xpath="f:citing_document_unit_id"/>
+    </xs:keyref>
+    <xs:keyref name="citation_citing_provision_version_id" refer="f:provision_versionIds">
+      <xs:selector xpath="f:citations/f:citation"/>
+      <xs:field xpath="f:citing_provision_version_id"/>
+    </xs:keyref>
+    <xs:keyref name="legal_assertion_source_provision_version_id" refer="f:provision_versionIds">
+      <xs:selector xpath="f:legal_assertions/f:legal_assertion"/>
+      <xs:field xpath="f:source_provision_version_id"/>
+    </xs:keyref>
+    <xs:keyref name="legal_assertion_evidence_document_unit_id" refer="f:document_unitIds">
+      <xs:selector xpath="f:legal_assertions/f:legal_assertion"/>
+      <xs:field xpath="f:evidence_document_unit_id"/>
+    </xs:keyref>
+    <xs:keyref name="legal_relation_source_assertion_id" refer="f:legal_assertionIds">
+      <xs:selector xpath="f:legal_relations/f:legal_relation"/>
+      <xs:field xpath="f:source_assertion_id"/>
+    </xs:keyref>
+    <xs:keyref name="legal_relation_source_provision_version_id" refer="f:provision_versionIds">
+      <xs:selector xpath="f:legal_relations/f:legal_relation"/>
+      <xs:field xpath="f:source_provision_version_id"/>
+    </xs:keyref>
+  </xs:element>
+</xs:schema>

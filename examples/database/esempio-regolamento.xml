@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<legal_ingestion xmlns="urn:fvg:legal:ingest:2.0" schema_version="2.0">
+  <source_document>
+    <id>a380cdf0-7aaf-5f66-86df-597e000f2f05</id>
+    <jurisdiction>IT-FVG</jurisdiction>
+    <document_type>REG</document_type>
+    <number>100</number>
+    <year>2025</year>
+    <document_date>2025-02-10</document_date>
+    <title>Esempio fittizio di regolamento</title>
+    <issuer>Regione autonoma Friuli Venezia Giulia</issuer>
+    <metadata>{"canonical_key": "IT-FVG:REG:2025:100", "organ": null}</metadata>
+  </source_document>
+  <source_representation>
+    <id>d227b177-ede8-5670-b25c-fefe6ff9acb7</id>
+    <source_document_id>a380cdf0-7aaf-5f66-86df-597e000f2f05</source_document_id>
+    <source_system>SYNTHETIC_FIXTURE</source_system>
+    <format>HTML</format>
+    <source_url>file:///workspace/codex/examples/database/esempio-regolamento.htm</source_url>
+    <content_hash>031de478ceee5e3be94334a9ed02685b59c15ca7b12f19f59aa99727239fd6f7</content_hash>
+    <local_object_key>/workspace/codex/examples/database/esempio-regolamento.htm</local_object_key>
+    <media_type>text/html</media_type>
+    <character_encoding>utf-8</character_encoding>
+    <is_official>false</is_official>
+    <legal_authority>false</legal_authority>
+    <raw_metadata>{"authority_assessment": "NOT_ESTABLISHED_FROM_HTML", "raw_artifact_preserved": true, "retrieval_time_known": false, "temporal_scope": {"basis": "DOCUMENT_SNAPSHOT", "known": false, "label": null, "provision_validity_inferred": false}}</raw_metadata>
+  </source_representation>
+  <provision_identities>
+    <provision_identity>
+      <id>1fae6c2c-5472-53d5-a6f6-0ae3aef009b3</id>
+      <source_document_id>a380cdf0-7aaf-5f66-86df-597e000f2f05</source_document_id>
+      <unit_type>ARTICLE</unit_type>
+      <unit_label>1</unit_label>
+      <canonical_key>IT-FVG:REG:2025:100:ART1</canonical_key>
+      <ordinal>2</ordinal>
+    </provision_identity>
+    <provision_identity>
+      <id>86d9e8ee-8d0e-5580-8d16-454cd3d4dd36</id>
+      <source_document_id>a380cdf0-7aaf-5f66-86df-597e000f2f05</source_document_id>
+      <parent_provision_id>1fae6c2c-5472-53d5-a6f6-0ae3aef009b3</parent_provision_id>
+      <unit_type>PARAGRAPH</unit_type>
+      <unit_label>1</unit_label>
+      <canonical_key>IT-FVG:REG:2025:100:ART1:COM1</canonical_key>
+      <ordinal>2</ordinal>
+    </provision_identity>
+  </provision_identities>
+  <provision_versions/>
+  <document_units>
+    <document_unit>
+      <id>da9e12eb-a120-5e9d-b069-5fc5743d188d</id>
+      <source_representation_id>d227b177-ede8-5670-b25c-fefe6ff9acb7</source_representation_id>
+      <unit_type>DOCUMENT</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{"context": "BODY", "html_xpath": "/html/body"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>dc7f5df0-f07d-52d2-9c4f-17134b70a361</id>
+      <source_representation_id>d227b177-ede8-5670-b25c-fefe6ff9acb7</source_representation_id>
+      <parent_unit_id>da9e12eb-a120-5e9d-b069-5fc5743d188d</parent_unit_id>
+      <unit_type>HEADER</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>Regolamento regionale 10 febbraio 2025, n. 100Esempio fittizio di regolamento</raw_text>
+      <normalized_text>Regolamento regionale 10 febbraio 2025, n. 100Esempio fittizio di regolamento</normalized_text>
+      <source_locator>{"context": "BODY", "html_xpath": "/html/body/div[1]"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>394af702-f1e7-5db8-af54-68fc1547479a</id>
+      <source_representation_id>d227b177-ede8-5670-b25c-fefe6ff9acb7</source_representation_id>
+      <parent_unit_id>da9e12eb-a120-5e9d-b069-5fc5743d188d</parent_unit_id>
+      <unit_type>ARTICLE</unit_type>
+      <unit_label>1</unit_label>
+      <ordinal>2</ordinal>
+      <raw_text>Art. 1</raw_text>
+      <normalized_text>Art. 1</normalized_text>
+      <source_locator>{"candidate_provision_identity_id": "1fae6c2c-5472-53d5-a6f6-0ae3aef009b3", "candidate_provision_key": "IT-FVG:REG:2025:100:ART1", "context": "BODY", "html_xpath": "/html/body/div[2]"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>48f49230-43b4-599b-ad4a-657a8357fa63</id>
+      <source_representation_id>d227b177-ede8-5670-b25c-fefe6ff9acb7</source_representation_id>
+      <parent_unit_id>394af702-f1e7-5db8-af54-68fc1547479a</parent_unit_id>
+      <unit_type>HEADING</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>Oggetto</raw_text>
+      <normalized_text>Oggetto</normalized_text>
+      <source_locator>{"context": "BODY", "html_xpath": "/html/body/div[2]/div[1]"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>b2442663-7e28-5c89-9ef9-445509761725</id>
+      <source_representation_id>d227b177-ede8-5670-b25c-fefe6ff9acb7</source_representation_id>
+      <parent_unit_id>394af702-f1e7-5db8-af54-68fc1547479a</parent_unit_id>
+      <unit_type>PARAGRAPH</unit_type>
+      <unit_label>1</unit_label>
+      <ordinal>2</ordinal>
+      <raw_text>1.Disposizione di esempio.</raw_text>
+      <normalized_text>1.Disposizione di esempio.</normalized_text>
+      <source_locator>{"candidate_provision_identity_id": "86d9e8ee-8d0e-5580-8d16-454cd3d4dd36", "candidate_provision_key": "IT-FVG:REG:2025:100:ART1:COM1", "context": "BODY", "html_xpath": "/html/body/div[2]/div[2]"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+  </document_units>
+  <ingestion_run>
+    <id>1f2d87d2-e575-42aa-b165-88ae415f2da1</id>
+    <source_representation_id>d227b177-ede8-5670-b25c-fefe6ff9acb7</source_representation_id>
+    <parser_name>html_to_database_xml</parser_name>
+    <parser_version>2.0.0</parser_version>
+    <status>COMPLETED_WITH_ISSUES</status>
+    <started_at>2026-10-22T15:08:54.331723+00:00</started_at>
+    <finished_at>2026-10-22T15:08:54.333126+00:00</finished_at>
+    <statistics>{"citation_scope": "HTML_LINKS_ONLY", "counts": {"citation": 0, "document_unit": 5, "ingestion_run": 1, "knowledge_entity": 0, "legal_assertion": 0, "legal_relation": 0, "parser_issue": 2, "provision_identity": 2, "provision_version": 0, "source_document": 1, "source_representation": 1}, "provision_versions_materialized": false, "semantic_relations_inferred": false}</statistics>
+  </ingestion_run>
+  <parser_issues>
+    <parser_issue>
+      <id>c9c16229-e0ff-5ff2-a1a5-67781cc0a78b</id>
+      <ingestion_run_id>1f2d87d2-e575-42aa-b165-88ae415f2da1</ingestion_run_id>
+      <issue_type>UNKNOWN_RETRIEVAL_TIME</issue_type>
+      <candidate_text></candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"policy": "Do not substitute conversion time for acquisition time"}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>c475a2db-6ae1-528c-9b94-1120beadf8f2</id>
+      <ingestion_run_id>1f2d87d2-e575-42aa-b165-88ae415f2da1</ingestion_run_id>
+      <issue_type>PROVISION_VALIDITY_NOT_INFERRED</issue_type>
+      <candidate_text>Regolamento regionale 10 febbraio 2025, n. 100 Esempio fittizio di regolamento</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"policy": "Keep document_unit.provision_version_id NULL until temporal reconciliation", "snapshot_scope": {"basis": "DOCUMENT_SNAPSHOT", "known": false, "label": null, "provision_validity_inferred": false}}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+  </parser_issues>
+  <citations/>
+  <knowledge_entities/>
+  <legal_assertions/>
+  <legal_relations/>
+</legal_ingestion>

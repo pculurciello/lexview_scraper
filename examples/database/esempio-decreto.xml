@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<legal_ingestion xmlns="urn:fvg:legal:ingest:2.0" schema_version="2.0">
+  <source_document>
+    <id>e2190c6d-21c2-5e2e-81df-95aebd8464c8</id>
+    <jurisdiction>IT-FVG</jurisdiction>
+    <document_type>DD</document_type>
+    <number>100</number>
+    <year>2025</year>
+    <document_date>2025-02-10</document_date>
+    <title>Esempio fittizio di decreto</title>
+    <issuer>Regione autonoma Friuli Venezia Giulia</issuer>
+    <metadata>{"canonical_key": "IT-FVG:DD:2025:100", "organ": null}</metadata>
+  </source_document>
+  <source_representation>
+    <id>001e459e-bf5b-5f32-9a0c-1c95a743a091</id>
+    <source_document_id>e2190c6d-21c2-5e2e-81df-95aebd8464c8</source_document_id>
+    <source_system>SYNTHETIC_FIXTURE</source_system>
+    <format>HTML</format>
+    <source_url>file:///workspace/codex/examples/database/esempio-decreto.htm</source_url>
+    <content_hash>00efb803c1fee964844045cbb092d82c5f6d5dd6283de3dc89bef172567b5fde</content_hash>
+    <local_object_key>/workspace/codex/examples/database/esempio-decreto.htm</local_object_key>
+    <media_type>text/html</media_type>
+    <character_encoding>utf-8</character_encoding>
+    <is_official>false</is_official>
+    <legal_authority>false</legal_authority>
+    <raw_metadata>{"authority_assessment": "NOT_ESTABLISHED_FROM_HTML", "raw_artifact_preserved": true, "retrieval_time_known": false, "temporal_scope": {"basis": "DOCUMENT_SNAPSHOT", "known": false, "label": null, "provision_validity_inferred": false}}</raw_metadata>
+  </source_representation>
+  <provision_identities>
+    <provision_identity>
+      <id>f1ffba80-5320-5384-a38e-5ca6e9babc8f</id>
+      <source_document_id>e2190c6d-21c2-5e2e-81df-95aebd8464c8</source_document_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>1</unit_label>
+      <canonical_key>IT-FVG:DD:2025:100:PUNTO1</canonical_key>
+      <ordinal>1</ordinal>
+    </provision_identity>
+  </provision_identities>
+  <provision_versions/>
+  <document_units>
+    <document_unit>
+      <id>95957ccc-70eb-575d-ba66-4098c6578462</id>
+      <source_representation_id>001e459e-bf5b-5f32-9a0c-1c95a743a091</source_representation_id>
+      <unit_type>DOCUMENT</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{"context": "BODY", "html_xpath": "/html/body"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>ee41324c-5c71-5068-a44a-fbdbce1cbce1</id>
+      <source_representation_id>001e459e-bf5b-5f32-9a0c-1c95a743a091</source_representation_id>
+      <parent_unit_id>95957ccc-70eb-575d-ba66-4098c6578462</parent_unit_id>
+      <unit_type>HEADER</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>Decreto del Direttore 10 febbraio 2025, n. 100Esempio fittizio di decreto</raw_text>
+      <normalized_text>Decreto del Direttore 10 febbraio 2025, n. 100Esempio fittizio di decreto</normalized_text>
+      <source_locator>{"context": "BODY", "html_xpath": "/html/body/div[1]"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>05676dbe-1c46-5039-ba14-38b8dde4fe7c</id>
+      <source_representation_id>001e459e-bf5b-5f32-9a0c-1c95a743a091</source_representation_id>
+      <parent_unit_id>95957ccc-70eb-575d-ba66-4098c6578462</parent_unit_id>
+      <unit_type>PREAMBLE</unit_type>
+      <ordinal>2</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{"context": "BODY", "html_xpath": "/html/body/div[2]"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>bd25ebfe-df18-5077-b95d-9ef37841111a</id>
+      <source_representation_id>001e459e-bf5b-5f32-9a0c-1c95a743a091</source_representation_id>
+      <parent_unit_id>05676dbe-1c46-5039-ba14-38b8dde4fe7c</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>1</ordinal>
+      <recital_type>VISTO</recital_type>
+      <raw_text>VISTO l’articolo 4, comma 3, della legge regionale 26/2015.</raw_text>
+      <normalized_text>VISTO l’articolo 4, comma 3, della legge regionale 26/2015.</normalized_text>
+      <source_locator>{"context": "BODY", "html_xpath": "/html/body/div[2]/p[1]"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>224e2881-20ac-5b73-8573-cc19fa82dc6e</id>
+      <source_representation_id>001e459e-bf5b-5f32-9a0c-1c95a743a091</source_representation_id>
+      <parent_unit_id>05676dbe-1c46-5039-ba14-38b8dde4fe7c</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>2</ordinal>
+      <recital_type>CONSIDERATA</recital_type>
+      <raw_text>CONSIDERATA la necessità descritta.</raw_text>
+      <normalized_text>CONSIDERATA la necessità descritta.</normalized_text>
+      <source_locator>{"context": "BODY", "html_xpath": "/html/body/div[2]/p[2]"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>5234b559-8208-5880-9bf3-36fca5125b1f</id>
+      <source_representation_id>001e459e-bf5b-5f32-9a0c-1c95a743a091</source_representation_id>
+      <parent_unit_id>95957ccc-70eb-575d-ba66-4098c6578462</parent_unit_id>
+      <unit_type>OPERATIVE_SECTION</unit_type>
+      <ordinal>3</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{"context": "BODY", "html_xpath": "/html/body/div[3]"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>fb266560-a686-5a16-b473-3252e571df0f</id>
+      <source_representation_id>001e459e-bf5b-5f32-9a0c-1c95a743a091</source_representation_id>
+      <parent_unit_id>5234b559-8208-5880-9bf3-36fca5125b1f</parent_unit_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>1</unit_label>
+      <ordinal>1</ordinal>
+      <raw_text>1.Di approvare i criteri di esempio.</raw_text>
+      <normalized_text>1.Di approvare i criteri di esempio.</normalized_text>
+      <source_locator>{"candidate_provision_identity_id": "f1ffba80-5320-5384-a38e-5ca6e9babc8f", "candidate_provision_key": "IT-FVG:DD:2025:100:PUNTO1", "context": "BODY", "html_xpath": "/html/body/div[3]/p"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+  </document_units>
+  <ingestion_run>
+    <id>a6054f15-33a6-4d64-8ed3-7dddcac60fa0</id>
+    <source_representation_id>001e459e-bf5b-5f32-9a0c-1c95a743a091</source_representation_id>
+    <parser_name>html_to_database_xml</parser_name>
+    <parser_version>2.0.0</parser_version>
+    <status>COMPLETED_WITH_ISSUES</status>
+    <started_at>2026-10-22T15:08:54.278041+00:00</started_at>
+    <finished_at>2026-10-22T15:08:54.280302+00:00</finished_at>
+    <statistics>{"citation_scope": "HTML_LINKS_ONLY", "counts": {"citation": 1, "document_unit": 7, "ingestion_run": 1, "knowledge_entity": 0, "legal_assertion": 0, "legal_relation": 0, "parser_issue": 2, "provision_identity": 1, "provision_version": 0, "source_document": 1, "source_representation": 1}, "provision_versions_materialized": false, "semantic_relations_inferred": false}</statistics>
+  </ingestion_run>
+  <parser_issues>
+    <parser_issue>
+      <id>3ad1a329-edab-54a4-be9d-dde6ffa30412</id>
+      <ingestion_run_id>a6054f15-33a6-4d64-8ed3-7dddcac60fa0</ingestion_run_id>
+      <issue_type>UNKNOWN_RETRIEVAL_TIME</issue_type>
+      <candidate_text></candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"policy": "Do not substitute conversion time for acquisition time"}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>dc7b2e97-e4c5-5234-894f-f96a25e2f956</id>
+      <ingestion_run_id>a6054f15-33a6-4d64-8ed3-7dddcac60fa0</ingestion_run_id>
+      <issue_type>PROVISION_VALIDITY_NOT_INFERRED</issue_type>
+      <candidate_text>Decreto del Direttore 10 febbraio 2025, n. 100 Esempio fittizio di decreto</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"policy": "Keep document_unit.provision_version_id NULL until temporal reconciliation", "snapshot_scope": {"basis": "DOCUMENT_SNAPSHOT", "known": false, "label": null, "provision_validity_inferred": false}}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+  </parser_issues>
+  <citations>
+    <citation>
+      <id>a72cd383-49d0-5487-92c9-9b41c3f066e2</id>
+      <citing_document_unit_id>bd25ebfe-df18-5077-b95d-9ef37841111a</citing_document_unit_id>
+      <cited_text>articolo 4, comma 3, della legge regionale 26/2015</cited_text>
+      <parsed_reference>{"articolo": "4", "atto": "fvg:lr:2015:26", "comma": "3", "context": "BODY", "link_parse_status": "PARSED", "link_text": "articolo 4, comma 3, della legge regionale 26/2015", "original_href": "xmllex.aspx?anno=2015&amp;legge=26#art4-com3", "target_document_key": "IT-FVG:LR:2015:26", "target_provision_key": "IT-FVG:LR:2015:26:ART4:COM3", "uri": "file:///workspace/codex/examples/database/xmllex.aspx?anno=2015&amp;legge=26#art4-com3"}</parsed_reference>
+      <resolution_status>UNRESOLVED</resolution_status>
+      <extraction_method>HTML_LINK</extraction_method>
+    </citation>
+  </citations>
+  <knowledge_entities/>
+  <legal_assertions/>
+  <legal_relations/>
+</legal_ingestion>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento xmlns="urn:fvg:legal:light:1.0" id="fvg:lr:2024:123" versioneSchema="1.0">
+  <metadati>
+    <tipo>leggeRegionale</tipo><numero>123</numero><data>2024-07-15</data>
+    <titolo>Legge regionale di esempio (fittizia)</titolo>
+    <ente>Regione autonoma Friuli Venezia Giulia</ente><organo>Consiglio regionale</organo>
+    <fonte url="https://example.org/legge" formato="HTML"/>
+  </metadati>
+  <contenuto><articolato>
+    <articolo id="art7" numero="7"><rubrica>Contributi</rubrica>
+      <comma id="art7_com1" numero="1"><testo>La Regione concede contributi ai soggetti aventi diritto.</testo></comma>
+      <comma id="art7_com2" numero="2"><testo>Si applica l'articolo 4 della legge regionale 456/2020.</testo>
+        <lettera id="art7_com2_leta" numero="a"><testo>Ulteriori condizioni stabilite dalla disciplina vigente.</testo></lettera>
+      </comma>
+    </articolo>
+  </articolato></contenuto>
+  <citazioni><citazione id="cit1" sorgente="art7_com2" stato="risolta">
+    <destinazione atto="fvg:lr:2020:456" articolo="4"/>
+    <testoCitato>articolo 4 della legge regionale 456/2020</testoCitato>
+  </citazione></citazioni>
+</documento>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento xmlns="urn:fvg:legal:light:1.0" id="fvg:dgr:2025:100" versioneSchema="1.0">
+  <metadati><tipo>deliberazioneGiunta</tipo><numero>100</numero><data>2025-02-10</data>
+    <titolo>Deliberazione di esempio (fittizia)</titolo><ente>Regione autonoma Friuli Venezia Giulia</ente>
+    <organo>Giunta regionale</organo></metadati>
+  <contenuto><amministrativo><premesse id="premesse1">Vista la normativa regionale applicabile.</premesse>
+    <dispositivo><punto id="punto1" numero="1"><testo>Di approvare i criteri indicati in allegato.</testo></punto>
+    <punto id="punto2" numero="2"><testo>Di dare attuazione alla legge regionale citata nelle premesse.</testo></punto></dispositivo>
+  </amministrativo></contenuto>
+  <citazioni><citazione id="cit2" sorgente="punto2" stato="nonRisolta"><testoCitato>legge regionale citata nelle premesse</testoCitato></citazione></citazioni>
+</documento>
