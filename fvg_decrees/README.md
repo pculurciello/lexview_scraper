@@ -55,7 +55,7 @@ The two supplied examples produce:
 
 Both exports are included under `examples/` and validated against the XSD.
 The 2013 recital ending “integrazioni;” continues across two pages and is kept as
-one unit. Separate local verification covered the supplied attachments: the 2026 regulation
+one unit. The committed XML examples include the supplied attachments: the 2026 regulation
 (18 pages) and the 2013 planning opinion (5 pages). They remain distinct from the
 decree body and do not create decree provision identities.
 
@@ -97,4 +97,4 @@ are rejected. Existing outputs survive extraction or validation failures.
 The tests cover annex page numbering, text, provenance, and failed-annex
 output preservation. Run `python -m unittest -v test_pdf_decree` from this directory.
 
-The committed XML examples remain decree-only. Use `--annex` to regenerate them locally with attachments.
+The committed XML examples include decree and annex text. Their local source URIs and object keys use portable `inputs/` references; place the original PDFs there to resolve those references. SHA-256 values identify the original bytes.

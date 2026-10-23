@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 36438)
+Total output lines: 1503
+
 <?xml version='1.0' encoding='UTF-8'?>
 <legal_ingestion xmlns="urn:fvg:legal:ingest:2.0" schema_version="2.0">
   <source_document>
@@ -9,20 +12,20 @@
     <document_date>2026-02-02</document_date>
     <title>REGOLAMENTO RECANTE CRITERI DI DETERMINAZIONE E DI RIPARTO DEGLI INCENTIVI ALLE FUNZIONI TECNICHE PER LAFFIDAMENTO DI LAVORI, DI SERVIZI E FORNITURE DI CUI ALLARTICOLO 45 DEL DECRETO LEGISLATIVO 31 MARZO 2023, N. 36 (CODICE DEI CONTRATTI PUBBLICI)</title>
     <issuer>Presidente della Regione autonoma Friuli Venezia Giulia</issuer>
-    <metadata>{"canonical_key": "IT-FVG:DPREG:2026:13", "copy_statement": "Copia dell'originale firmato digitalmente.", "countersigners": [{"date": "2026-02-02", "name": "ANNA D' AMBROSIO"}, {"date": "2026-02-02", "name": "GIANPAOLO GASPARI"}], "document_date": "2026-02-02", "metadata_source": {"pdf_page": 1}, "number": "13", "place": "Trieste", "printed_number": "013", "signatories": [{"date": "2026-02-02", "name": "MASSIMILIANO FEDRIGA"}], "signature_cryptographically_verified": false, "title": "REGOLAMENTO RECANTE CRITERI DI DETERMINAZIONE E DI RIPARTO DEGLI INCENTIVI ALLE FUNZIONI TECNICHE PER LAFFIDAMENTO DI LAVORI, DI SERVIZI E FORNITURE DI CUI ALLARTICOLO 45 DEL DECRETO LEGISLATIVO 31 MARZO 2023, N. 36 (CODICE DEI CONTRATTI PUBBLICI)"}</metadata>
+    <metadata>{"attachments": [{"attachment_index": 1, "completeness_verified": false, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "filename": "ALLEGATO1 AL DPREG 013-2026.pdf", "page_count": 18, "pdf_metadata": {"Author": "Fratte Alessia", "CreationDate": "Fri Jan 30 12:00:21 2026 UTC", "Creator": "Acrobat PDFMaker 9.1 for Word", "Custom Metadata": "yes", "Encrypted": "no", "File size": "172320 bytes", "Form": "none", "JavaScript": "no", "Keywords": "", "Metadata Stream": "yes", "ModDate": "Mon Feb  2 13:54:24 2026 UTC", "Optimized": "no", "PDF version": "1.7", "Page rot": "0", "Page size": "595.32 x 841.92 pts (A4)", "Pages": "18", "Producer": "Adobe LiveCycle PDF Generator ES2", "Subject": "", "Suspects": "no", "Tagged": "no", "Title": "", "UserProperties": "no"}, "relationship_basis": "USER_SUPPLIED", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}], "canonical_key": "IT-FVG:DPREG:2026:13", "copy_statement": "Copia dell'originale firmato digitalmente.", "countersigners": [{"date": "2026-02-02", "name": "ANNA D' AMBROSIO"}, {"date": "2026-02-02", "name": "GIANPAOLO GASPARI"}], "document_date": "2026-02-02", "metadata_source": {"pdf_page": 1}, "number": "13", "place": "Trieste", "printed_number": "013", "signatories": [{"date": "2026-02-02", "name": "MASSIMILIANO FEDRIGA"}], "signature_cryptographically_verified": false, "title": "REGOLAMENTO RECANTE CRITERI DI DETERMINAZIONE E DI RIPARTO DEGLI INCENTIVI ALLE FUNZIONI TECNICHE PER LAFFIDAMENTO DI LAVORI, DI SERVIZI E FORNITURE DI CUI ALLARTICOLO 45 DEL DECRETO LEGISLATIVO 31 MARZO 2023, N. 36 (CODICE DEI CONTRATTI PUBBLICI)"}</metadata>
   </source_document>
   <source_representation>
     <id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</id>
     <source_document_id>90a3f3cd-6f00-55c4-bd78-f79483d7ee82</source_document_id>
     <source_system>FVG_DPREG_PDF</source_system>
     <format>PDF</format>
-    <source_url>file:///workspace/attachments/7b00fda7-05e9-4579-b10e-39774b9ee070/TESTO%20INTEGRALE%20DEL%20DPREG%20013-2026.pdf</source_url>
+    <source_url>inputs/TESTO%20INTEGRALE%20DEL%20DPREG%20013-2026.pdf</source_url>
     <content_hash>fdc258b4778bea576fb61a1d788b4ee5f23e4ae606db82d45a15d4c451f5e295</content_hash>
-    <local_object_key>/workspace/attachments/7b00fda7-05e9-4579-b10e-39774b9ee070/TESTO INTEGRALE DEL DPREG 013-2026.pdf</local_object_key>
+    <local_object_key>inputs/TESTO INTEGRALE DEL DPREG 013-2026.pdf</local_object_key>
     <media_type>application/pdf</media_type>
     <is_official>false</is_official>
     <legal_authority>false</legal_authority>
-    <raw_metadata>{"authority_assessment": "NOT_ESTABLISHED_FROM_UPLOADED_COPY", "extractor": "pdftotext -layout", "page_count": 2, "pdf_metadata": {"CreationDate": "Mon Feb  2 15:56:32 2026 UTC", "Custom Metadata": "no", "Encrypted": "no", "File size": "77056 bytes", "Form": "none", "JavaScript": "no", "Metadata Stream": "no", "ModDate": "Mon Feb  2 15:56:32 2026 UTC", "Optimized": "no", "PDF version": "1.4", "Page rot": "0", "Page size": "595 x 842 pts (A4)", "Pages": "2", "Producer": "iText 2.1.7 by 1T3XT", "Suspects": "no", "Tagged": "no", "UserProperties": "no"}, "provision_validity_inferred": false, "raw_artifact_preserved": true}</raw_metadata>
+    <raw_metadata>{"attachment_policy": "Separate PDF artifacts carried as ANNEX children; locators identify their own files, not decree pages.", "authority_assessment": "NOT_ESTABLISHED_FROM_UPLOADED_COPY", "extractor": "pdftotext -layout", "page_count": 2, "pdf_metadata": {"CreationDate": "Mon Feb  2 15:56:32 2026 UTC", "Custom Metadata": "no", "Encrypted": "no", "File size": "77056 bytes", "Form": "none", "JavaScript": "no", "Metadata Stream": "no", "ModDate": "Mon Feb  2 15:56:32 2026 UTC", "Optimized": "no", "PDF version": "1.4", "Page rot": "0", "Page size": "595 x 842 pts (A4)", "Pages": "2", "Producer": "iText 2.1.7 by 1T3XT", "Suspects": "no", "Tagged": "no", "UserProperties": "no"}, "provision_validity_inferred": false, "raw_artifact_preserved": true}</raw_metadata>
   </source_representation>
   <provision_identities>
     <provision_identity>
@@ -296,21 +299,946 @@ Regione.</raw_text>
       <source_locator>{"pdf_lines": [{"line": 29, "page": 2}]}</source_locator>
       <review_status>UNREVIEWED</review_status>
     </document_unit>
+    <document_unit>
+      <id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>1578cf8b-7e60-5888-bfe8-6d4767404478</parent_unit_id>
+      <unit_type>ANNEX</unit_type>
+      <unit_label>1</unit_label>
+      <ordinal>7</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{"attachment_index": 1}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>dc544e6c-63f5-5e8d-b49f-addf544cd786</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>Regolamento recante criteri di determinazione e di riparto degli incentivi alle
+funzioni tecniche per l’affidamento di lavori, servizi e forniture di cui all’articolo 45
+del decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici)
+
+
+INDICE
+
+Art. 1 – Oggetto e finalità
+
+Art. 2 – Ambito di applicazione
+
+Art. 3 – Determinazione delle risorse
+
+Art. 4 – Gruppo di lavoro
+
+Art. 5 – Limite soggettivo dell’incentivo
+
+Art. 6 – Centrale unica di committenza e Soggetto aggregatore regionale
+
+Art. 7 – Ripartizione e liquidazione dell’incentivo per funzioni tecniche della Centrale unica di committenza
+regionale
+
+Art. 8 - Rete delle stazioni appaltanti
+
+Art. 9 – Misura delle risorse per lavori/opere
+
+Art. 10 – Misura delle risorse per servizi e forniture
+
+Art. 11 - Riduzione degli incentivi a fronte di incrementi dei costi e dei tempi previsti
+
+Art. 12 – Attività affidate a personale esterno o di altra pubblica amministrazione
+
+Art. 13 – Determinazione dell’incentivo per lavori/opere
+
+Art. 14 - Determinazione incentivo per servizi/forniture
+
+Art. 15 – Proposta di ripartizione degli incentivi
+
+Art. 16 – Accertamento delle attività svolte, ripartizione e liquidazione dell’incentivo
+
+Art. 17 – Ordine di pagamento ed erogazione dell’incentivo
+
+Art. 18 – Tempistica per l’erogazione dell’incentivo
+
+Art. 19 – Disposizioni di rinvio
+
+Art. 20 – Abrogazioni e disposizioni transitorie
+
+Art. 21 - Entrata in vigore e applicazione
+</raw_text>
+      <normalized_text>Regolamento recante criteri di determinazione e di riparto degli incentivi alle funzioni tecniche per l’affidamento di lavori, servizi e forniture di cui all’articolo 45 del decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici) INDICE Art. 1 – Oggetto e finalità Art. 2 – Ambito di applicazione Art. 3 – Determinazione delle risorse Art. 4 – Gruppo di lavoro Art. 5 – Limite soggettivo dell’incentivo Art. 6 – Centrale unica di committenza e Soggetto aggregatore regionale Art. 7 – Ripartizione e liquidazione dell’incentivo per funzioni tecniche della Centrale unica di committenza regionale Art. 8 - Rete delle stazioni appaltanti Art. 9 – Misura delle risorse per lavori/opere Art. 10 – Misura delle risorse per servizi e forniture Art. 11 - Riduzione degli incentivi a fronte di incrementi dei costi e dei tempi previsti Art. 12 – Attività affidate a personale esterno o di altra pubblica amministrazione Art. 13 – Determinazione dell’incentivo per lavori/opere Art. 14 - Determinazione incentivo per servizi/forniture Art. 15 – Proposta di ripartizione degli incentivi Art. 16 – Accertamento delle attività svolte, ripartizione e liquidazione dell’incentivo Art. 17 – Ordine di pagamento ed erogazione dell’incentivo Art. 18 – Tempistica per l’erogazione dell’incentivo Art. 19 – Disposizioni di rinvio Art. 20 – Abrogazioni e disposizioni transitorie Art. 21 - Entrata in vigore e applicazione</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 1, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>7fab6c14-5c88-50b0-9cd3-9ee4e2f90937</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>2</ordinal>
+      <raw_text>                                                       Art. 1
+                                                 (Oggetto e finalità)
+
+
+1.      Il presente regolamento disciplina i criteri di determinazione e di riparto degli incentivi alle funzioni
+tecniche nell’ambito dell’affidamento di lavori, servizi e forniture, di cui all’articolo 45 del decreto legislativo 31
+marzo 2023, n. 36 (Codice dei contratti pubblici), ai sensi dell’articolo 151 della legge regionale 3 giugno 2025, n. 7
+(Disposizioni multisettoriali), in attuazione dell’articolo 11 della legge regionale 31 maggio 2002, n. 14 (Disciplina
+organica dei lavori pubblici), compresi gli incentivi relativi a contratti di concessione e contratti di partenariato
+pubblico-privato e gli incentivi dell’articolo 11, commi da 13 a 16, della legge regionale 7 agosto 2024, n. 7
+(Assestamento del bilancio per gli anni 2024-2026, ai sensi dell’articolo 6 della legge regionale 10 novembre
+2015, n. 26).
+
+2.      L’attribuzione delle risorse per le funzioni tecniche è finalizzata all’incremento delle professionalità
+interne all’Amministrazione regionale e agli Enti regionali e al risparmio di spesa per mancato ricorso a
+professionisti esterni. In tal senso la Regione persegue la finalità della massima valorizzazione delle
+professionalità presenti nelle diverse strutture organizzative e del coinvolgimento del personale tenuto conto
+della complessità dei lavori, servizi e forniture.
+
+3.      Le modalità operative di attribuzione delle risorse assicurano il rispetto dei principi di risultato,
+trasparenza, parità di trattamento e non discriminazione.
+
+4.       Gli oneri relativi all’incentivazione delle attività tecniche di cui al presente regolamento, come indicate
+nell’allegato I.10 al decreto legislativo 36/2023, sono a carico degli stanziamenti previsti per le singole procedure
+di affidamento e sono, altresì, inseriti nel quadro economico dell’intervento.
+
+5.      Il presente regolamento, ai fini della miglior efficienza, efficacia ed economicità nelle attività di
+affidamento dei lavori, nonché di uniformità e maggior coordinamento delle attività connesse, costituisce
+modello di riferimento per il riconoscimento degli incentivi da parte delle stazioni appaltanti aderenti alla Rete
+delle Stazioni appaltanti di cui agli articoli 40 e 44 bis della legge regionale 14/2002.
+
+
+
+                                                       Art. 2
+                                              (Ambito di applicazione)
+
+
+1.     Il presente regolamento si applica all'Amministrazione regionale e agli Enti regionali (di seguito Enti) di cui
+al decreto del Presidente della Regione 27 agosto 2004, n. 277 (Regolamento di organizzazione
+dell'amministrazione regionale e degli enti regionali) e successive mm. e ii.
+
+2.      Gli incentivi di cui all’articolo 3, comma 3, vengono ripartiti tra il personale dipendente, dirigente e non
+dirigente, incaricato dello svolgimento delle seguenti funzioni tecniche tassativamente previste dall’allegato I.10,
+del decreto legislativo 36/2023:
+
+        a)      programmazione della spesa per investimenti;
+
+        b)      responsabile unico del progetto (RUP);
+
+        c)      collaborazione all’attività del responsabile unico del progetto (responsabili e addetti alla gestione
+        tecnico amministrativa dell’intervento);
+
+        d)      redazione del documento di fattibilità delle alternative progettuali;
+
+        e)      redazione del progetto di fattibilità tecnica ed economica;
+</raw_text>
+      <normalized_text>Art. 1 (Oggetto e finalità) 1. Il presente regolamento disciplina i criteri di determinazione e di riparto degli incentivi alle funzioni tecniche nell’ambito dell’affidamento di lavori, servizi e forniture, di cui all’articolo 45 del decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici), ai sensi dell’articolo 151 della legge regionale 3 giugno 2025, n. 7 (Disposizioni multisettoriali), in attuazione dell’articolo 11 della legge regionale 31 maggio 2002, n. 14 (Disciplina organica dei lavori pubblici), compresi gli incentivi relativi a contratti di concessione e contratti di partenariato pubblico-privato e gli incentivi dell’articolo 11, commi da 13 a 16, della legge regionale 7 agosto 2024, n. 7 (Assestamento del bilancio per gli anni 2024-2026, ai sensi dell’articolo 6 della legge regionale 10 novembre 2015, n. 26). 2. L’attribuzione delle risorse per le funzioni tecniche è finalizzata all’incremento delle professionalità interne all’Amministrazione regionale e agli Enti regionali e al risparmio di spesa per mancato ricorso a professionisti esterni. In tal senso la Regione persegue la finalità della massima valorizzazione delle professionalità presenti nelle diverse strutture organizzative e del coinvolgimento del personale tenuto conto della complessità dei lavori, servizi e forniture. 3. Le modalità operative di attribuzione delle risorse assicurano il rispetto dei principi di risultato, trasparenza, parità di trattamento e non discriminazione. 4. Gli oneri relativi all’incentivazione delle attività tecniche di cui al presente regolamento, come indicate nell’allegato I.10 al decreto legislativo 36/2023, sono a carico degli stanziamenti previsti per le singole procedure di affidamento e sono, altresì, inseriti nel quadro economico dell’intervento. 5. Il presente regolamento, ai fini della miglior efficienza, efficacia ed economicità nelle attività di affidamento dei lavori, nonché di uniformità e maggior coordinamento delle attività connesse, costituisce modello di riferimento per il riconoscimento degli incentivi da parte delle stazioni appaltanti aderenti alla Rete delle Stazioni appaltanti di cui agli articoli 40 e 44 bis della legge regionale 14/2002. Art. 2 (Ambito di applicazione) 1. Il presente regolamento si applica all'Amministrazione regionale e agli Enti regionali (di seguito Enti) di cui al decreto del Presidente della Regione 27 agosto 2004, n. 277 (Regolamento di organizzazione dell'amministrazione regionale e degli enti regionali) e successive mm. e ii. 2. Gli incentivi di cui all’articolo 3, comma 3, vengono ripartiti tra il personale dipendente, dirigente e non dirigente, incaricato dello svolgimento delle seguenti funzioni tecniche tassativamente previste dall’allegato I.10, del decreto legislativo 36/2023: a) programmazione della spesa per investimenti; b) responsabile unico del progetto (RUP); c) collaborazione all’attività del responsabile unico del progetto (responsabili e addetti alla gestione tecnico amministrativa dell’intervento); d) redazione del documento di fattibilità delle alternative progettuali; e) redazione del progetto di fattibilità tecnica ed economica;</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 2, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>c92a8e59-3183-55f3-92c5-7c2fa16735d0</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>3</ordinal>
+      <raw_text>        f)       redazione del progetto esecutivo;
+
+        g)       coordinamento per la sicurezza in fase di progettazione;
+
+        h)       verifica del progetto ai fini della sua validazione;
+
+        i)       predisposizione dei documenti di gara;
+
+        j)       direzione dei lavori (DL);
+
+        k)       ufficio di direzione dei lavori (direttore/i operativo/i, ispettore/i di cantiere);
+
+        l)       coordinamento per la sicurezza in fase di esecuzione;
+
+        m)       direzione dell’esecuzione (DEC);
+
+        n)       collaboratori del direttore dell’esecuzione;
+
+        o)       coordinamento della sicurezza in fase di esecuzione;
+
+        p)       collaudo tecnico-amministrativo;
+
+        q)       regolare esecuzione;
+
+        r)       verifica di conformità;
+
+        s)       collaudo statico (ove necessario);
+
+        t)       coordinamento dei flussi informativi.
+
+3.    Per collaboratore del RUP si intende il personale dipendente con profilo tecnico, giuridico ed
+amministrativo che partecipa alle attività di cui al comma 2.
+
+4.       Dal momento dell’abrogazione e sostituzione dell’allegato I.10 del decreto legislativo 36/2023, è fatto
+diretto riferimento a quanto previsto dalla nuova disciplina.
+
+5.      Nel caso di contratti di appalto misti, comprese le concessioni e il partenariato pubblico-privato, si
+adottano le disposizioni applicabili al tipo di appalto che ne costituisce l’oggetto principale ai sensi dell’articolo 14
+del decreto legislativo 36/2023.
+
+6.      Sono esclusi dall’incentivazione di cui al presente regolamento:
+
+        a)       i lavori, servizi e forniture di importo inferiore a 40.000,00 euro;
+
+        b)     gli atti di pianificazione generale e/o particolareggiata anche se finalizzati alla realizzazione di
+        opere pubbliche;
+
+        c)       gli appalti pubblici di cui all’articolo 56 del decreto legislativo 36/2023;
+
+        d)       i lavori in amministrazione diretta;
+
+        e)      gli interventi di manutenzione ordinaria, fatti salvi quelli per i quali il RUP certifichi la necessità
+        della nomina di un direttore dei lavori;
+
+        f)       gli affidamenti a società in house.
+
+7.       Le limitazioni di cui al comma 6, lettera a) non si applicano nel caso di procedure di somma urgenza e di
+protezione civile di cui all’articolo 140 del decreto legislativo 36/2023, come previsto dall’articolo 11, comma 15
+bis, della legge regionale 7/2024.
+</raw_text>
+      <normalized_text>f) redazione del progetto esecutivo; g) coordinamento per la sicurezza in fase di progettazione; h) verifica del progetto ai fini della sua validazione; i) predisposizione dei documenti di gara; j) direzione dei lavori (DL); k) ufficio di direzione dei lavori (direttore/i operativo/i, ispettore/i di cantiere); l) coordinamento per la sicurezza in fase di esecuzione; m) direzione dell’esecuzione (DEC); n) collaboratori del direttore dell’esecuzione; o) coordinamento della sicurezza in fase di esecuzione; p) collaudo tecnico-amministrativo; q) regolare esecuzione; r) verifica di conformità; s) collaudo statico (ove necessario); t) coordinamento dei flussi informativi. 3. Per collaboratore del RUP si intende il personale dipendente con profilo tecnico, giuridico ed amministrativo che partecipa alle attività di cui al comma 2. 4. Dal momento dell’abrogazione e sostituzione dell’allegato I.10 del decreto legislativo 36/2023, è fatto diretto riferimento a quanto previsto dalla nuova disciplina. 5. Nel caso di contratti di appalto misti, comprese le concessioni e il partenariato pubblico-privato, si adottano le disposizioni applicabili al tipo di appalto che ne costituisce l’oggetto principale ai sensi dell’articolo 14 del decreto legislativo 36/2023. 6. Sono esclusi dall’incentivazione di cui al presente regolamento: a) i lavori, servizi e forniture di importo inferiore a 40.000,00 euro; b) gli atti di pianificazione generale e/o particolareggiata anche se finalizzati alla realizzazione di opere pubbliche; c) gli appalti pubblici di cui all’articolo 56 del decreto legislativo 36/2023; d) i lavori in amministrazione diretta; e) gli interventi di manutenzione ordinaria, fatti salvi quelli per i quali il RUP certifichi la necessità della nomina di un direttore dei lavori; f) gli affidamenti a società in house. 7. Le limitazioni di cui al comma 6, lettera a) non si applicano nel caso di procedure di somma urgenza e di protezione civile di cui all’articolo 140 del decreto legislativo 36/2023, come previsto dall’articolo 11, comma 15 bis, della legge regionale 7/2024.</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 3, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>1abd7316-db85-5acc-8885-b237640d02ff</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>4</ordinal>
+      <raw_text>8.        Tenuto conto di quanto previsto dall’articolo 45 comma 4, del decreto legislativo 36/2023, nel caso in cui
+una o più attività di cui al comma 2 vengano affidate a lavoratori somministrati, la parte di incentivo che
+corrisponde a prestazioni svolte da lavoratori somministrati va ad incrementare le risorse finanziarie di cui
+all'articolo 3, comma 4.
+
+9.      Nei casi di cui al comma 8:
+
+        a)    nel gruppo di lavoro di cui all’articolo 4 non possono essere nominati più di 3 lavoratori
+        somministrati e comunque non più del 50 per cento del personale regionale nominato;
+
+        b)       il lavoratore somministrato non può svolgere funzioni tecniche di specifiche responsabilità, quali
+        in particolare quelle di responsabile unico del progetto, direttore dell’esecuzione e direttore dei lavori.
+
+
+
+                                                       Art. 3
+                                            (Determinazione delle risorse)
+
+
+1.      La misura complessiva massima delle risorse finanziarie per le funzioni tecniche è costituita da una
+somma non superiore al 2 per cento, calcolata sull’importo dei lavori, dei servizi e delle forniture, posto a base
+della procedura di affidamento, IVA esclusa, senza considerare eventuali ribassi nell’aggiudicazione, che trova
+copertura nel prospetto economico della procedura stessa.
+
+2.       L’imposta regionale sulle attività produttive a carico dell’Amministrazione dovuta sugli incentivi per
+funzioni tecniche in relazione alle procedure di affidamento di lavori, servizi e forniture è conteggiata
+separatamente dalle risorse finanziarie di cui all’articolo 45, comma 2, del decreto legislativo 36/2023 inclusive
+degli oneri previdenziali e assistenziali a carico dell’amministrazione, come previsto dall’articolo 151, comma 5,
+della legge regionale 7/2025.
+
+3.        L'80 per cento delle risorse finanziarie di cui al comma 1, costituenti l’incentivo, comprensivo anche degli
+oneri previdenziali e assistenziali è ripartito tra il personale dipendente di cui all'articolo 4, secondo le modalità e i
+criteri previsti dal presente regolamento.
+
+4.       Il restante 20 per cento delle risorse finanziarie di cui al comma 1, escluse le risorse che derivano da
+finanziamenti europei o da altri finanziamenti a destinazione vincolata, incrementato delle quote parti
+dell'incentivo corrispondenti a prestazioni non svolte o prive dell'attestazione del dirigente, e di quelle non
+corrisposte perché eccedenti il trattamento economico complessivo annuo lordo percepito dalla medesima unità
+di personale dipendente, è destinato all’acquisto di beni e tecnologie funzionali a progetti di innovazione, anche
+per incentivare:
+
+        a)       la modellazione elettronica informativa per l’edilizia e le infrastrutture;
+
+        b)       l’implementazione delle banche dati per il controllo e il miglioramento della capacità di spesa;
+
+        c)      l’efficientamento informatico, con particolare riferimento alle metodologie e strumentazioni
+        elettroniche per i controlli.
+
+5.      Una parte delle risorse di cui al comma 4 è utilizzata:
+
+        a)      per attività di formazione per l'incremento delle competenze digitali del personale nella
+        realizzazione degli interventi;
+
+        b)       per la specializzazione del personale che svolge funzioni tecniche;
+
+        c)       per la copertura degli oneri di assicurazione obbligatoria del personale.
+</raw_text>
+      <normalized_text>8. Tenuto conto di quanto previsto dall’articolo 45 comma 4, del decreto legislativo 36/2023, nel caso in cui una o più attività di cui al comma 2 vengano affidate a lavoratori somministrati, la parte di incentivo che corrisponde a prestazioni svolte da lavoratori somministrati va ad incrementare le risorse finanziarie di cui all'articolo 3, comma 4. 9. Nei casi di cui al comma 8: a) nel gruppo di lavoro di cui all’articolo 4 non possono essere nominati più di 3 lavoratori somministrati e comunque non più del 50 per cento del personale regionale nominato; b) il lavoratore somministrato non può svolgere funzioni tecniche di specifiche responsabilità, quali in particolare quelle di responsabile unico del progetto, direttore dell’esecuzione e direttore dei lavori. Art. 3 (Determinazione delle risorse) 1. La misura complessiva massima delle risorse finanziarie per le funzioni tecniche è costituita da una somma non superiore al 2 per cento, calcolata sull’importo dei lavori, dei servizi e delle forniture, posto a base della procedura di affidamento, IVA esclusa, senza considerare eventuali ribassi nell’aggiudicazione, che trova copertura nel prospetto economico della procedura stessa. 2. L’imposta regionale sulle attività produttive a carico dell’Amministrazione dovuta sugli incentivi per funzioni tecniche in relazione alle procedure di affidamento di lavori, servizi e forniture è conteggiata separatamente dalle risorse finanziarie di cui all’articolo 45, comma 2, del decreto legislativo 36/2023 inclusive degli oneri previdenziali e assistenziali a carico dell’amministrazione, come previsto dall’articolo 151, comma 5, della legge regionale 7/2025. 3. L'80 per cento delle risorse finanziarie di cui al comma 1, costituenti l’incentivo, comprensivo anche degli oneri previdenziali e assistenziali è ripartito tra il personale dipendente di cui all'articolo 4, secondo le modalità e i criteri previsti dal presente regolamento. 4. Il restante 20 per cento delle risorse finanziarie di cui al comma 1, escluse le risorse che derivano da finanziamenti europei o da altri finanziamenti a destinazione vincolata, incrementato delle quote parti dell'incentivo corrispondenti a prestazioni non svolte o prive dell'attestazione del dirigente, e di quelle non corrisposte perché eccedenti il trattamento economico complessivo annuo lordo percepito dalla medesima unità di personale dipendente, è destinato all’acquisto di beni e tecnologie funzionali a progetti di innovazione, anche per incentivare: a) la modellazione elettronica informativa per l’edilizia e le infrastrutture; b) l’implementazione delle banche dati per il controllo e il miglioramento della capacità di spesa; c) l’efficientamento informatico, con particolare riferimento alle metodologie e strumentazioni elettroniche per i controlli. 5. Una parte delle risorse di cui al comma 4 è utilizzata: a) per attività di formazione per l'incremento delle competenze digitali del personale nella realizzazione degli interventi; b) per la specializzazione del personale che svolge funzioni tecniche; c) per la copertura degli oneri di assicurazione obbligatoria del personale.</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 4, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>2cbbd905-a452-53dc-8741-c151f20adbc4</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>5</ordinal>
+      <raw_text>6.      Le risorse di cui al comma 4 sono utilizzate, per le finalità esplicitate, direttamente dalle strutture
+attuatrici degli interventi, mediante commutazione in entrata a finanziamento degli appropriati capitoli di spesa.
+
+7.      Le modifiche contrattuali e/o le varianti in corso d’opera in aumento, ammesse dalla normativa vigente,
+contribuiscono a determinare le risorse di cui comma 1 secondo la percentuale stabilita per il corrispondente
+intervento, sempre che comportino prestazioni aggiuntive ed uno stanziamento di maggiori risorse rispetto
+all’importo a base della procedura.
+
+8.     Nel caso di cui al comma 7, l’incentivo va calcolato con riferimento al nuovo importo a base della
+procedura di affidamento, al lordo del ribasso offerto.
+
+9.      Le variazioni del costo del lavoro, della fornitura o del servizio per applicazione delle clausole di revisione
+prezzi non producono effetti ai fini della determinazione delle risorse di cui al comma 1.
+
+
+
+                                                       Art. 4
+                                                  (Gruppo di lavoro)
+
+
+1.      Per ciascun affidamento, il direttore preposto alla struttura attuatrice dell’intervento, o altro dirigente
+incaricato dall’Amministrazione regionale o dagli Enti, qualora non svolga direttamente tale funzione, nomina il
+RUP, nonché gli eventuali responsabili di fase, tra il personale dipendente in possesso dei requisiti previsti dalla
+normativa vigente in merito.
+
+2.      Previa proposta del RUP, il direttore preposto alla struttura attuatrice dell’intervento individua, con
+apposito provvedimento, i componenti del gruppo di lavoro e conferisce gli incarichi per lo svolgimento delle
+funzioni di cui all’articolo 2, comma 2.
+
+3.      L’atto di cui al comma 2 riporta espressamente le funzioni del personale dipendente individuato, nonché,
+ove previsti, i termini da rispettare per l’esecuzione delle prestazioni.
+
+4.      I soggetti da incaricare sono prioritariamente individuati tra il personale dipendente assegnato alla
+struttura attuatrice dell'intervento.
+
+5.     Possono essere destinatari dell’incentivo tecnico anche i dipendenti a tempo determinato compresi nel
+gruppo di lavoro di cui al comma 2.
+
+6.      Il decreto di nomina del gruppo di lavoro indica:
+
+        a)      il servizio/fornitura o lavoro/opera da progettare e il relativo programma di finanziamento, ove
+        previsto;
+
+        b)       l’importo presunto posto a base della procedura di affidamento al netto dell’IVA e l’importo delle
+        risorse finanziarie, non superiore al 2 per cento del medesimo importo, determinati ai sensi dell’articolo 3,
+        comma 1;
+
+        c)      i termini entro i quali devono essere eseguite le prestazioni, eventualmente suddivisi in relazione
+        ai singoli livelli di programmazione e realizzazione dell’intervento, che possono essere indicati in un
+        successivo atto;
+
+        d)      la categoria e il profilo professionale dei componenti nominati;
+
+         e)      le percentuali stimate da destinare ai singoli componenti del gruppo di lavoro, che possono
+essere indicati in un successivo atto.
+</raw_text>
+      <normalized_text>6. Le risorse di cui al comma 4 sono utilizzate, per le finalità esplicitate, direttamente dalle strutture attuatrici degli interventi, mediante commutazione in entrata a finanziamento degli appropriati capitoli di spesa. 7. Le modifiche contrattuali e/o le varianti in corso d’opera in aumento, ammesse dalla normativa vigente, contribuiscono a determinare le risorse di cui comma 1 secondo la percentuale stabilita per il corrispondente intervento, sempre che comportino prestazioni aggiuntive ed uno stanziamento di maggiori risorse rispetto all’importo a base della procedura. 8. Nel caso di cui al comma 7, l’incentivo va calcolato con riferimento al nuovo importo a base della procedura di affidamento, al lordo del ribasso offerto. 9. Le variazioni del costo del lavoro, della fornitura o del servizio per applicazione delle clausole di revisione prezzi non producono effetti ai fini della determinazione delle risorse di cui al comma 1. Art. 4 (Gruppo di lavoro) 1. Per ciascun affidamento, il direttore preposto alla struttura attuatrice dell’intervento, o altro dirigente incaricato dall’Amministrazione regionale o dagli Enti, qualora non svolga direttamente tale funzione, nomina il RUP, nonché gli eventuali responsabili di fase, tra il personale dipendente in possesso dei requisiti previsti dalla normativa vigente in merito. 2. Previa proposta del RUP, il direttore preposto alla struttura attuatrice dell’intervento individua, con apposito provvedimento, i componenti del gruppo di lavoro e conferisce gli incarichi per lo svolgimento delle funzioni di cui all’articolo 2, comma 2. 3. L’atto di cui al comma 2 riporta espressamente le funzioni del personale dipendente individuato, nonché, ove previsti, i termini da rispettare per l’esecuzione delle prestazioni. 4. I soggetti da incaricare sono prioritariamente individuati tra il personale dipendente assegnato alla struttura attuatrice dell'intervento. 5. Possono essere destinatari dell’incentivo tecnico anche i dipendenti a tempo determinato compresi nel gruppo di lavoro di cui al comma 2. 6. Il decreto di nomina del gruppo di lavoro indica: a) il servizio/fornitura o lavoro/opera da progettare e il relativo programma di finanziamento, ove previsto; b) l’importo presunto posto a base della procedura di affidamento al netto dell’IVA e l’importo delle risorse finanziarie, non superiore al 2 per cento del medesimo importo, determinati ai sensi dell’articolo 3, comma 1; c) i termini entro i quali devono essere eseguite le prestazioni, eventualmente suddivisi in relazione ai singoli livelli di programmazione e realizzazione dell’intervento, che possono essere indicati in un successivo atto; d) la categoria e il profilo professionale dei componenti nominati; e) le percentuali stimate da destinare ai singoli componenti del gruppo di lavoro, che possono essere indicati in un successivo atto.</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 5, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>0380808c-2d78-509c-a7c6-4f17af54dfda</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>6</ordinal>
+      <raw_text>7.       Qualora per l’affidamento delle attività di cui all’articolo 2 ricorrano le condizioni che non permettono
+l’individuazione di personale dipendente all’interno della struttura attuatrice dell’intervento, è possibile assegnare
+le attività o parti di esse a personale in possesso di adeguata competenza e assegnato ad altri uffici
+dell’Amministrazione regionale e degli Enti, che dichiari espressamente la disponibilità ad assumere l’incarico. In
+tale caso è necessaria l’autorizzazione del dirigente ad esso preposto, con l’indicazione, in termini quantitativi,
+dell’impegno che ciascun incaricato sarà tenuto a prestare.
+
+8.     Con provvedimento motivato del dirigente, sentito il RUP, i termini per gli adempimenti possono essere
+prorogati.
+
+9.       Qualora sia definitivamente accertata a carico di un componente del gruppo di lavoro un’infrazione e
+sanzionata con la sospensione o il licenziamento, in esito al procedimento disciplinare, il soggetto sanzionato è
+revocato dall’incarico ed è escluso dall’incentivo. Per infrazione definitivamente accertata si intende quella
+risultante da provvedimento disciplinare che non sia stato impugnato nei termini oppure che sia stato definito
+con sentenza passata in giudicato.
+
+10.      Non possono essere assegnati incarichi al personale dipendente condannato, anche con sentenza non
+passata in giudicato, per i reati previsti nel Libro II, Titolo II, Capo I del codice penale. Non possono altresì essere
+attributi incarichi a chi si trova in conflitto di interessi ai sensi dell’articolo 16 del decreto legislativo 36/2023. Il
+personale dipendente incaricato è tenuto a segnalare tempestivamente al RUP situazioni di conflitto d’interesse.
+
+11        I dati relativi agli incarichi conferiti o autorizzati al personale dipendente, dirigente e non dirigente, per lo
+svolgimento delle funzioni tecniche di cui all’art. 2, comma 2 del presente regolamento, sono soggetti a
+pubblicazione ai sensi dall’art. 18 del decreto legislativo 14 marzo 2013 n. 33 (Riordino della disciplina riguardante
+il diritto di accesso civico e gli obblighi di pubblicità, trasparenza e diffusione di informazioni da parte delle
+pubbliche amministrazioni).
+
+
+
+                                                        Art. 5
+                                           (Limite soggettivo dell’incentivo)
+
+
+1.     L'incentivo complessivamente maturato da ciascuna unità di personale dipendente nel corso dell'anno di
+competenza, a prescindere dalla data di pagamento, anche per attività svolte per conto di altre amministrazioni,
+non può superare il trattamento economico complessivo annuo lordo percepito dalla medesima unità di
+personale dipendente nell’anno precedente.
+
+2.      Per anno di competenza si intende l’anno in cui si verificano le condizioni indicate all’articolo 16, commi
+da 6 a 10.
+
+3.        In caso di adozione di metodi e strumenti di gestione informativa digitale delle costruzioni di cui
+all'articolo 43 del decreto legislativo 36/2023 il limite di cui al comma 1 è aumentato del 15 per cento.
+
+4.      L'incentivo eccedente, non corrisposto, incrementa le risorse di cui all’articolo 3, comma 4.
+
+
+
+
+                                                      Art. 6
+                         (Centrale unica di committenza e Soggetto aggregatore regionale)
+
+1.       Ai sensi dell’articolo 46 bis, comma 1, della legge regionale 12 dicembre 2014, n. 26 (Riordino del sistema
+Regione-Autonomie locali nel Friuli Venezia Giulia. Ordinamento delle Unioni territoriali intercomunali e
+riallocazione di funzioni amministrative.), sono riconosciuti gli incentivi per funzioni tecniche di cui all’articolo 45
+</raw_text>
+      <normalized_text>7. Qualora per l’affidamento delle attività di cui all’articolo 2 ricorrano le condizioni che non permettono l’individuazione di personale dipendente all’interno della struttura attuatrice dell’intervento, è possibile assegnare le attività o parti di esse a personale in possesso di adeguata competenza e assegnato ad altri uffici dell’Amministrazione regionale e degli Enti, che dichiari espressamente la disponibilità ad assumere l’incarico. In tale caso è necessaria l’autorizzazione del dirigente ad esso preposto, con l’indicazione, in termini quantitativi, dell’impegno che ciascun incaricato sarà tenuto a prestare. 8. Con provvedimento motivato del dirigente, sentito il RUP, i termini per gli adempimenti possono essere prorogati. 9. Qualora sia definitivamente accertata a carico di un componente del gruppo di lavoro un’infrazione e sanzionata con la sospensione o il licenziamento, in esito al procedimento disciplinare, il soggetto sanzionato è revocato dall’incarico ed è escluso dall’incentivo. Per infrazione definitivamente accertata si intende quella risultante da provvedimento disciplinare che non sia stato impugnato nei termini oppure che sia stato definito con sentenza passata in giudicato. 10. Non possono essere assegnati incarichi al personale dipendente condannato, anche con sentenza non passata in giudicato, per i reati previsti nel Libro II, Titolo II, Capo I del codice penale. Non possono altresì essere attributi incarichi a chi si trova in conflitto di …6438 tokens truncated…visti dal cronoprogramma approvato
+nell’ambito del progetto o dei termini per la conclusione delle attività fissati nell’atto di costituzione del gruppo di
+lavoro o di quelli previsti dalla normativa vigente.
+
+2.        Quando i termini fissati per la conclusione delle attività non sono rispettati o si realizzi un incremento dei
+costi, il direttore preposto alla struttura attuatrice dell’intervento acquisisce dal RUP le motivazioni. Il direttore,
+qualora ne accertasse l’inidoneità (motivazioni insufficienti, contraddittorie o non congrue), con provvedimento
+motivato, procede alla riduzione della quota d’incentivo con le seguenti modalità:
+
+        a)      riduzione del 10 per cento nel caso in cui i ritardi o i maggiori oneri siano uguali o inferiori di 1/5
+rispetto ai tempi e ai costi previsti;
+
+         b)       riduzione del 20 per cento nel caso in cui i ritardi o i maggiori oneri siano maggiori di 1/5 e uguali
+o inferiori di 2/5 rispetto ai tempi e ai costi previsti;
+
+        c)       riduzione del 30 per cento nel caso in cui i ritardi o i maggiori oneri siano superiori di 2/5 rispetto
+ai tempi e ai costi previsti.
+
+3.      Ai fini della riduzione della quota parte di incentivo o della sua mancata corresponsione ai sensi del
+presente articolo, non sono computati, nel mancato rispetto dei termini e nell’incremento dei costi, i tempi ed i
+costi conseguenti a cause di forze maggiore, avverse condizioni climatiche e altre circostanze speciali non
+prevedibili e non imputabili al personale dipendente incaricato ai sensi del presente regolamento, comprese
+quelle cause che comportano la necessità della redazione di perizia di variante ammessa ai sensi dell’articolo 120
+del decreto legislativo 36/2023.
+
+4.      Al personale dipendente incaricato della progettazione e della verifica preventiva dei progetti non è
+corrisposto alcun incentivo qualora nel corso dell’esecuzione si renda necessario apportare al progetto varianti in
+corso d’opera determinate da errori o da omissioni gravi nel progetto esecutivo.
+
+5.      Nei casi previsti dal presente articolo, impregiudicata ogni forma di contestazione e accertamento
+previste dalle vigenti disposizioni per l’imputazione di eventuali responsabilità, anche disciplinari, si procede al
+recupero dell’incentivo indebitamente percepito a valere sul trattamento economico dovuto al dipendente, anche
+mediante rateazione in ragione degli importi dovuti.
+
+6.      Le somme non corrisposte in ragione di quanto stabilito dal presente articolo costituiscono economia.
+
+
+
+                                                        Art. 12
+                     (Attività affidate a personale esterno o di altra pubblica amministrazione)
+
+
+1.        Qualora una o più attività di cui all'articolo 2 vengano affidate interamente a soggetti esterni all'organico
+dell'amministrazione o dell’Ente, ivi compresi eventuali lavoratori somministrati, le quote parti dell'incentivo a
+questi spettanti in attuazione degli articoli 9 e 10, incrementano le risorse finanziarie di cui all'articolo 3, comma
+4, senza che la suddetta somma possa maggiorare i compensi già stabiliti per il personale facente parte del
+gruppo di lavoro. La stessa previsione si applica anche nel caso di prestazioni prive dell’accertamento di cui
+all’articolo 15.
+</raw_text>
+      <normalized_text>Art. 11 (Riduzione degli incentivi a fronte di incrementi dei costi e dei tempi previsti) 1. Le risorse finanziarie destinate alla remunerazione delle attività indicate dal presente regolamento sono ridotte a fronte dell’incremento dei costi o dei tempi contrattuali previsti dal cronoprogramma approvato nell’ambito del progetto o dei termini per la conclusione delle attività fissati nell’atto di costituzione del gruppo di lavoro o di quelli previsti dalla normativa vigente. 2. Quando i termini fissati per la conclusione delle attività non sono rispettati o si realizzi un incremento dei costi, il direttore preposto alla struttura attuatrice dell’intervento acquisisce dal RUP le motivazioni. Il direttore, qualora ne accertasse l’inidoneità (motivazioni insufficienti, contraddittorie o non congrue), con provvedimento motivato, procede alla riduzione della quota d’incentivo con le seguenti modalità: a) riduzione del 10 per cento nel caso in cui i ritardi o i maggiori oneri siano uguali o inferiori di 1/5 rispetto ai tempi e ai costi previsti; b) riduzione del 20 per cento nel caso in cui i ritardi o i maggiori oneri siano maggiori di 1/5 e uguali o inferiori di 2/5 rispetto ai tempi e ai costi previsti; c) riduzione del 30 per cento nel caso in cui i ritardi o i maggiori oneri siano superiori di 2/5 rispetto ai tempi e ai costi previsti. 3. Ai fini della riduzione della quota parte di incentivo o della sua mancata corresponsione ai sensi del presente articolo, non sono computati, nel mancato rispetto dei termini e nell’incremento dei costi, i tempi ed i costi conseguenti a cause di forze maggiore, avverse condizioni climatiche e altre circostanze speciali non prevedibili e non imputabili al personale dipendente incaricato ai sensi del presente regolamento, comprese quelle cause che comportano la necessità della redazione di perizia di variante ammessa ai sensi dell’articolo 120 del decreto legislativo 36/2023. 4. Al personale dipendente incaricato della progettazione e della verifica preventiva dei progetti non è corrisposto alcun incentivo qualora nel corso dell’esecuzione si renda necessario apportare al progetto varianti in corso d’opera determinate da errori o da omissioni gravi nel progetto esecutivo. 5. Nei casi previsti dal presente articolo, impregiudicata ogni forma di contestazione e accertamento previste dalle vigenti disposizioni per l’imputazione di eventuali responsabilità, anche disciplinari, si procede al recupero dell’incentivo indebitamente percepito a valere sul trattamento economico dovuto al dipendente, anche mediante rateazione in ragione degli importi dovuti. 6. Le somme non corrisposte in ragione di quanto stabilito dal presente articolo costituiscono economia. Art. 12 (Attività affidate a personale esterno o di altra pubblica amministrazione) 1. Qualora una o più attività di cui all'articolo 2 vengano affidate interamente a soggetti esterni all'organico dell'amministrazione o dell’Ente, ivi compresi eventuali lavoratori somministrati, le quote parti dell'incentivo a questi spettanti in attuazione degli articoli 9 e 10, incrementano le risorse finanziarie di cui all'articolo 3, comma 4, senza che la suddetta somma possa maggiorare i compensi già stabiliti per il personale facente parte del gruppo di lavoro. La stessa previsione si applica anche nel caso di prestazioni prive dell’accertamento di cui all’articolo 15.</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 10, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>b2a7d202-416a-5a6a-ba3f-0f7702a6dbaf</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>11</ordinal>
+      <raw_text>2.       Qualora una o più parti delle attività di cui all'articolo 2 vengano affidate solo parzialmente a soggetti
+esterni all'organico dell'amministrazione, l'importo dell'incentivo relativo alle medesime attività parziali, da
+corrispondere al personale facente parte del gruppo di lavoro, è determinato proporzionalmente all'impegno e
+alla responsabilità valutati dal dirigente preposto alla struttura competente.
+
+3.       Nelle ipotesi in cui l'Amministrazione regionale o l’Ente si avvalga di personale di altra pubblica
+amministrazione, la convenzione che regolamenta i rapporti tra le parti, stabilisce anche il costo lordo
+dell'incentivo da riconoscere a detto personale, comprensivo degli oneri riflessi nella misura applicata dall'altra
+amministrazione.
+
+4.       Fatto salvo quanto eventualmente disposto dalla convenzione di cui al comma 3, le quote parti
+dell’incentivo sono trasferite all’amministrazione di appartenenza, la quale provvede all’erogazione al proprio
+personale.
+
+
+
+                                                       Art. 13
+                                       (Determinazione dell’incentivo per lavori)
+
+
+1.       La determinazione dell'incentivo è operata con decreto del dirigente preposto alla struttura attuatrice
+dell'intervento, il quale stabilisce, in particolare, le quote per fasi di cui all’allegato A al presente regolamento, in
+base alla complessità presunta di ciascuna singola fase, su proposta del RUP, che successivamente accerta e
+attesta le specifiche funzioni tecniche svolte dalla singola unità di personale dipendente.
+
+2.       Qualora lo stesso soggetto svolga direttamente più di una delle attività di cui all’articolo 2, allo stesso
+viene riconosciuto l'incentivo relativo a ciascuna attività svolta.
+
+
+
+                                                      Art. 14
+                                   (Determinazione incentivo per servizi/forniture)
+
+
+1.       La determinazione dell'incentivo è operata con decreto del dirigente preposto alla struttura attuatrice
+dell'intervento, il quale stabilisce, in particolare, le quote per fasi di cui all’ allegato B al presente regolamento, in
+base alla complessità presunta di ciascuna singola fase, su proposta del RUP, che successivamente accerta e
+attesta le specifiche funzioni tecniche svolte dalla singola unità di personale dipendente.
+
+2.       Qualora lo stesso soggetto svolga direttamente più di una delle attività di cui all’articolo 2, allo stesso
+viene riconosciuto l'incentivo relativo a ciascuna attività svolta.
+
+3.      Gli incentivi per gli appalti di forniture e servizi sono attribuiti a condizione che sia nominato il direttore
+dell’esecuzione.
+
+4.        L'incarico di direttore dell'esecuzione del contratto è ricoperto dal RUP, ad eccezione dei contratti aventi
+ad oggetto servizi e forniture di particolare importanza, per qualità o importo delle prestazioni, come disciplinati
+dall'articolo 32 dell’allegato II.14 al decreto legislativo 36/2023, nei quali è previsto, ai sensi dell'articolo 114,
+comma 8, del decreto legislativo 36/2023, che il direttore dell'esecuzione deve essere diverso dal RUP.
+
+                                                         Art. 15
+                                        (Proposta di ripartizione degli incentivi)
+
+1.       Alla conclusione della prestazione, il RUP redige apposita relazione ove descrive e assevera per ciascuna
+unità di personale dipendente assegnata alle singole funzioni, anche nel caso di avvicendamento nel corso della
+</raw_text>
+      <normalized_text>2. Qualora una o più parti delle attività di cui all'articolo 2 vengano affidate solo parzialmente a soggetti esterni all'organico dell'amministrazione, l'importo dell'incentivo relativo alle medesime attività parziali, da corrispondere al personale facente parte del gruppo di lavoro, è determinato proporzionalmente all'impegno e alla responsabilità valutati dal dirigente preposto alla struttura competente. 3. Nelle ipotesi in cui l'Amministrazione regionale o l’Ente si avvalga di personale di altra pubblica amministrazione, la convenzione che regolamenta i rapporti tra le parti, stabilisce anche il costo lordo dell'incentivo da riconoscere a detto personale, comprensivo degli oneri riflessi nella misura applicata dall'altra amministrazione. 4. Fatto salvo quanto eventualmente disposto dalla convenzione di cui al comma 3, le quote parti dell’incentivo sono trasferite all’amministrazione di appartenenza, la quale provvede all’erogazione al proprio personale. Art. 13 (Determinazione dell’incentivo per lavori) 1. La determinazione dell'incentivo è operata con decreto del dirigente preposto alla struttura attuatrice dell'intervento, il quale stabilisce, in particolare, le quote per fasi di cui all’allegato A al presente regolamento, in base alla complessità presunta di ciascuna singola fase, su proposta del RUP, che successivamente accerta e attesta le specifiche funzioni tecniche svolte dalla singola unità di personale dipendente. 2. Qualora lo stesso soggetto svolga direttamente più di una delle attività di cui all’articolo 2, allo stesso viene riconosciuto l'incentivo relativo a ciascuna attività svolta. Art. 14 (Determinazione incentivo per servizi/forniture) 1. La determinazione dell'incentivo è operata con decreto del dirigente preposto alla struttura attuatrice dell'intervento, il quale stabilisce, in particolare, le quote per fasi di cui all’ allegato B al presente regolamento, in base alla complessità presunta di ciascuna singola fase, su proposta del RUP, che successivamente accerta e attesta le specifiche funzioni tecniche svolte dalla singola unità di personale dipendente. 2. Qualora lo stesso soggetto svolga direttamente più di una delle attività di cui all’articolo 2, allo stesso viene riconosciuto l'incentivo relativo a ciascuna attività svolta. 3. Gli incentivi per gli appalti di forniture e servizi sono attribuiti a condizione che sia nominato il direttore dell’esecuzione. 4. L'incarico di direttore dell'esecuzione del contratto è ricoperto dal RUP, ad eccezione dei contratti aventi ad oggetto servizi e forniture di particolare importanza, per qualità o importo delle prestazioni, come disciplinati dall'articolo 32 dell’allegato II.14 al decreto legislativo 36/2023, nei quali è previsto, ai sensi dell'articolo 114, comma 8, del decreto legislativo 36/2023, che il direttore dell'esecuzione deve essere diverso dal RUP. Art. 15 (Proposta di ripartizione degli incentivi) 1. Alla conclusione della prestazione, il RUP redige apposita relazione ove descrive e assevera per ciascuna unità di personale dipendente assegnata alle singole funzioni, anche nel caso di avvicendamento nel corso della</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 11, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>a43f9da3-10d2-5564-86ba-d7dc320bb438</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>12</ordinal>
+      <raw_text>procedura, il tipo di attività effettivamente svolta e propone al dirigente preposto alla struttura attuatrice
+dell'intervento la ripartizione delle relative quote.
+
+2.     La ripartizione dell’incentivo all’interno del gruppo di lavoro deve essere effettuata sulla base del livello di
+responsabilità professionale connessa alla specifica prestazione svolta ed al contributo apportato dal personale
+dipendente coinvolto, tenuto conto della qualità e quantità della prestazione svolta dal singolo incaricato.
+
+3.      Qualora l’avvicendamento riguardasse il RUP, la quota spettante al RUP cessato sarà accertata e
+attestata dal direttore preposto alla struttura attuatrice dell'intervento.
+
+4.       Nel caso in cui non si proceda alla stipula del contratto di esecuzione del lavoro, servizio o fornitura per
+ragioni sopravvenute o per fatto non imputabile all'Amministrazione o all’Ente, l'incentivo è ripartito per le attività
+effettivamente svolte e certificate dal RUP.
+
+5.      Non spetta alcun incentivo nel caso di procedura di affidamento andata deserta.
+
+6.      Il riparto degli incentivi sarà effettuato sulla base dei valori previsti per ciascuna fase negli allegati A e B
+ed entro i valori massimi e minimi indicati per ciascuna delle attività ivi previste.
+
+
+
+                                                       Art. 16
+                    (Accertamento delle attività svolte, ripartizione e liquidazione dell’incentivo)
+
+
+1.      Il direttore preposto alla struttura attuatrice dell’intervento, per ogni procedimento, previa verifica dei
+contenuti della relazione descrittiva e asseverativa predisposta dal RUP, con il decreto di liquidazione, accerta e
+attesta, sotto la propria responsabilità, l’attività effettivamente svolta da ciascuna unità di personale dipendente
+assegnata alle singole funzioni e, su proposta del RUP, ripartisce l’incentivo. Il decreto indica le quote spettanti al
+personale dipendente incaricato, tenuto conto del principio del risultato di cui all’articolo 1 del decreto legislativo
+36/2023, delle responsabilità, del carico di lavoro, della complessità della procedura, della natura delle attività
+svolte o assunte da ciascuna unità di personale dipendente coinvolta e da quanto previsto dagli articoli 8 e 9. Il
+direttore può, con specifica motivazione, modificare le singole quote proposte dal RUP.
+
+2.        Ai fini della liquidazione, al direttore preposto alla struttura attuatrice dell'intervento è demandato il
+controllo dell’intera procedura, di cui deve garantire la regolarità sotto ogni profilo, anche in merito alla
+sussistenza dei presupposti di erogabilità degli incentivi e alla sussistenza di tutte le condizioni propedeutiche
+alla liquidazione degli stessi. Il direttore della struttura attuatrice dell'intervento assicura in particolare:
+
+a)      il rispetto della normativa di riferimento;
+
+b)      il rispetto della misura complessiva massima delle risorse finanziarie per le funzioni tecniche con
+riferimento alle aliquote calcolate in applicazione degli articoli 9 e 10;
+
+c)    il rispetto delle quote dell’80 per cento e del 20 per cento delle risorse finanziarie ai sensi dell’articolo 3,
+commi 3 e 4;
+
+d)      l’appartenenza o meno degli aventi titolo al personale regionale o dell’ente regionale;
+
+e)      la correttezza degli importi dell’incentivo complessivo e di quello spettante a ciascuna unità di personale
+avente titolo;
+
+f)       la completezza della documentazione necessaria e della idoneità della stessa a comprovare il diritto
+all’incentivo della singola unità di personale coinvolta;
+</raw_text>
+      <normalized_text>procedura, il tipo di attività effettivamente svolta e propone al dirigente preposto alla struttura attuatrice dell'intervento la ripartizione delle relative quote. 2. La ripartizione dell’incentivo all’interno del gruppo di lavoro deve essere effettuata sulla base del livello di responsabilità professionale connessa alla specifica prestazione svolta ed al contributo apportato dal personale dipendente coinvolto, tenuto conto della qualità e quantità della prestazione svolta dal singolo incaricato. 3. Qualora l’avvicendamento riguardasse il RUP, la quota spettante al RUP cessato sarà accertata e attestata dal direttore preposto alla struttura attuatrice dell'intervento. 4. Nel caso in cui non si proceda alla stipula del contratto di esecuzione del lavoro, servizio o fornitura per ragioni sopravvenute o per fatto non imputabile all'Amministrazione o all’Ente, l'incentivo è ripartito per le attività effettivamente svolte e certificate dal RUP. 5. Non spetta alcun incentivo nel caso di procedura di affidamento andata deserta. 6. Il riparto degli incentivi sarà effettuato sulla base dei valori previsti per ciascuna fase negli allegati A e B ed entro i valori massimi e minimi indicati per ciascuna delle attività ivi previste. Art. 16 (Accertamento delle attività svolte, ripartizione e liquidazione dell’incentivo) 1. Il direttore preposto alla struttura attuatrice dell’intervento, per ogni procedimento, previa verifica dei contenuti della relazione descrittiva e asseverativa predisposta dal RUP, con il decreto di liquidazione, accerta e attesta, sotto la propria responsabilità, l’attività effettivamente svolta da ciascuna unità di personale dipendente assegnata alle singole funzioni e, su proposta del RUP, ripartisce l’incentivo. Il decreto indica le quote spettanti al personale dipendente incaricato, tenuto conto del principio del risultato di cui all’articolo 1 del decreto legislativo 36/2023, delle responsabilità, del carico di lavoro, della complessità della procedura, della natura delle attività svolte o assunte da ciascuna unità di personale dipendente coinvolta e da quanto previsto dagli articoli 8 e 9. Il direttore può, con specifica motivazione, modificare le singole quote proposte dal RUP. 2. Ai fini della liquidazione, al direttore preposto alla struttura attuatrice dell'intervento è demandato il controllo dell’intera procedura, di cui deve garantire la regolarità sotto ogni profilo, anche in merito alla sussistenza dei presupposti di erogabilità degli incentivi e alla sussistenza di tutte le condizioni propedeutiche alla liquidazione degli stessi. Il direttore della struttura attuatrice dell'intervento assicura in particolare: a) il rispetto della normativa di riferimento; b) il rispetto della misura complessiva massima delle risorse finanziarie per le funzioni tecniche con riferimento alle aliquote calcolate in applicazione degli articoli 9 e 10; c) il rispetto delle quote dell’80 per cento e del 20 per cento delle risorse finanziarie ai sensi dell’articolo 3, commi 3 e 4; d) l’appartenenza o meno degli aventi titolo al personale regionale o dell’ente regionale; e) la correttezza degli importi dell’incentivo complessivo e di quello spettante a ciascuna unità di personale avente titolo; f) la completezza della documentazione necessaria e della idoneità della stessa a comprovare il diritto all’incentivo della singola unità di personale coinvolta;</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 12, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e19de57b-03d1-51f5-b88f-1febe25cee45</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>13</ordinal>
+      <raw_text>g)       lo svolgimento dei controlli necessari e presupposti per la liquidazione dell’incentivo, con particolare
+riferimento al certificato di collaudo o di regolare esecuzione della prestazione oggetto dell’affidamento e alla
+verifica di conformità della medesima.
+
+3.     Con il medesimo decreto di liquidazione il direttore preposto alla struttura attuatrice dell’intervento
+provvede al versamento dell’incentivo sull’apposito capitolo di entrata del bilancio finanziario gestionale
+assegnato al Servizio competente in materia di trattamento economico accessorio del personale.
+
+4.       Per i lavori realizzati con fondi posti a carico di gestioni fuori bilancio della Regione ovvero a carico dei
+bilanci degli enti o delle strutture commissariali cui è assegnato il personale regionale, il versamento della somma
+dell’incentivo nel bilancio della Regione è effettuato con imputazione al medesimo capitolo di entrata di cui al
+comma 3.
+
+5.       Il direttore preposto alla struttura attuatrice dell’intervento, sulla base del provvedimento di liquidazione
+di cui al comma 1, invia, ai sensi dell’articolo 17, apposito ordine di pagamento dell’incentivo spettante a ciascun
+dipendente alla struttura regionale competente in materia di pagamento del trattamento economico al
+personale dipendente, alla quale spetta esclusivamente lo svolgimento delle operazioni necessarie alla materiale
+erogazione dell’incentivo nell’ambito delle competenze stipendiali.
+
+6.      Dopo la firma del certificato di collaudo o di regolare esecuzione dell’opera o della verifica di conformità,
+fatto salvo quanto previsto dai commi da 7 a 10, la liquidazione dei compensi viene effettuata in un’unica
+soluzione.
+
+7.       Nel caso di contratti di durata o a carattere pluriennale, diversi dai casi di cui ai commi 8 e 10, la
+liquidazione dell’incentivo può avvenire:
+
+        a)        dopo la stipula del contratto d'appalto:
+
+                   1)     a saldo per la fase di programmazione della spesa;
+
+                   2)     a saldo per la fase di progettazione;
+
+                   3)     a saldo per la fase della procedura di affidamento;
+
+        b)        a seguito della stipula del contratto d’appalto, a cadenza annuale:
+
+                  1)      a saldo per ciascuna singola fase di esecuzione;
+
+8.      Per lavori di importo superiore a 500.000,00 euro determinato in fase di affidamento, la liquidazione degli
+incentivi viene effettuata a seguito del completamento delle seguenti fasi:
+
+        a)      per la fase di programmazione, progettazione e affidamento: intera quota ad avvenuta
+        stipulazione del contratto dei lavori;
+
+        b)        per la fase di esecuzione:
+
+             -     per lavori di durata inferiore ad un anno: intera quota a seguito della firma del certificato di
+             regolare esecuzione / certificato di collaudo;
+
+             –      per lavori di durata superiore ad un anno: quote proporzionate all’importo dei certificati di
+             pagamento liquidati nel corso di ciascun anno, nella misura dell’80%, e saldo finale a seguito
+             dell’approvazione del certificato di collaudo.
+
+9.      In occasione della liquidazione dei saldi, si provvede ad effettuare eventuali conguagli o recuperi.
+
+10.      Per appalti di lavori di manutenzione annuale con opzione di rinnovo, per i quali il RUP certifichi, la
+necessità della nomina di un direttore dei lavori, la liquidazione per l’annualità successiva alla prima compete per
+la sola fase di esecuzione dei lavori.
+</raw_text>
+      <normalized_text>g) lo svolgimento dei controlli necessari e presupposti per la liquidazione dell’incentivo, con particolare riferimento al certificato di collaudo o di regolare esecuzione della prestazione oggetto dell’affidamento e alla verifica di conformità della medesima. 3. Con il medesimo decreto di liquidazione il direttore preposto alla struttura attuatrice dell’intervento provvede al versamento dell’incentivo sull’apposito capitolo di entrata del bilancio finanziario gestionale assegnato al Servizio competente in materia di trattamento economico accessorio del personale. 4. Per i lavori realizzati con fondi posti a carico di gestioni fuori bilancio della Regione ovvero a carico dei bilanci degli enti o delle strutture commissariali cui è assegnato il personale regionale, il versamento della somma dell’incentivo nel bilancio della Regione è effettuato con imputazione al medesimo capitolo di entrata di cui al comma 3. 5. Il direttore preposto alla struttura attuatrice dell’intervento, sulla base del provvedimento di liquidazione di cui al comma 1, invia, ai sensi dell’articolo 17, apposito ordine di pagamento dell’incentivo spettante a ciascun dipendente alla struttura regionale competente in materia di pagamento del trattamento economico al personale dipendente, alla quale spetta esclusivamente lo svolgimento delle operazioni necessarie alla materiale erogazione dell’incentivo nell’ambito delle competenze stipendiali. 6. Dopo la firma del certificato di collaudo o di regolare esecuzione dell’opera o della verifica di conformità, fatto salvo quanto previsto dai commi da 7 a 10, la liquidazione dei compensi viene effettuata in un’unica soluzione. 7. Nel caso di contratti di durata o a carattere pluriennale, diversi dai casi di cui ai commi 8 e 10, la liquidazione dell’incentivo può avvenire: a) dopo la stipula del contratto d'appalto: 1) a saldo per la fase di programmazione della spesa; 2) a saldo per la fase di progettazione; 3) a saldo per la fase della procedura di affidamento; b) a seguito della stipula del contratto d’appalto, a cadenza annuale: 1) a saldo per ciascuna singola fase di esecuzione; 8. Per lavori di importo superiore a 500.000,00 euro determinato in fase di affidamento, la liquidazione degli incentivi viene effettuata a seguito del completamento delle seguenti fasi: a) per la fase di programmazione, progettazione e affidamento: intera quota ad avvenuta stipulazione del contratto dei lavori; b) per la fase di esecuzione: - per lavori di durata inferiore ad un anno: intera quota a seguito della firma del certificato di regolare esecuzione / certificato di collaudo; – per lavori di durata superiore ad un anno: quote proporzionate all’importo dei certificati di pagamento liquidati nel corso di ciascun anno, nella misura dell’80%, e saldo finale a seguito dell’approvazione del certificato di collaudo. 9. In occasione della liquidazione dei saldi, si provvede ad effettuare eventuali conguagli o recuperi. 10. Per appalti di lavori di manutenzione annuale con opzione di rinnovo, per i quali il RUP certifichi, la necessità della nomina di un direttore dei lavori, la liquidazione per l’annualità successiva alla prima compete per la sola fase di esecuzione dei lavori.</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 13, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>60df5520-72c5-50b9-9264-e52abe1e7341</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>14</ordinal>
+      <raw_text>11.     Per la gestione degli incentivi al personale con qualifica dirigenziale, le attività di cui ai commi da 1 a 5,
+sono svolte dal direttore apicale gerarchicamente sovraordinato, al fine di evitare un possibile conflitto di
+interessi e garantire la terzietà del soggetto deputato al controllo in tale ambito.
+
+
+
+                                                    Art. 17
+                                (Ordine di pagamento ed erogazione dell’incentivo)
+
+
+1.      L’ordine di pagamento della quota d’incentivazione, di cui all’articolo 16, comma 5, sottoscritto dal
+direttore preposto alla struttura attuatrice dell’intervento, include:
+
+        a)      i dati identificativi della procedura;
+
+        b)      la dichiarazione di adozione del decreto di liquidazione e del compimento di tutte le verifiche di
+        legittimità necessarie alla corresponsione dell’incentivo;
+
+        c)     i nominativi del personale beneficiario, specificando anche se in comando presso
+        l’Amministrazione o l’Ente;
+
+        d)      l’importo da liquidare per singolo beneficiario;
+
+        e)      l’indicazione dello stato di avanzamento dell’iniziativa con particolare riferimento ai commi da 7 a
+        10 dell’articolo 16;
+
+        f)      il riepilogo annuale dei provvedimenti di liquidazione per singolo beneficiario;
+
+        g)      l’indicazione dell’anno di maturazione dell’incentivo con riferimento all’articolo 5, commi 1 e 2;
+
+        h)      la dichiarazione dell’adozione di metodi e strumenti di gestione informativa digitale delle
+        costruzioni di cui all'articolo 43 del decreto legislativo 36/2023.
+
+2.     Il Servizio competente in materia di trattamento economico accessorio del personale verifica
+unicamente:
+
+        a)      l’appartenenza del beneficiario dell’incentivo al personale;
+
+        b)      la capienza contabile dei capitoli di entrata e di spesa;
+
+        c)      il rispetto del limite massimo di cui all’articolo 5.
+
+3.       Il Servizio competente in materia di trattamento economico accessorio del personale non svolge alcun
+ulteriore accertamento o verifica sulla spettanza dell’incentivo e sulla sua quantificazione. Il Servizio competente
+in materia di trattamento economico accessorio del personale è esente da ogni responsabilità derivante dagli atti
+della struttura attuatrice dell’intervento.
+
+4.      L’incentivo, in quanto salario accessorio, è erogato tramite cedolino stipendiale dal Servizio competente
+in materia di trattamento economico accessorio del personale, sulla base dell’ordine di pagamento inviato dal
+direttore preposto alla struttura attuatrice dell’intervento, che, sotto la propria responsabilità e con proprio
+provvedimento, ha disposto, nel rispetto delle disposizioni del presente regolamento e delle norme vigenti in
+materia, la liquidazione degli importi dell’incentivo complessivo e di quello spettante a ciascun dipendente.
+
+
+
+                                                        Art. 18
+                                     (Tempistica per l’erogazione dell’incentivo)
+</raw_text>
+      <normalized_text>11. Per la gestione degli incentivi al personale con qualifica dirigenziale, le attività di cui ai commi da 1 a 5, sono svolte dal direttore apicale gerarchicamente sovraordinato, al fine di evitare un possibile conflitto di interessi e garantire la terzietà del soggetto deputato al controllo in tale ambito. Art. 17 (Ordine di pagamento ed erogazione dell’incentivo) 1. L’ordine di pagamento della quota d’incentivazione, di cui all’articolo 16, comma 5, sottoscritto dal direttore preposto alla struttura attuatrice dell’intervento, include: a) i dati identificativi della procedura; b) la dichiarazione di adozione del decreto di liquidazione e del compimento di tutte le verifiche di legittimità necessarie alla corresponsione dell’incentivo; c) i nominativi del personale beneficiario, specificando anche se in comando presso l’Amministrazione o l’Ente; d) l’importo da liquidare per singolo beneficiario; e) l’indicazione dello stato di avanzamento dell’iniziativa con particolare riferimento ai commi da 7 a 10 dell’articolo 16; f) il riepilogo annuale dei provvedimenti di liquidazione per singolo beneficiario; g) l’indicazione dell’anno di maturazione dell’incentivo con riferimento all’articolo 5, commi 1 e 2; h) la dichiarazione dell’adozione di metodi e strumenti di gestione informativa digitale delle costruzioni di cui all'articolo 43 del decreto legislativo 36/2023. 2. Il Servizio competente in materia di trattamento economico accessorio del personale verifica unicamente: a) l’appartenenza del beneficiario dell’incentivo al personale; b) la capienza contabile dei capitoli di entrata e di spesa; c) il rispetto del limite massimo di cui all’articolo 5. 3. Il Servizio competente in materia di trattamento economico accessorio del personale non svolge alcun ulteriore accertamento o verifica sulla spettanza dell’incentivo e sulla sua quantificazione. Il Servizio competente in materia di trattamento economico accessorio del personale è esente da ogni responsabilità derivante dagli atti della struttura attuatrice dell’intervento. 4. L’incentivo, in quanto salario accessorio, è erogato tramite cedolino stipendiale dal Servizio competente in materia di trattamento economico accessorio del personale, sulla base dell’ordine di pagamento inviato dal direttore preposto alla struttura attuatrice dell’intervento, che, sotto la propria responsabilità e con proprio provvedimento, ha disposto, nel rispetto delle disposizioni del presente regolamento e delle norme vigenti in materia, la liquidazione degli importi dell’incentivo complessivo e di quello spettante a ciascun dipendente. Art. 18 (Tempistica per l’erogazione dell’incentivo)</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 14, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>19abc7ef-bddd-5e04-896f-132552488bf2</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>15</ordinal>
+      <raw_text>1.      Il Servizio competente in materia di trattamento economico accessorio del personale eroga gli incentivi
+contestualmente alle competenze stipendiali entro il termine ordinatorio del terzo mese successivo a quello di
+ricezione dell’ordine di pagamento di cui all'articolo 17.
+
+2.       È onere del singolo dipendente comunicare al servizio competente al pagamento, entro il mese
+successivo a quello di liquidazione a proprio favore, eventuali incentivi a lui corrisposti da altre amministrazioni, in
+modo da poter consentire, entro il termine di pagamento degli incentivi regionali, la determinazione in ordine
+all'eventuale superamento dell'importo di cui all’articolo 5.
+
+3.      Il Servizio competente in materia di trattamento economico accessorio del personale provvede a
+comunicare l’erogazione degli incentivi al dipendente mediante modalità telematica ovvero, in alternativa, al
+direttore della struttura attuatrice dell’intervento.
+
+
+
+                                                       Art. 19
+                                                (Disposizioni di rinvio)
+
+
+1.     Per quanto non previsto dal presente regolamento, si rinvia alle norme tempo per tempo applicabili in
+materia.
+
+
+
+                                                       Art. 20
+                                       (Abrogazioni e disposizioni transitorie)
+
+
+        1. Sono abrogati:
+
+        a) il decreto del Presidente della Regione 17 aprile 2019, n. 59 (Regolamento contenente criteri e
+           modalità per la ripartizione degli incentivi per funzioni tecniche per la realizzazione di lavori pubblici ai
+           sensi dell’articolo 11 della legge regionale 31 maggio 2022, n. 14 (Disciplina organica dei lavori
+           pubblici);
+        b) il decreto del Presidente della Regione 4 giugno 2019, n. 92 (Regolamento contenente criteri e
+           modalità per la ripartizione del fondo degli incentivi per funzioni tecniche per gli appalti relativi a
+           servizi e forniture di cui all'articolo10 della legge regionale 28 dicembre 2017, n. 44 (Legge collegata
+           alla manovra di bilancio 2018-2020);
+        c) il decreto del Presidente della Regione 1 agosto 2019, n. 130 (Regolamento di modifica al
+           Regolamento contenente criteri e modalità per la ripartizione del fondo degli incentivi per funzioni
+           tecniche per gli appalti relativi a servizi e forniture di cui all’articolo 10 della legge regionale 28
+           dicembre 2017, n. 44 (Legge collegata alla manovra di bilancio 2018-2020) emanato con D.P.Reg.
+           92/2019);
+        d) il decreto del Presidente della Regione 20 ottobre 2020, n. 138 (Regolamento di modifica al
+           Regolamento contenente criteri e modalità per la ripartizione del Fondo degli incentivi per funzioni
+           tecniche per gli appalti relativi a servizi e forniture di cui all’articolo 10 della legge regionale 28
+           dicembre 2017, n. 44 (Legge collegata alla manovra di bilancio 2018-2020) emanato con D.P.Reg.
+           92/2019).
+        2. I regolamenti di cui al comma 1 continuano ad applicarsi ai procedimenti a cui si applicano le
+           disposizioni del decreto legislativo 50/2016, ai sensi dell’articolo 226, comma 2 del decreto
+           legislativo 36/2023.
+</raw_text>
+      <normalized_text>1. Il Servizio competente in materia di trattamento economico accessorio del personale eroga gli incentivi contestualmente alle competenze stipendiali entro il termine ordinatorio del terzo mese successivo a quello di ricezione dell’ordine di pagamento di cui all'articolo 17. 2. È onere del singolo dipendente comunicare al servizio competente al pagamento, entro il mese successivo a quello di liquidazione a proprio favore, eventuali incentivi a lui corrisposti da altre amministrazioni, in modo da poter consentire, entro il termine di pagamento degli incentivi regionali, la determinazione in ordine all'eventuale superamento dell'importo di cui all’articolo 5. 3. Il Servizio competente in materia di trattamento economico accessorio del personale provvede a comunicare l’erogazione degli incentivi al dipendente mediante modalità telematica ovvero, in alternativa, al direttore della struttura attuatrice dell’intervento. Art. 19 (Disposizioni di rinvio) 1. Per quanto non previsto dal presente regolamento, si rinvia alle norme tempo per tempo applicabili in materia. Art. 20 (Abrogazioni e disposizioni transitorie) 1. Sono abrogati: a) il decreto del Presidente della Regione 17 aprile 2019, n. 59 (Regolamento contenente criteri e modalità per la ripartizione degli incentivi per funzioni tecniche per la realizzazione di lavori pubblici ai sensi dell’articolo 11 della legge regionale 31 maggio 2022, n. 14 (Disciplina organica dei lavori pubblici); b) il decreto del Presidente della Regione 4 giugno 2019, n. 92 (Regolamento contenente criteri e modalità per la ripartizione del fondo degli incentivi per funzioni tecniche per gli appalti relativi a servizi e forniture di cui all'articolo10 della legge regionale 28 dicembre 2017, n. 44 (Legge collegata alla manovra di bilancio 2018-2020); c) il decreto del Presidente della Regione 1 agosto 2019, n. 130 (Regolamento di modifica al Regolamento contenente criteri e modalità per la ripartizione del fondo degli incentivi per funzioni tecniche per gli appalti relativi a servizi e forniture di cui all’articolo 10 della legge regionale 28 dicembre 2017, n. 44 (Legge collegata alla manovra di bilancio 2018-2020) emanato con D.P.Reg. 92/2019); d) il decreto del Presidente della Regione 20 ottobre 2020, n. 138 (Regolamento di modifica al Regolamento contenente criteri e modalità per la ripartizione del Fondo degli incentivi per funzioni tecniche per gli appalti relativi a servizi e forniture di cui all’articolo 10 della legge regionale 28 dicembre 2017, n. 44 (Legge collegata alla manovra di bilancio 2018-2020) emanato con D.P.Reg. 92/2019). 2. I regolamenti di cui al comma 1 continuano ad applicarsi ai procedimenti a cui si applicano le disposizioni del decreto legislativo 50/2016, ai sensi dell’articolo 226, comma 2 del decreto legislativo 36/2023.</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 15, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>83a64c83-52b1-5bd7-90a1-b2b2ca4f6efd</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>16</ordinal>
+      <raw_text>        3. I criteri e le modalità di ripartizione dell’incentivo per funzioni tecniche indicati nei regolamenti di cui
+           al comma 1, si applicano altresì al personale con qualifica dirigenziale, conformemente a quanto
+           disposto dall’articolo 151 della legge regionale 7/2025, per i procedimenti indicati al comma 2.
+        4. In nessun caso il cumulo degli incentivi maturati a partire dall’anno 2025, in riferimento alle diverse
+           discipline applicabili, potrà superare il 100 per cento del trattamento economico complessivo annuo
+           lordo del dipendente.
+
+
+                                                        Art. 21
+                                          (Entrata in vigore e applicazione)
+
+
+1.       Il presente regolamento entra in vigore il giorno successivo a quello di pubblicazione nel Bollettino
+Ufficiale della Regione.
+
+2.        Per gli affidamenti di servizi e forniture, il presente regolamento si applica a decorrere dall’1 luglio 2023
+per il personale non dirigente, in conformità a quanto disposto dall'articolo 226 del decreto legislativo 36/2023 e
+dall’articolo 11, comma 16 della legge regionale 7/2024 e dal 31 dicembre 2024 per il personale dirigente, in
+conformità a quanto disposto dall’articolo 151, comma 3, della legge regionale 7/2025.
+
+3.      Per gli affidamenti di lavori, il presente regolamento si applica a decorrere dall’1 luglio 2023 per il
+personale non dirigente ai sensi dell’articolo 151, comma 7, della legge regionale 7/2025 e dal 31 dicembre 2024
+per il personale dirigente, in conformità a quanto disposto dall’articolo 151, comma 3, della legge regionale
+7/2025. Sono fatti salvi gli effetti prodotti e restano validi i provvedimenti adottati sino alla data di entrata in
+vigore dell’articolo 151, comma 6, della legge regionale 7/2025.
+</raw_text>
+      <normalized_text>3. I criteri e le modalità di ripartizione dell’incentivo per funzioni tecniche indicati nei regolamenti di cui al comma 1, si applicano altresì al personale con qualifica dirigenziale, conformemente a quanto disposto dall’articolo 151 della legge regionale 7/2025, per i procedimenti indicati al comma 2. 4. In nessun caso il cumulo degli incentivi maturati a partire dall’anno 2025, in riferimento alle diverse discipline applicabili, potrà superare il 100 per cento del trattamento economico complessivo annuo lordo del dipendente. Art. 21 (Entrata in vigore e applicazione) 1. Il presente regolamento entra in vigore il giorno successivo a quello di pubblicazione nel Bollettino Ufficiale della Regione. 2. Per gli affidamenti di servizi e forniture, il presente regolamento si applica a decorrere dall’1 luglio 2023 per il personale non dirigente, in conformità a quanto disposto dall'articolo 226 del decreto legislativo 36/2023 e dall’articolo 11, comma 16 della legge regionale 7/2024 e dal 31 dicembre 2024 per il personale dirigente, in conformità a quanto disposto dall’articolo 151, comma 3, della legge regionale 7/2025. 3. Per gli affidamenti di lavori, il presente regolamento si applica a decorrere dall’1 luglio 2023 per il personale non dirigente ai sensi dell’articolo 151, comma 7, della legge regionale 7/2025 e dal 31 dicembre 2024 per il personale dirigente, in conformità a quanto disposto dall’articolo 151, comma 3, della legge regionale 7/2025. Sono fatti salvi gli effetti prodotti e restano validi i provvedimenti adottati sino alla data di entrata in vigore dell’articolo 151, comma 6, della legge regionale 7/2025.</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 16, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>4a4c636b-10df-52e8-afc1-0742f9ee24b8</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>17</ordinal>
+      <raw_text>ALLEGATO A (Rif. Articolo 13)
+Ripartizione delle risorse relative agli incentivi alle funzioni tecniche per la realizzazione di lavori
+Le percentuali sono indicate per le fasi nella misura minima e massima. La proposta sarà completata dalla stazione appaltante con le percentuali per le singole figure
+Quando le attività non sono svolte né da personale interno né da altri soggetti esterni incaricati, al corrispondente range è attribuita la percentuale zero (0 %).
+ATTIVITA'                                             RANGE      Fase programmazione         Fase progettazione          Fase affidamento        Fase esecuzione         Totale
+                                                                         3-5%                      15-30%                     10-25%                 30-55%
+
+
+Responsabile unico del progetto (RUP)                 20 -35
+Responsabile di procedimento per le fasi di                                    eventuale percentuale da ricomprendere in quella del RUP
+programmazione, progettazione affidamento
+ed esecuzione
+Programmazione della spesa per investimenti            1 -5
+Collaborazione all'attività del RUP, quali             5-20
+responsabili e addetti alla gestione tecnico-
+amministrativa dell'intervento
+
+
+
+
+Redazione del documento di fattibilità delle           1-3
+alternative progettuali
+
+
+Redazione del progetto di fattibilità tecnica ed       5-10
+economica
+Redazione del progetto esecutivo                       8-15
+Coordinamento per la sicurezza in fase di              2-5
+progettazione
+Verifica del progetto ai fini della sua validazione    2 -6
+Predisposizione dei documenti di gara                  2 -6
+(affidamento)
+Direzione dei lavori                                  5 - 25
+Ufficio di direzione dei lavori (direttore/i          5 -20
+operativo/i, ispettore/i di cantiere)
+Coordinamento per la sicurezza in fase di              3-8
+esecuzione
+Certificato di regolare esecuzione                     2 -5
+Collaudo tecnico-amministrativo                       4 -10
+Collaudo statico                                      2 - 10
+Coordinamento dei flussi informatici                   1 -3
+Totale                                                                                                                                                                   100%
+</raw_text>
+      <normalized_text>ALLEGATO A (Rif. Articolo 13) Ripartizione delle risorse relative agli incentivi alle funzioni tecniche per la realizzazione di lavori Le percentuali sono indicate per le fasi nella misura minima e massima. La proposta sarà completata dalla stazione appaltante con le percentuali per le singole figure Quando le attività non sono svolte né da personale interno né da altri soggetti esterni incaricati, al corrispondente range è attribuita la percentuale zero (0 %). ATTIVITA' RANGE Fase programmazione Fase progettazione Fase affidamento Fase esecuzione Totale 3-5% 15-30% 10-25% 30-55% Responsabile unico del progetto (RUP) 20 -35 Responsabile di procedimento per le fasi di eventuale percentuale da ricomprendere in quella del RUP programmazione, progettazione affidamento ed esecuzione Programmazione della spesa per investimenti 1 -5 Collaborazione all'attività del RUP, quali 5-20 responsabili e addetti alla gestione tecnico- amministrativa dell'intervento Redazione del documento di fattibilità delle 1-3 alternative progettuali Redazione del progetto di fattibilità tecnica ed 5-10 economica Redazione del progetto esecutivo 8-15 Coordinamento per la sicurezza in fase di 2-5 progettazione Verifica del progetto ai fini della sua validazione 2 -6 Predisposizione dei documenti di gara 2 -6 (affidamento) Direzione dei lavori 5 - 25 Ufficio di direzione dei lavori (direttore/i 5 -20 operativo/i, ispettore/i di cantiere) Coordinamento per la sicurezza in fase di 3-8 esecuzione Certificato di regolare esecuzione 2 -5 Collaudo tecnico-amministrativo 4 -10 Collaudo statico 2 - 10 Coordinamento dei flussi informatici 1 -3 Totale 100%</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 17, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e422af92-237d-5d04-9a66-4419817899ba</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>0da6f7bb-d27e-59a7-933f-3ada0cc4f18b</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>18</ordinal>
+      <raw_text>ALLEGATO B (Rif. Articolo 14)
+Ripartizione delle risorse relative agli incentivi alle funzioni tecniche per servizi e forniture
+Le percentuali sono indicate per le fasi nella misura massima. La proposta sarà completata dalla stazione appaltante con le percentuali per le singole figure
+Quando le attività non sono svolte né da personale interno né da altri soggetti esterni incaricati, al corrispondente range è attribuita la percentuale zero (0 %).
+ATTIVITA'                                          RANGE          Fase programmazione     Fase progettazione 15-30%        Fase affidamento 10-   Fase esecuzione 30-55%      Totale
+                                                                          3-5%                                                     25%*
+
+
+Responsabile unico del progetto (RUP)               20-35
+Responsabile di procedimento per le fasi di                                      eventuale percentuale da ricomprendere in quella del RUP
+programmazione, progettazione affidamento ed
+esecuzione
+Programmazione della spesa per investimenti         1-5
+Collaborazione all'attività del RUP, quali          5-20
+responsabili e addetti alla gestione tecnico-
+amministrativa dell'intervento
+
+
+
+
+Redazione del progetto esecutivo                    8-15
+Coordinamento per la sicurezza in fase di           2-5
+progettazione
+Predisposizione dei documenti di gara                2-6
+(affidamento)
+Direzione dell'esecuzione ed eventuale direttore    5-35
+operativo
+Collaboratori del direttore dell'esecuzione         5-20
+Coordinamento per la sicurezza in fase di           3-8
+esecuzione
+Regolare esecuzione                                 2-5
+Verifica di conformità                              3-10
+Coordinamento dei flussi informativi                1-3
+Totale                                                                                                                                                                     100%
+* In caso di ricorso a centrale di committenza la percentuale va individuata nella misura del 25%
+
+
+
+                                                    VISTO: IL PRESIDENTE
+</raw_text>
+      <normalized_text>ALLEGATO B (Rif. Articolo 14) Ripartizione delle risorse relative agli incentivi alle funzioni tecniche per servizi e forniture Le percentuali sono indicate per le fasi nella misura massima. La proposta sarà completata dalla stazione appaltante con le percentuali per le singole figure Quando le attività non sono svolte né da personale interno né da altri soggetti esterni incaricati, al corrispondente range è attribuita la percentuale zero (0 %). ATTIVITA' RANGE Fase programmazione Fase progettazione 15-30% Fase affidamento 10- Fase esecuzione 30-55% Totale 3-5% 25%* Responsabile unico del progetto (RUP) 20-35 Responsabile di procedimento per le fasi di eventuale percentuale da ricomprendere in quella del RUP programmazione, progettazione affidamento ed esecuzione Programmazione della spesa per investimenti 1-5 Collaborazione all'attività del RUP, quali 5-20 responsabili e addetti alla gestione tecnico- amministrativa dell'intervento Redazione del progetto esecutivo 8-15 Coordinamento per la sicurezza in fase di 2-5 progettazione Predisposizione dei documenti di gara 2-6 (affidamento) Direzione dell'esecuzione ed eventuale direttore 5-35 operativo Collaboratori del direttore dell'esecuzione 5-20 Coordinamento per la sicurezza in fase di 3-8 esecuzione Regolare esecuzione 2-5 Verifica di conformità 3-10 Coordinamento dei flussi informativi 1-3 Totale 100% * In caso di ricorso a centrale di committenza la percentuale va individuata nella misura del 25% VISTO: IL PRESIDENTE</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "2d1738566f8a579e4cd52ec6cd7ab98d787dfd31a82417933d4c15326942fc2a", "pdf_page": 18, "role": "attachment_content", "source_url": "inputs/ALLEGATO1%20AL%20DPREG%20013-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
   </document_units>
   <ingestion_run>
-    <id>120c1813-deb3-4424-bea6-5175362c0f5b</id>
+    <id>3d9afbec-51c4-4452-8af6-5b5c53beb418</id>
     <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
     <parser_name>fvg_pdf_decree</parser_name>
-    <parser_version>1.0.0</parser_version>
+    <parser_version>1.1.0</parser_version>
     <status>COMPLETED_WITH_ISSUES</status>
-    <started_at>2026-10-23T10:05:35.483000+00:00</started_at>
-    <finished_at>2026-10-23T10:05:35.494404+00:00</finished_at>
-    <statistics>{"document_units": 17, "pages": 2, "parser_issues": 4}</statistics>
+    <started_at>2026-10-23T10:25:15.555269+00:00</started_at>
+    <finished_at>2026-10-23T10:25:15.748692+00:00</finished_at>
+    <statistics>{"attachment_pages": 18, "attachments": 1, "document_units": 36, "pages": 2, "parser_issues": 5}</statistics>
   </ingestion_run>
   <parser_issues>
     <parser_issue>
-      <id>0dc8ef4b-317d-5e5e-b2fa-c42fb5ba39a6</id>
-      <ingestion_run_id>120c1813-deb3-4424-bea6-5175362c0f5b</ingestion_run_id>
+      <id>e8d53d85-150a-5dad-aafe-b87a92ddecda</id>
+      <ingestion_run_id>3d9afbec-51c4-4452-8af6-5b5c53beb418</ingestion_run_id>
       <issue_type>PROVISION_VALIDITY_NOT_INFERRED</issue_type>
       <candidate_text>Decree date and signature dates do not establish provision validity.</candidate_text>
       <source_locator>{}</source_locator>
@@ -318,8 +1246,8 @@ Regione.</raw_text>
       <resolution_status>OPEN</resolution_status>
     </parser_issue>
     <parser_issue>
-      <id>305e2bf7-bb0a-55b6-bf40-bfecd79dd205</id>
-      <ingestion_run_id>120c1813-deb3-4424-bea6-5175362c0f5b</ingestion_run_id>
+      <id>d11c56c3-d0fd-5f5f-af5f-3778a8445faf</id>
+      <ingestion_run_id>3d9afbec-51c4-4452-8af6-5b5c53beb418</ingestion_run_id>
       <issue_type>UNKNOWN_RETRIEVAL_TIME</issue_type>
       <candidate_text>Acquisition time was not supplied.</candidate_text>
       <source_locator>{}</source_locator>
@@ -327,17 +1255,26 @@ Regione.</raw_text>
       <resolution_status>OPEN</resolution_status>
     </parser_issue>
     <parser_issue>
-      <id>d5af9eea-f5d6-54c2-8952-fa3a4b3c9cb0</id>
-      <ingestion_run_id>120c1813-deb3-4424-bea6-5175362c0f5b</ingestion_run_id>
-      <issue_type>ANNEX_REFERENCE_REQUIRES_REVIEW</issue_type>
-      <candidate_text>The decree refers to attachments; verify whether separate files are required.</candidate_text>
+      <id>96d3ddb2-9d07-5b91-a3ed-533958f8c65a</id>
+      <ingestion_run_id>3d9afbec-51c4-4452-8af6-5b5c53beb418</ingestion_run_id>
+      <issue_type>ANNEX_STRUCTURE_REQUIRES_REVIEW</issue_type>
+      <candidate_text>ALLEGATO1 AL DPREG 013-2026.pdf</candidate_text>
       <source_locator>{}</source_locator>
-      <parser_context>{"policy": "No attachment content or completeness inferred from the reference."}</parser_context>
+      <parser_context>{"attachment_index": 1, "policy": "Full extracted text retained; article, table and list structure not inferred."}</parser_context>
       <resolution_status>OPEN</resolution_status>
     </parser_issue>
     <parser_issue>
-      <id>3a018da0-6046-5ed6-8771-4cfb0c1220de</id>
-      <ingestion_run_id>120c1813-deb3-4424-bea6-5175362c0f5b</ingestion_run_id>
+      <id>344ade78-5c84-5ae8-b76a-a72d7aa8ef19</id>
+      <ingestion_run_id>3d9afbec-51c4-4452-8af6-5b5c53beb418</ingestion_run_id>
+      <issue_type>ANNEX_REFERENCE_REQUIRES_REVIEW</issue_type>
+      <candidate_text>Verify supplied attachments against decree references; completeness is not inferred.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"policy": "No completeness inferred from references or filenames.", "supplied_attachment_count": 1}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>5e632319-ec0c-5d01-a223-9a5c333b596c</id>
+      <ingestion_run_id>3d9afbec-51c4-4452-8af6-5b5c53beb418</ingestion_run_id>
       <issue_type>PDF_STRUCTURE_REQUIRES_REVIEW</issue_type>
       <candidate_text>Review inferred paragraph boundaries, tables, annexes and reading order against the PDF.</candidate_text>
       <source_locator>{}</source_locator>
