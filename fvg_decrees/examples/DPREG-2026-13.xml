@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<legal_ingestion xmlns="urn:fvg:legal:ingest:2.0" schema_version="2.0">
+  <source_document>
+    <id>90a3f3cd-6f00-55c4-bd78-f79483d7ee82</id>
+    <jurisdiction>IT-FVG</jurisdiction>
+    <document_type>DPREG</document_type>
+    <number>13</number>
+    <year>2026</year>
+    <document_date>2026-02-02</document_date>
+    <title>REGOLAMENTO RECANTE CRITERI DI DETERMINAZIONE E DI RIPARTO DEGLI INCENTIVI ALLE FUNZIONI TECNICHE PER LAFFIDAMENTO DI LAVORI, DI SERVIZI E FORNITURE DI CUI ALLARTICOLO 45 DEL DECRETO LEGISLATIVO 31 MARZO 2023, N. 36 (CODICE DEI CONTRATTI PUBBLICI)</title>
+    <issuer>Presidente della Regione autonoma Friuli Venezia Giulia</issuer>
+    <metadata>{"canonical_key": "IT-FVG:DPREG:2026:13", "copy_statement": "Copia dell'originale firmato digitalmente.", "countersigners": [{"date": "2026-02-02", "name": "ANNA D' AMBROSIO"}, {"date": "2026-02-02", "name": "GIANPAOLO GASPARI"}], "document_date": "2026-02-02", "metadata_source": {"pdf_page": 1}, "number": "13", "place": "Trieste", "printed_number": "013", "signatories": [{"date": "2026-02-02", "name": "MASSIMILIANO FEDRIGA"}], "signature_cryptographically_verified": false, "title": "REGOLAMENTO RECANTE CRITERI DI DETERMINAZIONE E DI RIPARTO DEGLI INCENTIVI ALLE FUNZIONI TECNICHE PER LAFFIDAMENTO DI LAVORI, DI SERVIZI E FORNITURE DI CUI ALLARTICOLO 45 DEL DECRETO LEGISLATIVO 31 MARZO 2023, N. 36 (CODICE DEI CONTRATTI PUBBLICI)"}</metadata>
+  </source_document>
+  <source_representation>
+    <id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</id>
+    <source_document_id>90a3f3cd-6f00-55c4-bd78-f79483d7ee82</source_document_id>
+    <source_system>FVG_DPREG_PDF</source_system>
+    <format>PDF</format>
+    <source_url>file:///workspace/attachments/7b00fda7-05e9-4579-b10e-39774b9ee070/TESTO%20INTEGRALE%20DEL%20DPREG%20013-2026.pdf</source_url>
+    <content_hash>fdc258b4778bea576fb61a1d788b4ee5f23e4ae606db82d45a15d4c451f5e295</content_hash>
+    <local_object_key>/workspace/attachments/7b00fda7-05e9-4579-b10e-39774b9ee070/TESTO INTEGRALE DEL DPREG 013-2026.pdf</local_object_key>
+    <media_type>application/pdf</media_type>
+    <is_official>false</is_official>
+    <legal_authority>false</legal_authority>
+    <raw_metadata>{"authority_assessment": "NOT_ESTABLISHED_FROM_UPLOADED_COPY", "extractor": "pdftotext -layout", "page_count": 2, "pdf_metadata": {"CreationDate": "Mon Feb  2 15:56:32 2026 UTC", "Custom Metadata": "no", "Encrypted": "no", "File size": "77056 bytes", "Form": "none", "JavaScript": "no", "Metadata Stream": "no", "ModDate": "Mon Feb  2 15:56:32 2026 UTC", "Optimized": "no", "PDF version": "1.4", "Page rot": "0", "Page size": "595 x 842 pts (A4)", "Pages": "2", "Producer": "iText 2.1.7 by 1T3XT", "Suspects": "no", "Tagged": "no", "UserProperties": "no"}, "provision_validity_inferred": false, "raw_artifact_preserved": true}</raw_metadata>
+  </source_representation>
+  <provision_identities>
+    <provision_identity>
+      <id>e5070831-c755-586a-8799-2d6c694fddeb</id>
+      <source_document_id>90a3f3cd-6f00-55c4-bd78-f79483d7ee82</source_document_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>1</unit_label>
+      <canonical_key>IT-FVG:DPREG:2026:13:PUNTO1</canonical_key>
+      <ordinal>1</ordinal>
+    </provision_identity>
+    <provision_identity>
+      <id>ae041e3f-4c9c-521e-9741-52e6f2269e6c</id>
+      <source_document_id>90a3f3cd-6f00-55c4-bd78-f79483d7ee82</source_document_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>2</unit_label>
+      <canonical_key>IT-FVG:DPREG:2026:13:PUNTO2</canonical_key>
+      <ordinal>2</ordinal>
+    </provision_identity>
+  </provision_identities>
+  <provision_versions/>
+  <document_units>
+    <document_unit>
+      <id>1578cf8b-7e60-5888-bfe8-6d4767404478</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <unit_type>DOCUMENT</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{"pdf_pages": [1, 2]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>f18bbcee-6dc4-52e7-8c54-0c041de38b0e</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>1578cf8b-7e60-5888-bfe8-6d4767404478</parent_unit_id>
+      <unit_type>HEADER</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>                                            Decreto n° 013 / Pres.
+                                            Trieste, 2 febbraio 2026
+                                            Copia dell'originale firmato digitalmente.
+
+
+
+
+oggetto:
+REGOLAMENTO RECANTE CRITERI DI DETERMINAZIONE E DI RIPARTO DEGLI INCENTIVI ALLE
+FUNZIONI TECNICHE PER LAFFIDAMENTO DI LAVORI, DI SERVIZI E FORNITURE DI CUI ALLARTICOLO
+45 DEL DECRETO LEGISLATIVO 31 MARZO 2023, N. 36 (CODICE DEI CONTRATTI PUBBLICI)
+
+
+
+
+Firmato da:
+MASSIMILIANO FEDRIGA                        in data 02/02/2026
+
+Siglato da:
+ANNA D' AMBROSIO                            in data 02/02/2026
+GIANPAOLO GASPARI                           in data 02/02/2026
+</raw_text>
+      <normalized_text>Decreto n° 013 / Pres. Trieste, 2 febbraio 2026 Copia dell'originale firmato digitalmente. oggetto: REGOLAMENTO RECANTE CRITERI DI DETERMINAZIONE E DI RIPARTO DEGLI INCENTIVI ALLE FUNZIONI TECNICHE PER LAFFIDAMENTO DI LAVORI, DI SERVIZI E FORNITURE DI CUI ALLARTICOLO 45 DEL DECRETO LEGISLATIVO 31 MARZO 2023, N. 36 (CODICE DEI CONTRATTI PUBBLICI) Firmato da: MASSIMILIANO FEDRIGA in data 02/02/2026 Siglato da: ANNA D' AMBROSIO in data 02/02/2026 GIANPAOLO GASPARI in data 02/02/2026</normalized_text>
+      <source_locator>{"pdf_page": 1}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>b42f4f37-d44b-56ca-9f0a-1f35dcfcc1f7</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>1578cf8b-7e60-5888-bfe8-6d4767404478</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>2</ordinal>
+      <raw_text>Visto il decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici in attuazione
+dell'articolo 1 della legge 21 giugno 2022, n. 78, recante delega al Governo in materia di
+contratti pubblici);
+Visto, in particolare, l’articolo 45 del d.lgs. 36/2023 (Incentivi alle funzioni tecniche);
+Visto l’articolo 11 della legge regionale 31 maggio 2002, n. 14 (Disciplina organica dei lavori
+pubblici);
+Visto l’articolo 11, commi da 13 a 16, della legge regionale 7 agosto 2024, n. 7 (Assestamento
+del bilancio per gli anni 2024-2026, ai sensi dell’articolo 6 della legge regionale 10 novembre
+2015, n. 26);
+Visto l’articolo 151 della legge regionale 3 giugno 2025, n. 7 (Disposizioni multisettoriali);
+Visto il testo del Regolamento recante criteri di determinazione e di riparto degli incentivi alle
+funzioni tecniche per l’affidamento di lavori, di servizi e forniture di cui all’articolo 45 del
+decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici), adottato con
+deliberazione della Giunta regionale n. 112 del 30 gennaio 2026;
+Visto l’articolo 42 dello Statuto speciale della Regione Autonoma Friuli Venezia Giulia;
+Visto l’articolo 14 della legge regionale 18 giugno 2007, n. 17 (Determinazione della forma di
+governo della Regione Friuli Venezia Giulia e del sistema elettorale regionale, ai sensi
+dell’articolo 12 dello Statuto di autonomia);
+                                             Decreta
+1. È emanato il “Regolamento recante criteri di determinazione e di riparto degli incentivi
+alle funzioni tecniche per l’affidamento di lavori, di servizi e forniture di cui all’articolo 45 del
+decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici)”, nel testo allegato che
+costituisce parte integrante e sostanziale del presente decreto.
+2. È fatto obbligo, a chiunque spetti, di osservarlo e farlo osservare come Regolamento della
+Regione.
+Il presente decreto sarà pubblicato sul Bollettino Ufficiale della Regione.
+
+
+                                                                   - dott. Massimiliano Fedriga -
+</raw_text>
+      <normalized_text>Visto il decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici in attuazione dell'articolo 1 della legge 21 giugno 2022, n. 78, recante delega al Governo in materia di contratti pubblici); Visto, in particolare, l’articolo 45 del d.lgs. 36/2023 (Incentivi alle funzioni tecniche); Visto l’articolo 11 della legge regionale 31 maggio 2002, n. 14 (Disciplina organica dei lavori pubblici); Visto l’articolo 11, commi da 13 a 16, della legge regionale 7 agosto 2024, n. 7 (Assestamento del bilancio per gli anni 2024-2026, ai sensi dell’articolo 6 della legge regionale 10 novembre 2015, n. 26); Visto l’articolo 151 della legge regionale 3 giugno 2025, n. 7 (Disposizioni multisettoriali); Visto il testo del Regolamento recante criteri di determinazione e di riparto degli incentivi alle funzioni tecniche per l’affidamento di lavori, di servizi e forniture di cui all’articolo 45 del decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici), adottato con deliberazione della Giunta regionale n. 112 del 30 gennaio 2026; Visto l’articolo 42 dello Statuto speciale della Regione Autonoma Friuli Venezia Giulia; Visto l’articolo 14 della legge regionale 18 giugno 2007, n. 17 (Determinazione della forma di governo della Regione Friuli Venezia Giulia e del sistema elettorale regionale, ai sensi dell’articolo 12 dello Statuto di autonomia); Decreta 1. È emanato il “Regolamento recante criteri di determinazione e di riparto degli incentivi alle funzioni tecniche per l’affidamento di lavori, di servizi e forniture di cui all’articolo 45 del decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici)”, nel testo allegato che costituisce parte integrante e sostanziale del presente decreto. 2. È fatto obbligo, a chiunque spetti, di osservarlo e farlo osservare come Regolamento della Regione. Il presente decreto sarà pubblicato sul Bollettino Ufficiale della Regione. - dott. Massimiliano Fedriga -</normalized_text>
+      <source_locator>{"pdf_page": 2, "role": "extraction_evidence"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>3d22bea0-eff5-504d-964f-0e0db23417e7</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>1578cf8b-7e60-5888-bfe8-6d4767404478</parent_unit_id>
+      <unit_type>PREAMBLE</unit_type>
+      <ordinal>3</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>ea857907-d610-5d70-9bee-c797ffa85afe</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>3d22bea0-eff5-504d-964f-0e0db23417e7</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>Visto il decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici in attuazione
+dell'articolo 1 della legge 21 giugno 2022, n. 78, recante delega al Governo in materia di
+contratti pubblici);</raw_text>
+      <normalized_text>Visto il decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici in attuazione dell'articolo 1 della legge 21 giugno 2022, n. 78, recante delega al Governo in materia di contratti pubblici);</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 1, "page": 2}, {"line": 2, "page": 2}, {"line": 3, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>7b4b6bcb-23f5-55a8-b0a6-b5debb563eb9</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>3d22bea0-eff5-504d-964f-0e0db23417e7</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>2</ordinal>
+      <raw_text>Visto, in particolare, l’articolo 45 del d.lgs. 36/2023 (Incentivi alle funzioni tecniche);</raw_text>
+      <normalized_text>Visto, in particolare, l’articolo 45 del d.lgs. 36/2023 (Incentivi alle funzioni tecniche);</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 4, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>2a95bdfc-2b21-5a27-a2c8-ee86293aa90e</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>3d22bea0-eff5-504d-964f-0e0db23417e7</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>3</ordinal>
+      <raw_text>Visto l’articolo 11 della legge regionale 31 maggio 2002, n. 14 (Disciplina organica dei lavori
+pubblici);</raw_text>
+      <normalized_text>Visto l’articolo 11 della legge regionale 31 maggio 2002, n. 14 (Disciplina organica dei lavori pubblici);</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 5, "page": 2}, {"line": 6, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>4fd38673-09aa-5987-9670-92c3a47f0a5a</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>3d22bea0-eff5-504d-964f-0e0db23417e7</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>4</ordinal>
+      <raw_text>Visto l’articolo 11, commi da 13 a 16, della legge regionale 7 agosto 2024, n. 7 (Assestamento
+del bilancio per gli anni 2024-2026, ai sensi dell’articolo 6 della legge regionale 10 novembre
+2015, n. 26);</raw_text>
+      <normalized_text>Visto l’articolo 11, commi da 13 a 16, della legge regionale 7 agosto 2024, n. 7 (Assestamento del bilancio per gli anni 2024-2026, ai sensi dell’articolo 6 della legge regionale 10 novembre 2015, n. 26);</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 7, "page": 2}, {"line": 8, "page": 2}, {"line": 9, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>86a2a0d9-8329-5e8e-9d4b-755fbb44034d</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>3d22bea0-eff5-504d-964f-0e0db23417e7</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>5</ordinal>
+      <raw_text>Visto l’articolo 151 della legge regionale 3 giugno 2025, n. 7 (Disposizioni multisettoriali);</raw_text>
+      <normalized_text>Visto l’articolo 151 della legge regionale 3 giugno 2025, n. 7 (Disposizioni multisettoriali);</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 10, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>ddfa3689-f39d-5593-a29a-1ef01cdb8732</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>3d22bea0-eff5-504d-964f-0e0db23417e7</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>6</ordinal>
+      <raw_text>Visto il testo del Regolamento recante criteri di determinazione e di riparto degli incentivi alle
+funzioni tecniche per l’affidamento di lavori, di servizi e forniture di cui all’articolo 45 del
+decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici), adottato con
+deliberazione della Giunta regionale n. 112 del 30 gennaio 2026;</raw_text>
+      <normalized_text>Visto il testo del Regolamento recante criteri di determinazione e di riparto degli incentivi alle funzioni tecniche per l’affidamento di lavori, di servizi e forniture di cui all’articolo 45 del decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici), adottato con deliberazione della Giunta regionale n. 112 del 30 gennaio 2026;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 11, "page": 2}, {"line": 12, "page": 2}, {"line": 13, "page": 2}, {"line": 14, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>3e46512d-904c-525b-8d00-8b60af21d734</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>3d22bea0-eff5-504d-964f-0e0db23417e7</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>7</ordinal>
+      <raw_text>Visto l’articolo 42 dello Statuto speciale della Regione Autonoma Friuli Venezia Giulia;</raw_text>
+      <normalized_text>Visto l’articolo 42 dello Statuto speciale della Regione Autonoma Friuli Venezia Giulia;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 15, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>c1562a7d-6f22-5b5e-a306-2335f70b16bd</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>3d22bea0-eff5-504d-964f-0e0db23417e7</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>8</ordinal>
+      <raw_text>Visto l’articolo 14 della legge regionale 18 giugno 2007, n. 17 (Determinazione della forma di
+governo della Regione Friuli Venezia Giulia e del sistema elettorale regionale, ai sensi
+dell’articolo 12 dello Statuto di autonomia);</raw_text>
+      <normalized_text>Visto l’articolo 14 della legge regionale 18 giugno 2007, n. 17 (Determinazione della forma di governo della Regione Friuli Venezia Giulia e del sistema elettorale regionale, ai sensi dell’articolo 12 dello Statuto di autonomia);</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 16, "page": 2}, {"line": 17, "page": 2}, {"line": 18, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>4d9ca615-0c67-5449-a476-3a471e36df6e</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>1578cf8b-7e60-5888-bfe8-6d4767404478</parent_unit_id>
+      <unit_type>OPERATIVE_SECTION</unit_type>
+      <ordinal>4</ordinal>
+      <raw_text>Decreta</raw_text>
+      <normalized_text>Decreta</normalized_text>
+      <source_locator>{"line": 19, "pdf_page": 2}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>67079271-230f-5938-8b2f-86e910a7c753</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>4d9ca615-0c67-5449-a476-3a471e36df6e</parent_unit_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>1</unit_label>
+      <ordinal>1</ordinal>
+      <raw_text>1. È emanato il “Regolamento recante criteri di determinazione e di riparto degli incentivi
+alle funzioni tecniche per l’affidamento di lavori, di servizi e forniture di cui all’articolo 45 del
+decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici)”, nel testo allegato che
+costituisce parte integrante e sostanziale del presente decreto.</raw_text>
+      <normalized_text>1. È emanato il “Regolamento recante criteri di determinazione e di riparto degli incentivi alle funzioni tecniche per l’affidamento di lavori, di servizi e forniture di cui all’articolo 45 del decreto legislativo 31 marzo 2023, n. 36 (Codice dei contratti pubblici)”, nel testo allegato che costituisce parte integrante e sostanziale del presente decreto.</normalized_text>
+      <source_locator>{"candidate_provision_key": "IT-FVG:DPREG:2026:13:PUNTO1", "pdf_lines": [{"line": 20, "page": 2}, {"line": 21, "page": 2}, {"line": 22, "page": 2}, {"line": 23, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>7e49c512-41f1-5ad6-b27c-733355a0efc6</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>4d9ca615-0c67-5449-a476-3a471e36df6e</parent_unit_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>2</unit_label>
+      <ordinal>2</ordinal>
+      <raw_text>2. È fatto obbligo, a chiunque spetti, di osservarlo e farlo osservare come Regolamento della
+Regione.</raw_text>
+      <normalized_text>2. È fatto obbligo, a chiunque spetti, di osservarlo e farlo osservare come Regolamento della Regione.</normalized_text>
+      <source_locator>{"candidate_provision_key": "IT-FVG:DPREG:2026:13:PUNTO2", "pdf_lines": [{"line": 24, "page": 2}, {"line": 25, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>3241c23f-a6bf-5021-bd7f-bd14859d4242</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>1578cf8b-7e60-5888-bfe8-6d4767404478</parent_unit_id>
+      <unit_type>CLOSING_FORMULA</unit_type>
+      <ordinal>5</ordinal>
+      <raw_text>Il presente decreto sarà pubblicato sul Bollettino Ufficiale della Regione.</raw_text>
+      <normalized_text>Il presente decreto sarà pubblicato sul Bollettino Ufficiale della Regione.</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 26, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>f18da414-5d0a-5c46-a90b-b94b5392d44f</id>
+      <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+      <parent_unit_id>1578cf8b-7e60-5888-bfe8-6d4767404478</parent_unit_id>
+      <unit_type>SIGNATURE</unit_type>
+      <ordinal>6</ordinal>
+      <raw_text>- dott. Massimiliano Fedriga -</raw_text>
+      <normalized_text>- dott. Massimiliano Fedriga -</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 29, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+  </document_units>
+  <ingestion_run>
+    <id>120c1813-deb3-4424-bea6-5175362c0f5b</id>
+    <source_representation_id>7f555751-4f22-5cd9-82b1-5f6556ba7da7</source_representation_id>
+    <parser_name>fvg_pdf_decree</parser_name>
+    <parser_version>1.0.0</parser_version>
+    <status>COMPLETED_WITH_ISSUES</status>
+    <started_at>2026-10-23T10:05:35.483000+00:00</started_at>
+    <finished_at>2026-10-23T10:05:35.494404+00:00</finished_at>
+    <statistics>{"document_units": 17, "pages": 2, "parser_issues": 4}</statistics>
+  </ingestion_run>
+  <parser_issues>
+    <parser_issue>
+      <id>0dc8ef4b-317d-5e5e-b2fa-c42fb5ba39a6</id>
+      <ingestion_run_id>120c1813-deb3-4424-bea6-5175362c0f5b</ingestion_run_id>
+      <issue_type>PROVISION_VALIDITY_NOT_INFERRED</issue_type>
+      <candidate_text>Decree date and signature dates do not establish provision validity.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>305e2bf7-bb0a-55b6-bf40-bfecd79dd205</id>
+      <ingestion_run_id>120c1813-deb3-4424-bea6-5175362c0f5b</ingestion_run_id>
+      <issue_type>UNKNOWN_RETRIEVAL_TIME</issue_type>
+      <candidate_text>Acquisition time was not supplied.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>d5af9eea-f5d6-54c2-8952-fa3a4b3c9cb0</id>
+      <ingestion_run_id>120c1813-deb3-4424-bea6-5175362c0f5b</ingestion_run_id>
+      <issue_type>ANNEX_REFERENCE_REQUIRES_REVIEW</issue_type>
+      <candidate_text>The decree refers to attachments; verify whether separate files are required.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"policy": "No attachment content or completeness inferred from the reference."}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>3a018da0-6046-5ed6-8771-4cfb0c1220de</id>
+      <ingestion_run_id>120c1813-deb3-4424-bea6-5175362c0f5b</ingestion_run_id>
+      <issue_type>PDF_STRUCTURE_REQUIRES_REVIEW</issue_type>
+      <candidate_text>Review inferred paragraph boundaries, tables, annexes and reading order against the PDF.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"page_transcripts_preserved": true, "transcripts_duplicate_structured_content": true}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+  </parser_issues>
+  <citations/>
+  <knowledge_entities/>
+  <legal_assertions/>
+  <legal_relations/>
+</legal_ingestion>

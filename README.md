@@ -123,3 +123,15 @@ python -m unittest discover -s tests -v
 The supplied law produces 38 articles, 77 operative commas, 33 letters, and 30
 linked citations. Its four nested quoted commas are retained as text.
 The included `examples/scarico.xml` validates against the supplied XSD.
+
+## Presidential decree PDF converter
+
+The [FVG decree converter](fvg_decrees/README.md) exports text-based presidential decree PDFs to `fvg-legal-ingest-2.0.xsd` XML, including cover metadata and page references. The standalone package includes its schema, validator, tests, and two validated example exports.
+
+```sh
+cd fvg_decrees
+python -m pip install -r requirements.txt
+# Also install Poppler (pdftotext and pdfinfo).
+python pdf_decree_to_xml.py decree.pdf decree.xml
+python -m unittest -v test_pdf_decree
+```

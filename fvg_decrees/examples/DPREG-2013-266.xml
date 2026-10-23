@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<legal_ingestion xmlns="urn:fvg:legal:ingest:2.0" schema_version="2.0">
+  <source_document>
+    <id>22481ac0-6228-5f37-a739-7ce664ef3018</id>
+    <jurisdiction>IT-FVG</jurisdiction>
+    <document_type>DPREG</document_type>
+    <number>266</number>
+    <year>2013</year>
+    <document_date>2013-12-27</document_date>
+    <title>L.R. 5/2007 E S.M.I., ART. 63 BIS, CO. 18. VARIANTE N. 16 AL PIANO REGOLATORE GENERALE COMUNALE DEL COMUNE DI SAN LORENZO ISONTINO: INTRODUZIONE DI MODIFICA E CONFERMA DI ESECUTIVITÀ DELLA DELIBERAZIONE CONSILIARE DI APPROVAZIONE N. 29 DEL 04.10.2013.</title>
+    <issuer>Presidente della Regione autonoma Friuli Venezia Giulia</issuer>
+    <metadata>{"canonical_key": "IT-FVG:DPREG:2013:266", "copy_statement": "Copia dell'originale firmato digitalmente.", "countersigners": [{"date": "2013-12-24", "name": "ERICA NIGRIS"}, {"date": "2013-12-27", "name": "DANIELE BERTUZZI"}], "document_date": "2013-12-27", "metadata_source": {"pdf_page": 1}, "number": "266", "place": "Trieste", "printed_number": "0266", "signatories": [{"date": "2013-12-27", "name": "DEBORA SERRACCHIANI"}], "signature_cryptographically_verified": false, "title": "L.R. 5/2007 E S.M.I., ART. 63 BIS, CO. 18. VARIANTE N. 16 AL PIANO REGOLATORE GENERALE COMUNALE DEL COMUNE DI SAN LORENZO ISONTINO: INTRODUZIONE DI MODIFICA E CONFERMA DI ESECUTIVITÀ DELLA DELIBERAZIONE CONSILIARE DI APPROVAZIONE N. 29 DEL 04.10.2013."}</metadata>
+  </source_document>
+  <source_representation>
+    <id>3bd6e513-6375-5d78-b374-164187dbd915</id>
+    <source_document_id>22481ac0-6228-5f37-a739-7ce664ef3018</source_document_id>
+    <source_system>FVG_DPREG_PDF</source_system>
+    <format>PDF</format>
+    <source_url>file:///workspace/attachments/466a39ae-4fee-4220-b71d-23402c464049/TESTO%20INTEGRALE%20DEL%20DPREG%200266-2013.pdf</source_url>
+    <content_hash>9c966a25e992b83da021c5e4f67ee0f0327aa6d6e497d4153d94583632f351b2</content_hash>
+    <local_object_key>/workspace/attachments/466a39ae-4fee-4220-b71d-23402c464049/TESTO INTEGRALE DEL DPREG 0266-2013.pdf</local_object_key>
+    <media_type>application/pdf</media_type>
+    <is_official>false</is_official>
+    <legal_authority>false</legal_authority>
+    <raw_metadata>{"authority_assessment": "NOT_ESTABLISHED_FROM_UPLOADED_COPY", "extractor": "pdftotext -layout", "page_count": 3, "pdf_metadata": {"CreationDate": "Mon Dec 30 08:30:45 2013 UTC", "Custom Metadata": "no", "Encrypted": "no", "File size": "61249 bytes", "Form": "none", "JavaScript": "no", "Metadata Stream": "no", "ModDate": "Mon Dec 30 08:30:45 2013 UTC", "Optimized": "no", "PDF version": "1.4", "Page rot": "0", "Page size": "595 x 842 pts (A4)", "Pages": "3", "Producer": "iText 2.1.7 by 1T3XT", "Suspects": "no", "Tagged": "no", "UserProperties": "no"}, "provision_validity_inferred": false, "raw_artifact_preserved": true}</raw_metadata>
+  </source_representation>
+  <provision_identities>
+    <provision_identity>
+      <id>dd60b0ba-70ed-5d34-b6fd-9059025af258</id>
+      <source_document_id>22481ac0-6228-5f37-a739-7ce664ef3018</source_document_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>1</unit_label>
+      <canonical_key>IT-FVG:DPREG:2013:266:PUNTO1</canonical_key>
+      <ordinal>1</ordinal>
+    </provision_identity>
+    <provision_identity>
+      <id>dca09206-5feb-51b8-a04e-4bb185ab656e</id>
+      <source_document_id>22481ac0-6228-5f37-a739-7ce664ef3018</source_document_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>2</unit_label>
+      <canonical_key>IT-FVG:DPREG:2013:266:PUNTO2</canonical_key>
+      <ordinal>2</ordinal>
+    </provision_identity>
+  </provision_identities>
+  <provision_versions/>
+  <document_units>
+    <document_unit>
+      <id>3a24814f-341b-5277-9d0c-45c07fe68da4</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <unit_type>DOCUMENT</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{"pdf_pages": [1, 2, 3]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>f7e6ac03-8b28-566d-8b10-5bc0aeb9d609</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>3a24814f-341b-5277-9d0c-45c07fe68da4</parent_unit_id>
+      <unit_type>HEADER</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>                                           Decreto n° 0266 / Pres.
+                                           Trieste, 27 dicembre 2013
+                                           Copia dell'originale firmato digitalmente.
+
+
+
+
+oggetto:
+L.R. 5/2007 E S.M.I., ART. 63 BIS, CO. 18. VARIANTE N. 16 AL PIANO REGOLATORE GENERALE
+COMUNALE DEL COMUNE DI SAN LORENZO ISONTINO: INTRODUZIONE DI MODIFICA E CONFERMA DI
+ESECUTIVITÀ DELLA DELIBERAZIONE CONSILIARE DI APPROVAZIONE N. 29 DEL 04.10.2013.
+
+
+
+
+Firmato da:
+DEBORA SERRACCHIANI                        in data 27/12/2013
+
+Siglato da:
+ERICA NIGRIS                               in data 24/12/2013
+DANIELE BERTUZZI                           in data 27/12/2013
+</raw_text>
+      <normalized_text>Decreto n° 0266 / Pres. Trieste, 27 dicembre 2013 Copia dell'originale firmato digitalmente. oggetto: L.R. 5/2007 E S.M.I., ART. 63 BIS, CO. 18. VARIANTE N. 16 AL PIANO REGOLATORE GENERALE COMUNALE DEL COMUNE DI SAN LORENZO ISONTINO: INTRODUZIONE DI MODIFICA E CONFERMA DI ESECUTIVITÀ DELLA DELIBERAZIONE CONSILIARE DI APPROVAZIONE N. 29 DEL 04.10.2013. Firmato da: DEBORA SERRACCHIANI in data 27/12/2013 Siglato da: ERICA NIGRIS in data 24/12/2013 DANIELE BERTUZZI in data 27/12/2013</normalized_text>
+      <source_locator>{"pdf_page": 1}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e49cdb8a-5575-5c39-9461-41c4d5eaa7d8</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>3a24814f-341b-5277-9d0c-45c07fe68da4</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>2</ordinal>
+      <raw_text>Premesso che il comune di SAN LORENZO ISONTINO è dotato di Piano regolatore generale
+comunale, entrato in vigore in data 27.5.2010, adeguato alle indicazioni del Piano urbanistico
+regionale generale ed alle disposizioni della L.R. 52/1991, e di successive varianti;
+Atteso che il comune di San Lorenzo Isontino, con deliberazione consiliare n. 14 del
+22.3.2013, ha adottato, ai sensi dell’art. 63 bis della L.R. 5/2007 e successive modifiche ed
+integrazioni, il progetto della variante n. 16 al Piano regolatore generale comunale;
+Atteso che alla suddetta deliberazione consiliare del comune di San Lorenzo Isontino n.
+14/2013 è allegato un documento tecnico con cui è dichiarata l’assenza di incidenze
+significative della variante n. 16 al Piano regolatore generale comunale sui siti di importanza
+comunitaria di cui alla direttiva 92/43/CEE e sulle zone di protezione speciale di cui alla
+direttiva 79/409/CEE;
+Atteso che l’avviso di adozione della predetta variante è stato pubblicato, ai sensi dell'art. 63
+bis, co. 9, della L.R. 5/2007 e s.m.i., sul Bollettino Ufficiale della Regione n. 24 del 12.6.2013;
+Vista la deliberazione n. 1371 del 1.8.2013, con cui la Giunta regionale, facendo proprio il
+parere del Vicedirettore della Direzione centrale infrastrutture, mobilità, pianificazione
+territoriale e lavori pubblici n. 040/13 del 22.7.2013, ha espresso delle riserve vincolanti in
+ordine alla variante n. 16 al Piano regolatore generale comunale del comune di San Lorenzo
+Isontino;
+Vista la deliberazione consiliare n. 29 del 4.10.2013, con cui il comune di San Lorenzo Isontino
+ha approvato la variante n. 16 al Piano regolatore generale comunale con l'introduzione di
+modifiche e con la proposizione di verifiche e motivazioni a sostegno di specifiche previsioni
+di variante, preordinate al superamento delle suddette riserve vincolanti regionali;
+Visti gli elaborati relativi alla variante n. 16 al Piano regolatore generale comunale, allegati
+alla deliberazione consiliare del comune di San Lorenzo Isontino n. 29/2013;
+Visto il parere n. 061/13 del 16.12.2013, con cui il Direttore della Direzione centrale
+infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università ha ritenuto che le
+riserve vincolanti, formulate in ordine alla variante n. 16 in argomento con deliberazione della
+Giunta regionale n. 1371/2013, non siano totalmente superate e ha definito la modifica
+ritenuta indispensabile per il loro pieno superamento;
+Ritenuto di far proprio il suddetto parere del Direttore della Direzione centrale infrastrutture,
+mobilità, pianificazione territoriale, lavori pubblici, università, che pertanto viene a far parte
+integrante e sostanziale del presente provvedimento;
+Atteso che la Giunta comunale di San Lorenzo Isontino, con deliberazione n. 32 del
+23.4.2013, ha preso atto dei pareri favorevoli espressi in ordine alla variante n. 16 al Piano
+regolatore generale comunale dall’Agenzia regionale per la protezione dell’ambiente del Friuli
+Venezia Giulia e dall’Azienda per i Servizi Sanitari n. 2 “Isontina” ed ha conseguentemente
+disposto di escludere la variante medesima dall’applicazione completa della procedura di
+valutazione ambientale strategica prevista dalla vigente legislazione comunitaria, nazionale e
+regionale;
+Visto il decreto del Presidente della Regione 27.8.2004, n. 0277/Pres., recante “Regolamento
+di organizzazione dell’Amministrazione regionale e degli Enti regionali. Approvazione”, e
+successive modifiche ed integrazioni;
+Vista la deliberazione della Giunta regionale 13.9.2013, n. 1612, e successive modifiche ed
+</raw_text>
+      <normalized_text>Premesso che il comune di SAN LORENZO ISONTINO è dotato di Piano regolatore generale comunale, entrato in vigore in data 27.5.2010, adeguato alle indicazioni del Piano urbanistico regionale generale ed alle disposizioni della L.R. 52/1991, e di successive varianti; Atteso che il comune di San Lorenzo Isontino, con deliberazione consiliare n. 14 del 22.3.2013, ha adottato, ai sensi dell’art. 63 bis della L.R. 5/2007 e successive modifiche ed integrazioni, il progetto della variante n. 16 al Piano regolatore generale comunale; Atteso che alla suddetta deliberazione consiliare del comune di San Lorenzo Isontino n. 14/2013 è allegato un documento tecnico con cui è dichiarata l’assenza di incidenze significative della variante n. 16 al Piano regolatore generale comunale sui siti di importanza comunitaria di cui alla direttiva 92/43/CEE e sulle zone di protezione speciale di cui alla direttiva 79/409/CEE; Atteso che l’avviso di adozione della predetta variante è stato pubblicato, ai sensi dell'art. 63 bis, co. 9, della L.R. 5/2007 e s.m.i., sul Bollettino Ufficiale della Regione n. 24 del 12.6.2013; Vista la deliberazione n. 1371 del 1.8.2013, con cui la Giunta regionale, facendo proprio il parere del Vicedirettore della Direzione centrale infrastrutture, mobilità, pianificazione territoriale e lavori pubblici n. 040/13 del 22.7.2013, ha espresso delle riserve vincolanti in ordine alla variante n. 16 al Piano regolatore generale comunale del comune di San Lorenzo Isontino; Vista la deliberazione consiliare n. 29 del 4.10.2013, con cui il comune di San Lorenzo Isontino ha approvato la variante n. 16 al Piano regolatore generale comunale con l'introduzione di modifiche e con la proposizione di verifiche e motivazioni a sostegno di specifiche previsioni di variante, preordinate al superamento delle suddette riserve vincolanti regionali; Visti gli elaborati relativi alla variante n. 16 al Piano regolatore generale comunale, allegati alla deliberazione consiliare del comune di San Lorenzo Isontino n. 29/2013; Visto il parere n. 061/13 del 16.12.2013, con cui il Direttore della Direzione centrale infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università ha ritenuto che le riserve vincolanti, formulate in ordine alla variante n. 16 in argomento con deliberazione della Giunta regionale n. 1371/2013, non siano totalmente superate e ha definito la modifica ritenuta indispensabile per il loro pieno superamento; Ritenuto di far proprio il suddetto parere del Direttore della Direzione centrale infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università, che pertanto viene a far parte integrante e sostanziale del presente provvedimento; Atteso che la Giunta comunale di San Lorenzo Isontino, con deliberazione n. 32 del 23.4.2013, ha preso atto dei pareri favorevoli espressi in ordine alla variante n. 16 al Piano regolatore generale comunale dall’Agenzia regionale per la protezione dell’ambiente del Friuli Venezia Giulia e dall’Azienda per i Servizi Sanitari n. 2 “Isontina” ed ha conseguentemente disposto di escludere la variante medesima dall’applicazione completa della procedura di valutazione ambientale strategica prevista dalla vigente legislazione comunitaria, nazionale e regionale; Visto il decreto del Presidente della Regione 27.8.2004, n. 0277/Pres., recante “Regolamento di organizzazione dell’Amministrazione regionale e degli Enti regionali. Approvazione”, e successive modifiche ed integrazioni; Vista la deliberazione della Giunta regionale 13.9.2013, n. 1612, e successive modifiche ed</normalized_text>
+      <source_locator>{"pdf_page": 2, "role": "extraction_evidence"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>3936ebde-61a7-58c4-a295-53ee447b6b31</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>3a24814f-341b-5277-9d0c-45c07fe68da4</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>3</ordinal>
+      <raw_text>integrazioni;
+Su conforme deliberazione della Giunta regionale n. 2449 del 20.12.2013;
+                                              Decreta
+1. È confermata l'esecutività della deliberazione consiliare n. 29 del 4.10.2013, con cui il
+comune di SAN LORENZO ISONTINO ha approvato la variante n. 16 al Piano regolatore
+generale comunale, con l'introduzione, nella variante stessa, della modifica indicata
+nell'allegato parere del Direttore della Direzione centrale infrastrutture, mobilità,
+pianificazione territoriale, lavori pubblici, università n. 061/13 del 16.12.2013, da ritenersi
+indispensabile al totale superamento delle riserve formulate in ordine alla variante medesima
+con deliberazione della Giunta regionale n. 1371 del 1.8.2013.
+2. L’Assessore alle infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università
+è incaricato dell'esecuzione del presente decreto, del quale sarà pubblicato avviso sul
+Bollettino Ufficiale della Regione e trasmessa copia conforme all’originale al comune di San
+Lorenzo Isontino.
+                                                                     - Avv. Debora Serracchiani -
+</raw_text>
+      <normalized_text>integrazioni; Su conforme deliberazione della Giunta regionale n. 2449 del 20.12.2013; Decreta 1. È confermata l'esecutività della deliberazione consiliare n. 29 del 4.10.2013, con cui il comune di SAN LORENZO ISONTINO ha approvato la variante n. 16 al Piano regolatore generale comunale, con l'introduzione, nella variante stessa, della modifica indicata nell'allegato parere del Direttore della Direzione centrale infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università n. 061/13 del 16.12.2013, da ritenersi indispensabile al totale superamento delle riserve formulate in ordine alla variante medesima con deliberazione della Giunta regionale n. 1371 del 1.8.2013. 2. L’Assessore alle infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università è incaricato dell'esecuzione del presente decreto, del quale sarà pubblicato avviso sul Bollettino Ufficiale della Regione e trasmessa copia conforme all’originale al comune di San Lorenzo Isontino. - Avv. Debora Serracchiani -</normalized_text>
+      <source_locator>{"pdf_page": 3, "role": "extraction_evidence"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>3a24814f-341b-5277-9d0c-45c07fe68da4</parent_unit_id>
+      <unit_type>PREAMBLE</unit_type>
+      <ordinal>4</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>8c7bbbac-7bbb-5e21-beb0-94db2f884de6</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>Premesso che il comune di SAN LORENZO ISONTINO è dotato di Piano regolatore generale
+comunale, entrato in vigore in data 27.5.2010, adeguato alle indicazioni del Piano urbanistico
+regionale generale ed alle disposizioni della L.R. 52/1991, e di successive varianti;</raw_text>
+      <normalized_text>Premesso che il comune di SAN LORENZO ISONTINO è dotato di Piano regolatore generale comunale, entrato in vigore in data 27.5.2010, adeguato alle indicazioni del Piano urbanistico regionale generale ed alle disposizioni della L.R. 52/1991, e di successive varianti;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 1, "page": 2}, {"line": 2, "page": 2}, {"line": 3, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>fd16638b-7f37-522f-b2c3-440447c5a3f4</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>2</ordinal>
+      <raw_text>Atteso che il comune di San Lorenzo Isontino, con deliberazione consiliare n. 14 del
+22.3.2013, ha adottato, ai sensi dell’art. 63 bis della L.R. 5/2007 e successive modifiche ed
+integrazioni, il progetto della variante n. 16 al Piano regolatore generale comunale;</raw_text>
+      <normalized_text>Atteso che il comune di San Lorenzo Isontino, con deliberazione consiliare n. 14 del 22.3.2013, ha adottato, ai sensi dell’art. 63 bis della L.R. 5/2007 e successive modifiche ed integrazioni, il progetto della variante n. 16 al Piano regolatore generale comunale;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 4, "page": 2}, {"line": 5, "page": 2}, {"line": 6, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>f01ad714-6b3c-5f10-bcb0-65e410dc054d</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>3</ordinal>
+      <raw_text>Atteso che alla suddetta deliberazione consiliare del comune di San Lorenzo Isontino n.
+14/2013 è allegato un documento tecnico con cui è dichiarata l’assenza di incidenze
+significative della variante n. 16 al Piano regolatore generale comunale sui siti di importanza
+comunitaria di cui alla direttiva 92/43/CEE e sulle zone di protezione speciale di cui alla
+direttiva 79/409/CEE;</raw_text>
+      <normalized_text>Atteso che alla suddetta deliberazione consiliare del comune di San Lorenzo Isontino n. 14/2013 è allegato un documento tecnico con cui è dichiarata l’assenza di incidenze significative della variante n. 16 al Piano regolatore generale comunale sui siti di importanza comunitaria di cui alla direttiva 92/43/CEE e sulle zone di protezione speciale di cui alla direttiva 79/409/CEE;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 7, "page": 2}, {"line": 8, "page": 2}, {"line": 9, "page": 2}, {"line": 10, "page": 2}, {"line": 11, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>075651a2-a3f3-536e-8b55-e1d128d9dbd0</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>4</ordinal>
+      <raw_text>Atteso che l’avviso di adozione della predetta variante è stato pubblicato, ai sensi dell'art. 63
+bis, co. 9, della L.R. 5/2007 e s.m.i., sul Bollettino Ufficiale della Regione n. 24 del 12.6.2013;</raw_text>
+      <normalized_text>Atteso che l’avviso di adozione della predetta variante è stato pubblicato, ai sensi dell'art. 63 bis, co. 9, della L.R. 5/2007 e s.m.i., sul Bollettino Ufficiale della Regione n. 24 del 12.6.2013;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 12, "page": 2}, {"line": 13, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>17d8812d-c9fc-5996-9254-34e4ab938de4</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>5</ordinal>
+      <raw_text>Vista la deliberazione n. 1371 del 1.8.2013, con cui la Giunta regionale, facendo proprio il
+parere del Vicedirettore della Direzione centrale infrastrutture, mobilità, pianificazione
+territoriale e lavori pubblici n. 040/13 del 22.7.2013, ha espresso delle riserve vincolanti in
+ordine alla variante n. 16 al Piano regolatore generale comunale del comune di San Lorenzo
+Isontino;</raw_text>
+      <normalized_text>Vista la deliberazione n. 1371 del 1.8.2013, con cui la Giunta regionale, facendo proprio il parere del Vicedirettore della Direzione centrale infrastrutture, mobilità, pianificazione territoriale e lavori pubblici n. 040/13 del 22.7.2013, ha espresso delle riserve vincolanti in ordine alla variante n. 16 al Piano regolatore generale comunale del comune di San Lorenzo Isontino;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 14, "page": 2}, {"line": 15, "page": 2}, {"line": 16, "page": 2}, {"line": 17, "page": 2}, {"line": 18, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>7ec8b186-731c-5336-b906-c96d60f94a59</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>6</ordinal>
+      <raw_text>Vista la deliberazione consiliare n. 29 del 4.10.2013, con cui il comune di San Lorenzo Isontino
+ha approvato la variante n. 16 al Piano regolatore generale comunale con l'introduzione di
+modifiche e con la proposizione di verifiche e motivazioni a sostegno di specifiche previsioni
+di variante, preordinate al superamento delle suddette riserve vincolanti regionali;</raw_text>
+      <normalized_text>Vista la deliberazione consiliare n. 29 del 4.10.2013, con cui il comune di San Lorenzo Isontino ha approvato la variante n. 16 al Piano regolatore generale comunale con l'introduzione di modifiche e con la proposizione di verifiche e motivazioni a sostegno di specifiche previsioni di variante, preordinate al superamento delle suddette riserve vincolanti regionali;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 19, "page": 2}, {"line": 20, "page": 2}, {"line": 21, "page": 2}, {"line": 22, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>58f62133-9d5a-5543-a1be-bc5e658bc306</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>7</ordinal>
+      <raw_text>Visti gli elaborati relativi alla variante n. 16 al Piano regolatore generale comunale, allegati
+alla deliberazione consiliare del comune di San Lorenzo Isontino n. 29/2013;</raw_text>
+      <normalized_text>Visti gli elaborati relativi alla variante n. 16 al Piano regolatore generale comunale, allegati alla deliberazione consiliare del comune di San Lorenzo Isontino n. 29/2013;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 23, "page": 2}, {"line": 24, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>2af8ca72-c2a6-5b91-87ff-418b267e380a</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>8</ordinal>
+      <raw_text>Visto il parere n. 061/13 del 16.12.2013, con cui il Direttore della Direzione centrale
+infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università ha ritenuto che le
+riserve vincolanti, formulate in ordine alla variante n. 16 in argomento con deliberazione della
+Giunta regionale n. 1371/2013, non siano totalmente superate e ha definito la modifica</raw_text>
+      <normalized_text>Visto il parere n. 061/13 del 16.12.2013, con cui il Direttore della Direzione centrale infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università ha ritenuto che le riserve vincolanti, formulate in ordine alla variante n. 16 in argomento con deliberazione della Giunta regionale n. 1371/2013, non siano totalmente superate e ha definito la modifica</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 25, "page": 2}, {"line": 26, "page": 2}, {"line": 27, "page": 2}, {"line": 28, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>5f72d7f4-f08e-52bc-aad9-c73baee31ff6</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>9</ordinal>
+      <raw_text>ritenuta indispensabile per il loro pieno superamento;</raw_text>
+      <normalized_text>ritenuta indispensabile per il loro pieno superamento;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 29, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>ced2e84d-5a9e-5448-81e4-a8ec1fdff388</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>10</ordinal>
+      <raw_text>Ritenuto di far proprio il suddetto parere del Direttore della Direzione centrale infrastrutture,
+mobilità, pianificazione territoriale, lavori pubblici, università, che pertanto viene a far parte
+integrante e sostanziale del presente provvedimento;</raw_text>
+      <normalized_text>Ritenuto di far proprio il suddetto parere del Direttore della Direzione centrale infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università, che pertanto viene a far parte integrante e sostanziale del presente provvedimento;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 30, "page": 2}, {"line": 31, "page": 2}, {"line": 32, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e7197313-a574-5eb0-8295-5981fba970a1</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>11</ordinal>
+      <raw_text>Atteso che la Giunta comunale di San Lorenzo Isontino, con deliberazione n. 32 del
+23.4.2013, ha preso atto dei pareri favorevoli espressi in ordine alla variante n. 16 al Piano
+regolatore generale comunale dall’Agenzia regionale per la protezione dell’ambiente del Friuli
+Venezia Giulia e dall’Azienda per i Servizi Sanitari n. 2 “Isontina” ed ha conseguentemente
+disposto di escludere la variante medesima dall’applicazione completa della procedura di
+valutazione ambientale strategica prevista dalla vigente legislazione comunitaria, nazionale e
+regionale;</raw_text>
+      <normalized_text>Atteso che la Giunta comunale di San Lorenzo Isontino, con deliberazione n. 32 del 23.4.2013, ha preso atto dei pareri favorevoli espressi in ordine alla variante n. 16 al Piano regolatore generale comunale dall’Agenzia regionale per la protezione dell’ambiente del Friuli Venezia Giulia e dall’Azienda per i Servizi Sanitari n. 2 “Isontina” ed ha conseguentemente disposto di escludere la variante medesima dall’applicazione completa della procedura di valutazione ambientale strategica prevista dalla vigente legislazione comunitaria, nazionale e regionale;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 33, "page": 2}, {"line": 34, "page": 2}, {"line": 35, "page": 2}, {"line": 36, "page": 2}, {"line": 37, "page": 2}, {"line": 38, "page": 2}, {"line": 39, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>ebaba64b-6532-5a3b-b241-ef078a0f58a5</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>12</ordinal>
+      <raw_text>Visto il decreto del Presidente della Regione 27.8.2004, n. 0277/Pres., recante “Regolamento
+di organizzazione dell’Amministrazione regionale e degli Enti regionali. Approvazione”, e
+successive modifiche ed integrazioni;</raw_text>
+      <normalized_text>Visto il decreto del Presidente della Regione 27.8.2004, n. 0277/Pres., recante “Regolamento di organizzazione dell’Amministrazione regionale e degli Enti regionali. Approvazione”, e successive modifiche ed integrazioni;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 40, "page": 2}, {"line": 41, "page": 2}, {"line": 42, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>37011831-6fd7-5b4a-a15d-2e19a4cc35b7</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>13</ordinal>
+      <raw_text>Vista la deliberazione della Giunta regionale 13.9.2013, n. 1612, e successive modifiche ed
+integrazioni;</raw_text>
+      <normalized_text>Vista la deliberazione della Giunta regionale 13.9.2013, n. 1612, e successive modifiche ed integrazioni;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 43, "page": 2}, {"line": 1, "page": 3}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>0c9b2a91-165c-5426-9360-0298f7ce6526</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>6bf2d60f-5c46-5b28-ae50-b29f48429af5</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>14</ordinal>
+      <raw_text>Su conforme deliberazione della Giunta regionale n. 2449 del 20.12.2013;</raw_text>
+      <normalized_text>Su conforme deliberazione della Giunta regionale n. 2449 del 20.12.2013;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 2, "page": 3}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>dfc46668-b5d9-5f02-b53a-01521dd08278</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>3a24814f-341b-5277-9d0c-45c07fe68da4</parent_unit_id>
+      <unit_type>OPERATIVE_SECTION</unit_type>
+      <ordinal>5</ordinal>
+      <raw_text>Decreta</raw_text>
+      <normalized_text>Decreta</normalized_text>
+      <source_locator>{"line": 3, "pdf_page": 3}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>449a5c99-c12a-5b4a-9af4-4e8a4df43627</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>dfc46668-b5d9-5f02-b53a-01521dd08278</parent_unit_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>1</unit_label>
+      <ordinal>1</ordinal>
+      <raw_text>1. È confermata l'esecutività della deliberazione consiliare n. 29 del 4.10.2013, con cui il
+comune di SAN LORENZO ISONTINO ha approvato la variante n. 16 al Piano regolatore
+generale comunale, con l'introduzione, nella variante stessa, della modifica indicata
+nell'allegato parere del Direttore della Direzione centrale infrastrutture, mobilità,
+pianificazione territoriale, lavori pubblici, università n. 061/13 del 16.12.2013, da ritenersi
+indispensabile al totale superamento delle riserve formulate in ordine alla variante medesima
+con deliberazione della Giunta regionale n. 1371 del 1.8.2013.</raw_text>
+      <normalized_text>1. È confermata l'esecutività della deliberazione consiliare n. 29 del 4.10.2013, con cui il comune di SAN LORENZO ISONTINO ha approvato la variante n. 16 al Piano regolatore generale comunale, con l'introduzione, nella variante stessa, della modifica indicata nell'allegato parere del Direttore della Direzione centrale infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università n. 061/13 del 16.12.2013, da ritenersi indispensabile al totale superamento delle riserve formulate in ordine alla variante medesima con deliberazione della Giunta regionale n. 1371 del 1.8.2013.</normalized_text>
+      <source_locator>{"candidate_provision_key": "IT-FVG:DPREG:2013:266:PUNTO1", "pdf_lines": [{"line": 4, "page": 3}, {"line": 5, "page": 3}, {"line": 6, "page": 3}, {"line": 7, "page": 3}, {"line": 8, "page": 3}, {"line": 9, "page": 3}, {"line": 10, "page": 3}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>b5fdebbb-1db0-5b03-9a6d-5fe471713f9d</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>dfc46668-b5d9-5f02-b53a-01521dd08278</parent_unit_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>2</unit_label>
+      <ordinal>2</ordinal>
+      <raw_text>2. L’Assessore alle infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università
+è incaricato dell'esecuzione del presente decreto, del quale sarà pubblicato avviso sul
+Bollettino Ufficiale della Regione e trasmessa copia conforme all’originale al comune di San
+Lorenzo Isontino.</raw_text>
+      <normalized_text>2. L’Assessore alle infrastrutture, mobilità, pianificazione territoriale, lavori pubblici, università è incaricato dell'esecuzione del presente decreto, del quale sarà pubblicato avviso sul Bollettino Ufficiale della Regione e trasmessa copia conforme all’originale al comune di San Lorenzo Isontino.</normalized_text>
+      <source_locator>{"candidate_provision_key": "IT-FVG:DPREG:2013:266:PUNTO2", "pdf_lines": [{"line": 11, "page": 3}, {"line": 12, "page": 3}, {"line": 13, "page": 3}, {"line": 14, "page": 3}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e62ba21c-cebc-5391-8ef2-373afa0748de</id>
+      <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+      <parent_unit_id>3a24814f-341b-5277-9d0c-45c07fe68da4</parent_unit_id>
+      <unit_type>SIGNATURE</unit_type>
+      <ordinal>6</ordinal>
+      <raw_text>- Avv. Debora Serracchiani -</raw_text>
+      <normalized_text>- Avv. Debora Serracchiani -</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 15, "page": 3}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+  </document_units>
+  <ingestion_run>
+    <id>b33d1969-646a-4567-ac94-c75b34072fb5</id>
+    <source_representation_id>3bd6e513-6375-5d78-b374-164187dbd915</source_representation_id>
+    <parser_name>fvg_pdf_decree</parser_name>
+    <parser_version>1.0.0</parser_version>
+    <status>COMPLETED_WITH_ISSUES</status>
+    <started_at>2026-10-23T10:05:35.341558+00:00</started_at>
+    <finished_at>2026-10-23T10:05:35.401127+00:00</finished_at>
+    <statistics>{"document_units": 23, "pages": 3, "parser_issues": 4}</statistics>
+  </ingestion_run>
+  <parser_issues>
+    <parser_issue>
+      <id>ed3034a5-5e00-5b88-b7ac-b9a2b14363e0</id>
+      <ingestion_run_id>b33d1969-646a-4567-ac94-c75b34072fb5</ingestion_run_id>
+      <issue_type>PROVISION_VALIDITY_NOT_INFERRED</issue_type>
+      <candidate_text>Decree date and signature dates do not establish provision validity.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>2feffb4f-fa9a-5ce5-9f5c-b92faa1b8b19</id>
+      <ingestion_run_id>b33d1969-646a-4567-ac94-c75b34072fb5</ingestion_run_id>
+      <issue_type>UNKNOWN_RETRIEVAL_TIME</issue_type>
+      <candidate_text>Acquisition time was not supplied.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>e69d899d-357f-5fe3-997c-cbde4a45a951</id>
+      <ingestion_run_id>b33d1969-646a-4567-ac94-c75b34072fb5</ingestion_run_id>
+      <issue_type>ANNEX_REFERENCE_REQUIRES_REVIEW</issue_type>
+      <candidate_text>The decree refers to attachments; verify whether separate files are required.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"policy": "No attachment content or completeness inferred from the reference."}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>5f594783-3f45-565d-bfb3-401aa0406811</id>
+      <ingestion_run_id>b33d1969-646a-4567-ac94-c75b34072fb5</ingestion_run_id>
+      <issue_type>PDF_STRUCTURE_REQUIRES_REVIEW</issue_type>
+      <candidate_text>Review inferred paragraph boundaries, tables, annexes and reading order against the PDF.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"page_transcripts_preserved": true, "transcripts_duplicate_structured_content": true}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+  </parser_issues>
+  <citations/>
+  <knowledge_entities/>
+  <legal_assertions/>
+  <legal_relations/>
+</legal_ingestion>
