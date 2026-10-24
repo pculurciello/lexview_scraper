@@ -136,3 +136,13 @@ python pdf_decree_to_xml.py decree.pdf decree.xml --annex attachment.pdf
 python -m unittest -v test_pdf_decree
 ```
 
+
+## Giunta regionale deliberation PDFs
+
+See [deliberation conversion](fvg_decrees/DELIBERATIONS.md) for cover metadata,
+optional OCR, repeatable attachments and validated DGR examples.
+
+```sh
+cd fvg_decrees
+python pdf_deliberation_to_xml.py deliberation.pdf deliberation.xml --ocr-cover --annex attachment.pdf
+```

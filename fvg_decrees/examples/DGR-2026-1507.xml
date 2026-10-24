@@ -1,0 +1,1149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<legal_ingestion xmlns="urn:fvg:legal:ingest:2.0" schema_version="2.0">
+  <source_document>
+    <id>34fdf191-2ceb-5811-8c52-8434bf79dc19</id>
+    <jurisdiction>IT-FVG</jurisdiction>
+    <document_type>DGR</document_type>
+    <number>1507</number>
+    <year>2026</year>
+    <document_date>2026-10-16</document_date>
+    <title>¥ REGIONE AUTONOMA FRIYLI VENEZIA GIULIA Giunta ReGcionaLe Delibera n° 1507 Estratto del processo verbale della seduta del 16 ottobre 2026 LR 16/2023, ART 12, COMMA 2. MISURE DI WELFARE DI CUI AGLI ARTT 56-59 DEL CONTRATTO COLLETTIVO DI COMPARTO DEL PERSONALE NON DIRIGENTE, TRIENNIO NORMATIVO ED ECONOMICO 2022-2024. LINEE GUIDA OPERATIVE IN SEDE DI PRIMA APPLICAZIONE.</title>
+    <issuer>Giunta regionale del Friuli Venezia Giulia</issuer>
+    <metadata>{"attachments": [{"attachment_index": 1, "completeness_verified": false, "content_hash": "cb3ca3a6fff1b8b72ed533beef2420c2e7995c88b606beccd65fc35c8d3d069e", "filename": "Allegato 1 alla Delibera 1507-2026.pdf", "page_count": 6, "pdf_metadata": {"Author": "Buonocore Gabriella", "CreationDate": "Fri Oct 16 12:43:02 2026 UTC", "Creator": "Acrobat PDFMaker 9.1 for Word", "Custom Metadata": "yes", "Encrypted": "no", "File size": "102041 bytes", "Form": "none", "JavaScript": "no", "Metadata Stream": "yes", "ModDate": "Fri Oct 16 12:43:03 2026 UTC", "Optimized": "yes", "PDF version": "1.7", "Page rot": "0", "Page size": "595.32 x 841.92 pts (A4)", "Pages": "6", "Producer": "Adobe LiveCycle PDF Generator ES2", "Suspects": "no", "Tagged": "no", "Title": "", "UserProperties": "no"}, "relationship_basis": "USER_SUPPLIED", "source_url": "inputs/Allegato%201%20alla%20Delibera%201507-2026.pdf"}], "attendees": [{"attendance": "assente", "name": "Massimiliano FEDRIGA", "role": "Presidente"}, {"attendance": "presente", "name": "Mario ANZIL", "role": "Vice Presidente"}, {"attendance": "presente", "name": "Cristina AMIRANTE", "role": "Assessore"}, {"attendance": "assente", "name": "Sergio Emidio BINI", "role": "Assessore"}, {"attendance": "presente", "name": "Sebastiano CALLARI", "role": "Assessore"}, {"attendance": "presente", "name": "Riccardo RICCARDI", "role": "Assessore"}, {"attendance": "presente", "name": "Pierpaolo ROBERTI", "role": "Assessore"}, {"attendance": "assente", "name": "Alessia ROSOLEN", "role": "Assessore"}, {"attendance": "presente", "name": "Fabio SCOCCIMARRO", "role": "Assessore"}, {"attendance": "presente", "name": "Stefano ZANNIER", "role": "Assessore"}, {"attendance": "presente", "name": "Barbara ZILLI", "role": "Assessore"}], "canonical_key": "IT-FVG:DGR:2026:1507", "cover_extraction": "TESSERACT_OCR", "cover_review_required": true, "document_date": "2026-10-16", "metadata_basis": "MEETING_COVER_STATEMENTS", "metadata_source": {"pdf_page": 1}, "number": "1507", "organ": "Giunta regionale", "printed_number": "1507", "secretary": "Gianni CORTIULA", "signature_cryptographically_verified": false, "title": "¥ REGIONE AUTONOMA FRIYLI VENEZIA GIULIA Giunta ReGcionaLe Delibera n° 1507 Estratto del processo verbale della seduta del 16 ottobre 2026 LR 16/2023, ART 12, COMMA 2. MISURE DI WELFARE DI CUI AGLI ARTT 56-59 DEL CONTRATTO COLLETTIVO DI COMPARTO DEL PERSONALE NON DIRIGENTE, TRIENNIO NORMATIVO ED ECONOMICO 2022-2024. LINEE GUIDA OPERATIVE IN SEDE DI PRIMA APPLICAZIONE."}</metadata>
+  </source_document>
+  <source_representation>
+    <id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</id>
+    <source_document_id>34fdf191-2ceb-5811-8c52-8434bf79dc19</source_document_id>
+    <source_system>FVG_DGR_PDF</source_system>
+    <format>PDF</format>
+    <source_url>inputs/Testo%20integrale%20della%20Delibera%20n%201507-2026.pdf</source_url>
+    <content_hash>6cf12e71d15e41f2b3066701935ea261833f14996653dac5965e78760586c948</content_hash>
+    <local_object_key>inputs/Testo integrale della Delibera n 1507-2026.pdf</local_object_key>
+    <media_type>application/pdf</media_type>
+    <is_official>false</is_official>
+    <legal_authority>false</legal_authority>
+    <raw_metadata>{"attachment_policy": "Separate PDF artifacts carried as ANNEX children; locators identify their own files, not decree pages.", "authority_assessment": "NOT_ESTABLISHED_FROM_UPLOADED_COPY", "extractor": "pdftotext -layout", "page_count": 5, "pdf_metadata": {"CreationDate": "Fri Oct 16 13:17:29 2026 UTC", "Custom Metadata": "no", "Encrypted": "no", "File size": "133748 bytes", "Form": "none", "JavaScript": "no", "Metadata Stream": "no", "ModDate": "Fri Oct 16 13:17:29 2026 UTC", "Optimized": "no", "PDF version": "1.4", "Page rot": "0", "Page size": "595 x 842 pts (A4)", "Pages": "5", "Producer": "iText 2.1.7 by 1T3XT", "Suspects": "no", "Tagged": "no", "UserProperties": "no"}, "provision_validity_inferred": false, "raw_artifact_preserved": true}</raw_metadata>
+  </source_representation>
+  <provision_identities>
+    <provision_identity>
+      <id>71909b63-215c-56c8-ba01-eed5b0fe08b7</id>
+      <source_document_id>34fdf191-2ceb-5811-8c52-8434bf79dc19</source_document_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>1</unit_label>
+      <canonical_key>IT-FVG:DGR:2026:1507:PUNTO1</canonical_key>
+      <ordinal>1</ordinal>
+    </provision_identity>
+    <provision_identity>
+      <id>f0f475df-d5f5-5da8-85a3-73d98e188929</id>
+      <source_document_id>34fdf191-2ceb-5811-8c52-8434bf79dc19</source_document_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>2</unit_label>
+      <canonical_key>IT-FVG:DGR:2026:1507:PUNTO2</canonical_key>
+      <ordinal>2</ordinal>
+    </provision_identity>
+  </provision_identities>
+  <provision_versions/>
+  <document_units>
+    <document_unit>
+      <id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <unit_type>DOCUMENT</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{"pdf_pages": [1, 2, 3, 4, 5]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>ed204b38-b0f9-5b88-a4fe-5ff4d5a91e9a</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>HEADER</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>                                                                                   &amp; SUTUVXW TYT5ZF[ \\u000e]_^CVXZ\u0007`&lt;\ S,S&lt;Z1a \\u0007Vcb\u0011W\u000e] \d[ \\u0007] ] WdS&lt;\ [ e THWd[ \\u000e]
+                                                                                   f\u0011gFh\u001fi,i,h9jCkmlKn\u0007o\u000en\u000eg
+
+
+N9O9OJP;Q\u0002QGN9R
+ \u0002\u0001\u0004\u0003\u0002\u0005\u0007\u0006 \u0008 \u0008\u000e \u000f\u0011\u0010\u0012\u0001\u0011\u0013\u0014\u0003\u0015\u0008\u0011\u000f \u0016\u0018\u0017\u001a\u0019\u001b\u0019\u001c\u0010\u001d\u0008\u0007\u001e\u001f\u0019! "$#%\u0001$&amp;\u001b'(\u0011)*&amp;\u0011\u0015+,\u0010-\u0001$&amp;.'%\u001f\u0016/#-\u0011\u0010/01\u0002\u0011\u0010\u0012\u0001\u0007\u0013\u0015\u001332\u0011\u0005\u0007452\u001167'(&amp;\u00118\u00169\u00178:9\u0013 \u0001\u000e\u0010;\u0013\u0015\u0013\u000e\u0017
+\u00169\u00178\u0015\u0002&amp;&lt;\u0013\u0015\u0013\u001f =/\u0017&gt;'(?\u0016\u0018\u0017\u001a\u0019\u001b@ \u0010\u0012\u0001\u0011\u0013\u000e\u0017A'(&amp;\u0011B@C&amp;\u0011\u0001C"C\u0017\u001a:9\u0010-\u0002&amp;D:\u0012\u0017\u001a:E'% \u0001$ 01&amp;\u0011:\u0018\u0013\u001f&amp;\u0015\u000fF\u0013 \u0001$ &amp;\u0011:(:% \u0017&gt;:-\u00178\u0001\u0018\u0019\u001a\u0010;\u0013 =/\u0017&gt;&amp;\u0011'
+ &amp;G\u00169\u00178:-\u0017\u001a\u0019\u001b \u0016\u0018\u0017\u0004\u0008\u0011 \u0008\u0007\u0008\u00074H\u0008 \u0008 I\u001f\u001e&lt;\u0002 :(&amp;\u0011&amp;101#- 'J\u0010\u001b\u0017\u001a@C&amp;\u0011\u0001\u0007\u0010;\u0013\u001f =\u0012&amp;F :7";&amp;\u0011'(&amp;K'(\u0002@C\u0001$ \u0019\u001a\u0010L\u0010\u0012@C@C\u0002 \u0016\u001f\u0010\u0018M; \u0017\u001a:(&amp; \u001e
+
+
+
+
+{}|\u0007~\u0002~ \u001b|  8\u0007\u001f-JJ                                               w x r&lt;q&lt;y z\u0011r\u0015t uvr                                                               p\u0015q,qsr\u0015t uvr
+
+{}| 511$                                                                  y Ur w x r&lt;qsy z\u0011r\u0015t uvr                             x r&lt;qsr\u0015t uvr
+
+ 5~ \u001f|11{;F                                                      q,q&lt;r&lt;q,qs x r                                       x r&lt;qsr\u0015t uvr
+
+$ c¡\u00188 .¢\u000e¤£/¥                                                        q,q&lt;r&lt;q,qs x r                                                                 p\u0015q,qsr\u0015t uvr
+
+$\u0011¦ |\u0007~ |       ,,19                                                  q,q&lt;r&lt;q,qs x r                                       x r&lt;qsr\u0015t uvr
+
+/§,§U| 5¢\u000e¤9 $ 1\u0012%                                                      q,q&lt;r&lt;q,qs x r                                       x r&lt;qsr\u0015t uvr
+
+¨\u0018 ª©C| \u000e¤«¤£J\u000eG                                                         q,q&lt;r&lt;q,qs x r                                       x r&lt;qsr\u0015t uvr
+
+( ~\u0002~ |¥«  «¤                                                             q,q&lt;r&lt;q,qs x r                                                                 p\u0015q,qsr\u0015t uvr
+
+\u0011| ¦  \u0018 « $ X{31//«                                                      q,q&lt;r&lt;q,qs x r                                       x r&lt;qsr\u0015t uvr
+
+  ª¬ |\u000e\u001fF\u0011¥F\u000e                                                           q,q&lt;r&lt;q,qs x r                                       x r&lt;qsr\u0015t uvr
+
+£J|\u000e ¦ |\u000e5|F$U,                                                             q,q&lt;r&lt;q,qs x r                                       x r&lt;qsr\u0015t uvr
+
+
+
+
+­¥® ¯\u001f°C°$®s±/²L³\u001f´$µ¶1·&lt;¸                  "\u001f\G¹CVX\ T5W\u0007Vcº ZK¹ \ »\u0007\\u0007VXW\u000e] \
+
+
+
+
+ »8Vcº ¼v\\u000eVcº ½?\\u0011»GTHZ¥W\u000e] ] ¾ Z\u0007¹\u0007¹\u000e\ TYT5Z\u0011\u000f\u0002] WK01º e\u0007» THW¥\u0001C\ ¹;º Z\u000e»\u0011W\u000e] \K¿\u0011Wd[;º S&lt;`se\u0011S&lt;S,Z¥\d[ \\u0007] º b\u0011\\u0007VXW T5ZFÀ\u001fe\u0011W\u0011»GT5ZFS&lt;\G¹ e\u0011\ Á
+</raw_text>
+      <normalized_text>&amp; SUTUVXW TYT5ZF[ \\u000e]_^CVXZ\u0007`&lt;\ S,S&lt;Z1a \\u0007Vcb\u0011W\u000e] \d[ \\u0007] ] WdS&lt;\ [ e THWd[ \\u000e] f\u0011gFh\u001fi,i,h9jCkmlKn\u0007o\u000en\u000eg N9O9OJP;Q\u0002QGN9R \u0002\u0001\u0004\u0003\u0002\u0005\u0007\u0006 \u0008 \u0008\u000e \u000f\u0011\u0010\u0012\u0001\u0011\u0013\u0014\u0003\u0015\u0008\u0011\u000f \u0016\u0018\u0017\u001a\u0019\u001b\u0019\u001c\u0010\u001d\u0008\u0007\u001e\u001f\u0019! "$#%\u0001$&amp;\u001b'(\u0011)*&amp;\u0011\u0015+,\u0010-\u0001$&amp;.'%\u001f\u0016/#-\u0011\u0010/01\u0002\u0011\u0010\u0012\u0001\u0007\u0013\u0015\u001332\u0011\u0005\u0007452\u001167'(&amp;\u00118\u00169\u00178:9\u0013 \u0001\u000e\u0010;\u0013\u0015\u0013\u000e\u0017 \u00169\u00178\u0015\u0002&amp;&lt;\u0013\u0015\u0013\u001f =/\u0017&gt;'(?\u0016\u0018\u0017\u001a\u0019\u001b@ \u0010\u0012\u0001\u0011\u0013\u000e\u0017A'(&amp;\u0011B@C&amp;\u0011\u0001C"C\u0017\u001a:9\u0010-\u0002&amp;D:\u0012\u0017\u001a:E'% \u0001$ 01&amp;\u0011:\u0018\u0013\u001f&amp;\u0015\u000fF\u0013 \u0001$ &amp;\u0011:(:% \u0017&gt;:-\u00178\u0001\u0018\u0019\u001a\u0010;\u0013 =/\u0017&gt;&amp;\u0011' &amp;G\u00169\u00178:-\u0017\u001a\u0019\u001b \u0016\u0018\u0017\u0004\u0008\u0011 \u0008\u0007\u0008\u00074H\u0008 \u0008 I\u001f\u001e&lt;\u0002 :(&amp;\u0011&amp;101#- 'J\u0010\u001b\u0017\u001a@C&amp;\u0011\u0001\u0007\u0010;\u0013\u001f =\u0012&amp;F :7";&amp;\u0011'(&amp;K'(\u0002@C\u0001$ \u0019\u001a\u0010L\u0010\u0012@C@C\u0002 \u0016\u001f\u0010\u0018M; \u0017\u001a:(&amp; \u001e {}|\u0007~\u0002~ \u001b|  8\u0007\u001f-JJ w x r&lt;q&lt;y z\u0011r\u0015t uvr p\u0015q,qsr\u0015t uvr {}| 511$  y Ur w x r&lt;qsy z\u0011r\u0015t uvr  x r&lt;qsr\u0015t uvr  5~ \u001f|11{;F   q,q&lt;r&lt;q,qs x r  x r&lt;qsr\u0015t uvr $ c¡\u00188 .¢\u000e¤£/¥  q,q&lt;r&lt;q,qs x r p\u0015q,qsr\u0015t uvr $\u0011¦ |\u0007~ |   ,,19  q,q&lt;r&lt;q,qs x r  x r&lt;qsr\u0015t uvr /§,§U| 5¢\u000e¤9 $ 1\u0012%  q,q&lt;r&lt;q,qs x r  x r&lt;qsr\u0015t uvr ¨\u0018 ª©C| \u000e¤«¤£J\u000eG  q,q&lt;r&lt;q,qs x r  x r&lt;qsr\u0015t uvr ( ~\u0002~ |¥«  «¤    q,q&lt;r&lt;q,qs x r p\u0015q,qsr\u0015t uvr \u0011| ¦  \u0018 « $ X{31//«  q,q&lt;r&lt;q,qs x r  x r&lt;qsr\u0015t uvr   ª¬ |\u000e\u001fF\u0011¥F\u000e  q,q&lt;r&lt;q,qs x r  x r&lt;qsr\u0015t uvr £J|\u000e ¦ |\u000e5|F$U,  q,q&lt;r&lt;q,qs x r  x r&lt;qsr\u0015t uvr ­¥® ¯\u001f°C°$®s±/²L³\u001f´$µ¶1·&lt;¸ "\u001f\G¹CVX\ T5W\u0007Vcº ZK¹ \ »\u0007\\u0007VXW\u000e] \ »8Vcº ¼v\\u000eVcº ½?\\u0011»GTHZ¥W\u000e] ] ¾ Z\u0007¹\u0007¹\u000e\ TYT5Z\u0011\u000f\u0002] WK01º e\u0007» THW¥\u0001C\ ¹;º Z\u000e»\u0011W\u000e] \K¿\u0011Wd[;º S&lt;`se\u0011S&lt;S,Z¥\d[ \\u0007] º b\u0011\\u0007VXW T5ZFÀ\u001fe\u0011W\u0011»GT5ZFS&lt;\G¹ e\u0011\ Á</normalized_text>
+      <source_locator>{"extraction": "PDF_TEXT_LAYER", "pdf_page": 1, "xml_control_characters_escaped": true}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>040b007b-f8e2-54b3-a2f8-7621f3f0baf4</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>HEADER_OCR</unit_type>
+      <ordinal>2</ordinal>
+      <raw_text>oggetto:
+
+¥
+
+REGIONE AUTONOMA
+FRIYLI VENEZIA GIULIA
+
+Giunta
+
+ReGcionaLe
+
+Delibera n° 1507
+
+Estratto del processo verbale della seduta del
+
+16 ottobre 2026
+
+LR 16/2023, ART 12, COMMA 2. MISURE DI WELFARE DI CUI AGLI ARTT 56-59 DEL CONTRATTO
+COLLETTIVO DI COMPARTO DEL PERSONALE NON DIRIGENTE, TRIENNIO NORMATIVO ED
+
+ECONOMICO 2022-2024. LINEE GUIDA OPERATIVE IN SEDE DI PRIMA APPLICAZIONE.
+
+Massimiliano FEDRIGA Presidente assente
+Mario ANZIL Vice Presidente presente
+Cristina AMIRANTE Assessore presente
+Sergio Emidio BINI Assessore assente
+Sebastiano CALLARI Assessore presente
+Riccardo RICCARDI Assessore presente
+Pierpaolo ROBERTI Assessore presente
+Alessia ROSOLEN Assessore assente
+Fabio SCOCCIMARRO Assessore presente
+Stefano ZANNIER Assessore presente
+Barbara ZILLI Assessore presente
+
+Gianni CORTIULA
+
+Segretario generale
+
+In riferimento all'oggetto, la Giunta Regionale ha discusso e deliberato quanto segue:
+</raw_text>
+      <normalized_text>oggetto: ¥ REGIONE AUTONOMA FRIYLI VENEZIA GIULIA Giunta ReGcionaLe Delibera n° 1507 Estratto del processo verbale della seduta del 16 ottobre 2026 LR 16/2023, ART 12, COMMA 2. MISURE DI WELFARE DI CUI AGLI ARTT 56-59 DEL CONTRATTO COLLETTIVO DI COMPARTO DEL PERSONALE NON DIRIGENTE, TRIENNIO NORMATIVO ED ECONOMICO 2022-2024. LINEE GUIDA OPERATIVE IN SEDE DI PRIMA APPLICAZIONE. Massimiliano FEDRIGA Presidente assente Mario ANZIL Vice Presidente presente Cristina AMIRANTE Assessore presente Sergio Emidio BINI Assessore assente Sebastiano CALLARI Assessore presente Riccardo RICCARDI Assessore presente Pierpaolo ROBERTI Assessore presente Alessia ROSOLEN Assessore assente Fabio SCOCCIMARRO Assessore presente Stefano ZANNIER Assessore presente Barbara ZILLI Assessore presente Gianni CORTIULA Segretario generale In riferimento all'oggetto, la Giunta Regionale ha discusso e deliberato quanto segue:</normalized_text>
+      <source_locator>{"extraction": "TESSERACT_OCR", "language": "eng", "pdf_page": 1}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>94b605e9-1041-5428-87e0-fcade112ce09</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>3</ordinal>
+      <raw_text>Visto l’articolo 51 del Decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
+“Approvazione del testo unico delle imposte sui redditi” e successive modifiche ed integrazioni, avente
+ad oggetto la determinazione del reddito da lavoro dipendente;
+Visto l’art. 12, comma 2, della Legge regionale 28 dicembre 2023, n. 16 “Legge di stabilità 2024”,
+come sostituito dall’art. 9, comma 251, lett. b) della Legge regionale 6 agosto 2025, n. 12
+“Assestamento del bilancio per gli anni 2025-2027 ai sensi dell’articolo 6 della legge regionale 10
+novembre 2015, n. 26”, che dispone, a decorrere dall’anno 2026, l’integrazione delle risorse destinate
+al personale regionale non dirigente, quale onere annuo derivante dal rinnovo del contratto
+collettivo del Comparto unico relativo al triennio contrattuale 2022-2024, al fine di finanziare misure
+di welfare integrativo, la cui disciplina è demandata alla contrattazione collettiva relativa al
+medesimo triennio contrattuale;
+Visto il titolo VI del Contratto collettivo di comparto del personale non dirigente – triennio
+normativo ed economico 2022-2024, sottoscritto in data 14/10/2024, recante la disciplina delle
+misure di welfare - di cui alle previsioni contenute nell’articolo 51 del D.P.R. n. 917/1986 e
+successive modifiche e integrazioni nonché nell’art. 1, comma 390, della legge n. 207/2024, per
+l’anno 2026, e nell’art. 53 del d. lgs. n. 117/2026 e successive modifiche e integrazioni, dall’anno
+2027 – in ordine a beneficiari, modalità e tempi di erogazione, valore del beneficio e termini di
+utilizzo;
+Visto, in particolare, l’art. 56 del suddetto Contratto ove è previsto che le misure di welfare
+individuate dal medesimo articolo sono erogate, a decorrere dall’esercizio 2026, attraverso
+piattaforma web per la fruizione di beni e servizi e/o documenti di legittimazione nominativi, quali
+carte di debito o assegnazione di buoni spesa digitali multiuso e/o voucher;
+Atteso che l’articolo 59 del medesimo Contratto stabilisce che in alternativa alla metodologia di cui
+sopra il welfare può essere erogato direttamente da ciascun ente tramite rimborsi al dipendente
+delle spese riconosciute come welfare dalla vigente disciplina fiscale nel tempo vigente.
+Considerato che le tempistiche di una procedura di gara, sopra soglia di rilevanza europea, per
+l’affidamento del servizio per l’erogazione del welfare ai dipendenti regionali mediante piattaforma
+web non consentirebbero l’operatività della stessa entro l’anno in corso, con pregiudizio del
+personale in possesso dei requisiti;
+Ritenuto in fase di prima applicazione e nelle more dell’affidamento del suddetto servizio di
+adottare soluzioni organizzative idonee ad assicurare procedure efficienti, tenuto conto dei tempi a
+disposizione e dell’ampiezza della platea dei potenziali beneficiari;
+Ritenuto pertanto di procedere all’erogazione del welfare tramite rimborsi diretti ai dipendenti e di
+individuare a tal fine le tipologie di spesa rimborsabili e i relativi criteri di ammissibilità, nell’ambito
+del perimetro delineato dalla vigente disciplina fiscale in materia di imposte sui redditi;
+Richiamato l’art. 51 del D.P.R. n. 917/1986 e s.m.i. che, al comma 2, individua tassativamente le
+somme che non concorrono a formare il reddito di lavoro dipendente, tra cui, a fronte di rimborso:
+ -     “le somme erogate o rimborsate alla generalità o a categorie di dipendenti dal datore di
+       lavoro […], per l'acquisto degli abbonamenti per il trasporto pubblico locale, regionale e
+       interregionale del dipendente e dei familiari indicati nell'articolo 12 che si trovano nelle
+       condizioni previste nel comma 2 del medesimo articolo 12” (lett. d-bis));
+ -     “le somme, i servizi e le prestazioni erogati dal datore di lavoro alla generalità dei dipendenti o
+       a categorie di dipendenti per la fruizione, da parte dei familiari indicati nell'articolo 12, dei
+       servizi di educazione e istruzione anche in età prescolare, compresi i servizi integrativi e di
+       mensa ad essi connessi, nonché per la frequenza di ludoteche e di centri estivi e invernali e
+       per borse di studio a favore dei medesimi familiari” (lett. f-bis));
+</raw_text>
+      <normalized_text>Visto l’articolo 51 del Decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 “Approvazione del testo unico delle imposte sui redditi” e successive modifiche ed integrazioni, avente ad oggetto la determinazione del reddito da lavoro dipendente; Visto l’art. 12, comma 2, della Legge regionale 28 dicembre 2023, n. 16 “Legge di stabilità 2024”, come sostituito dall’art. 9, comma 251, lett. b) della Legge regionale 6 agosto 2025, n. 12 “Assestamento del bilancio per gli anni 2025-2027 ai sensi dell’articolo 6 della legge regionale 10 novembre 2015, n. 26”, che dispone, a decorrere dall’anno 2026, l’integrazione delle risorse destinate al personale regionale non dirigente, quale onere annuo derivante dal rinnovo del contratto collettivo del Comparto unico relativo al triennio contrattuale 2022-2024, al fine di finanziare misure di welfare integrativo, la cui disciplina è demandata alla contrattazione collettiva relativa al medesimo triennio contrattuale; Visto il titolo VI del Contratto collettivo di comparto del personale non dirigente – triennio normativo ed economico 2022-2024, sottoscritto in data 14/10/2024, recante la disciplina delle misure di welfare - di cui alle previsioni contenute nell’articolo 51 del D.P.R. n. 917/1986 e successive modifiche e integrazioni nonché nell’art. 1, comma 390, della legge n. 207/2024, per l’anno 2026, e nell’art. 53 del d. lgs. n. 117/2026 e successive modifiche e integrazioni, dall’anno 2027 – in ordine a beneficiari, modalità e tempi di erogazione, valore del beneficio e termini di utilizzo; Visto, in particolare, l’art. 56 del suddetto Contratto ove è previsto che le misure di welfare individuate dal medesimo articolo sono erogate, a decorrere dall’esercizio 2026, attraverso piattaforma web per la fruizione di beni e servizi e/o documenti di legittimazione nominativi, quali carte di debito o assegnazione di buoni spesa digitali multiuso e/o voucher; Atteso che l’articolo 59 del medesimo Contratto stabilisce che in alternativa alla metodologia di cui sopra il welfare può essere erogato direttamente da ciascun ente tramite rimborsi al dipendente delle spese riconosciute come welfare dalla vigente disciplina fiscale nel tempo vigente. Considerato che le tempistiche di una procedura di gara, sopra soglia di rilevanza europea, per l’affidamento del servizio per l’erogazione del welfare ai dipendenti regionali mediante piattaforma web non consentirebbero l’operatività della stessa entro l’anno in corso, con pregiudizio del personale in possesso dei requisiti; Ritenuto in fase di prima applicazione e nelle more dell’affidamento del suddetto servizio di adottare soluzioni organizzative idonee ad assicurare procedure efficienti, tenuto conto dei tempi a disposizione e dell’ampiezza della platea dei potenziali beneficiari; Ritenuto pertanto di procedere all’erogazione del welfare tramite rimborsi diretti ai dipendenti e di individuare a tal fine le tipologie di spesa rimborsabili e i relativi criteri di ammissibilità, nell’ambito del perimetro delineato dalla vigente disciplina fiscale in materia di imposte sui redditi; Richiamato l’art. 51 del D.P.R. n. 917/1986 e s.m.i. che, al comma 2, individua tassativamente le somme che non concorrono a formare il reddito di lavoro dipendente, tra cui, a fronte di rimborso: - “le somme erogate o rimborsate alla generalità o a categorie di dipendenti dal datore di lavoro […], per l'acquisto degli abbonamenti per il trasporto pubblico locale, regionale e interregionale del dipendente e dei familiari indicati nell'articolo 12 che si trovano nelle condizioni previste nel comma 2 del medesimo articolo 12” (lett. d-bis)); - “le somme, i servizi e le prestazioni erogati dal datore di lavoro alla generalità dei dipendenti o a categorie di dipendenti per la fruizione, da parte dei familiari indicati nell'articolo 12, dei servizi di educazione e istruzione anche in età prescolare, compresi i servizi integrativi e di mensa ad essi connessi, nonché per la frequenza di ludoteche e di centri estivi e invernali e per borse di studio a favore dei medesimi familiari” (lett. f-bis));</normalized_text>
+      <source_locator>{"pdf_page": 2, "role": "extraction_evidence"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e42593cf-adc3-5b44-b259-e968dca7bac5</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>4</ordinal>
+      <raw_text> -     “le somme e le prestazioni erogate dal datore di lavoro alla generalità dei dipendenti o a
+       categorie di dipendenti per la fruizione dei servizi di assistenza ai familiari anziani o non
+       autosufficienti indicati nell'articolo 12” (lett. f-ter));
+ -     “[…] le erogazioni effettuate dal datore di lavoro in conformità a contratti collettivi o ad
+       accordi e regolamenti aziendali a fronte delle spese sanitarie di cui allo stesso articolo 10,
+       comma 1, lettera b). […]” (lett. h));
+Dato atto che ai sensi dello stesso articolo 56 del Contratto le misure di welfare vengono
+riconosciute quali “benefici di natura assistenziale e sociale, di benessere personale e familiare” a
+favore del personale delle amministrazioni ed enti facenti parte del Comparto unico;
+Richiamata la Legge regionale 31 agosto 1981, n. 53 “Stato giuridico e trattamento economico del
+personale della Regione autonoma Friuli - Venezia Giulia”, e successive modifiche e integrazioni, che
+agli artt. 152 e ss. ha istituito un fondo sociale in favore dei dipendenti regionali, individuando le
+prestazioni di natura sociale e assistenziale che l’Amministrazione regionale provvede a erogare -
+sussidi assistenziali, borse di studio, prestiti e mutui edilizi – e stabilendo che i requisiti, i criteri e le
+modalità di concessione delle stesse sono definiti da un apposito Comitato di gestione sulla base
+delle linee di indirizzo stabilite dalla Giunta regionale;
+Viste le Linee di indirizzo di cui sopra, da ultimo approvate con deliberazione della Giunta regionale
+n. 1538 del 18 ottobre 2024, e in particolare le tipologie di spesa contribuite a titolo di sussidio
+assistenziale;
+Rilevato che quota parte delle fattispecie di sussidio assistenziale individuate nelle Linee di
+indirizzo rientra nell’ambito di applicazione dell’art. 51, comma 2, del D.P.R. n. 917/1986 e s.m.i. e, in
+particolare:
+ -     lett. d-bis (abbonamento al trasporto pubblico extraurbano per i dipendenti pendolari);
+ -     lett. f-bis (scuola dell’infanzia, attività integrativa e servizi ausiliari scolastici, centri
+       estivi/invernali diurni, soggiorni estivi, per figli minori fiscalmente a carico);
+ -     lett. f-ter (assistenza alla persona non autosufficiente, per dipendente, coniuge e figli,
+       fiscalmente a carico);
+ -     lett. h (spese mediche/sanitare per disabilità, per dipendente, coniuge e figli, fiscalmente a
+       carico);
+Ritenuto di garantire ai dipendenti regionali la massima fruizione della misura di welfare in oggetto,
+senza dar luogo a sovrapposizioni con il sostegno già fornito dall’Amministrazione regionale
+mediante i sussidi assistenziali a valere sul Fondo sociale dei dipendenti, semplificando al contempo
+l’attività amministrativa connessa alla gestione dei due istituti;
+Considerato che, per i periodi d'imposta 2025, 2026 e 2027, il quadro complessivo della vigente
+disciplina fiscale in materia di imposte sui redditi, atto a definire le tipologie di spesa riconosciute
+come welfare, ricomprende il succitato D.P.R. n. 917/1986 e s.m.i. nonché quanto disposto
+dall’articolo 1, comma 390, della Legge 30 dicembre 2024, n. 207 “Bilancio di previsione dello Stato
+per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027” secondo cui “Per i periodi
+d'imposta 2025, 2026 e 2027, in deroga a quanto previsto dall'articolo 51, comma 3, prima parte del
+terzo periodo, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della
+Repubblica 22 dicembre 1986, n. 917, non concorrono a formare il reddito, entro il limite
+complessivo di 1.000 euro, il valore dei beni ceduti e dei servizi prestati ai lavoratori dipendenti,
+nonché le somme erogate o rimborsate ai medesimi lavoratori dai datori di lavoro per il pagamento
+delle utenze domestiche del servizio idrico integrato, dell'energia elettrica e del gas naturale, delle
+spese per la locazione dell'abitazione principale o per gli interessi sul mutuo relativo all'abitazione
+</raw_text>
+      <normalized_text>- “le somme e le prestazioni erogate dal datore di lavoro alla generalità dei dipendenti o a categorie di dipendenti per la fruizione dei servizi di assistenza ai familiari anziani o non autosufficienti indicati nell'articolo 12” (lett. f-ter)); - “[…] le erogazioni effettuate dal datore di lavoro in conformità a contratti collettivi o ad accordi e regolamenti aziendali a fronte delle spese sanitarie di cui allo stesso articolo 10, comma 1, lettera b). […]” (lett. h)); Dato atto che ai sensi dello stesso articolo 56 del Contratto le misure di welfare vengono riconosciute quali “benefici di natura assistenziale e sociale, di benessere personale e familiare” a favore del personale delle amministrazioni ed enti facenti parte del Comparto unico; Richiamata la Legge regionale 31 agosto 1981, n. 53 “Stato giuridico e trattamento economico del personale della Regione autonoma Friuli - Venezia Giulia”, e successive modifiche e integrazioni, che agli artt. 152 e ss. ha istituito un fondo sociale in favore dei dipendenti regionali, individuando le prestazioni di natura sociale e assistenziale che l’Amministrazione regionale provvede a erogare - sussidi assistenziali, borse di studio, prestiti e mutui edilizi – e stabilendo che i requisiti, i criteri e le modalità di concessione delle stesse sono definiti da un apposito Comitato di gestione sulla base delle linee di indirizzo stabilite dalla Giunta regionale; Viste le Linee di indirizzo di cui sopra, da ultimo approvate con deliberazione della Giunta regionale n. 1538 del 18 ottobre 2024, e in particolare le tipologie di spesa contribuite a titolo di sussidio assistenziale; Rilevato che quota parte delle fattispecie di sussidio assistenziale individuate nelle Linee di indirizzo rientra nell’ambito di applicazione dell’art. 51, comma 2, del D.P.R. n. 917/1986 e s.m.i. e, in particolare: - lett. d-bis (abbonamento al trasporto pubblico extraurbano per i dipendenti pendolari); - lett. f-bis (scuola dell’infanzia, attività integrativa e servizi ausiliari scolastici, centri estivi/invernali diurni, soggiorni estivi, per figli minori fiscalmente a carico); - lett. f-ter (assistenza alla persona non autosufficiente, per dipendente, coniuge e figli, fiscalmente a carico); - lett. h (spese mediche/sanitare per disabilità, per dipendente, coniuge e figli, fiscalmente a carico); Ritenuto di garantire ai dipendenti regionali la massima fruizione della misura di welfare in oggetto, senza dar luogo a sovrapposizioni con il sostegno già fornito dall’Amministrazione regionale mediante i sussidi assistenziali a valere sul Fondo sociale dei dipendenti, semplificando al contempo l’attività amministrativa connessa alla gestione dei due istituti; Considerato che, per i periodi d'imposta 2025, 2026 e 2027, il quadro complessivo della vigente disciplina fiscale in materia di imposte sui redditi, atto a definire le tipologie di spesa riconosciute come welfare, ricomprende il succitato D.P.R. n. 917/1986 e s.m.i. nonché quanto disposto dall’articolo 1, comma 390, della Legge 30 dicembre 2024, n. 207 “Bilancio di previsione dello Stato per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027” secondo cui “Per i periodi d'imposta 2025, 2026 e 2027, in deroga a quanto previsto dall'articolo 51, comma 3, prima parte del terzo periodo, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, non concorrono a formare il reddito, entro il limite complessivo di 1.000 euro, il valore dei beni ceduti e dei servizi prestati ai lavoratori dipendenti, nonché le somme erogate o rimborsate ai medesimi lavoratori dai datori di lavoro per il pagamento delle utenze domestiche del servizio idrico integrato, dell'energia elettrica e del gas naturale, delle spese per la locazione dell'abitazione principale o per gli interessi sul mutuo relativo all'abitazione</normalized_text>
+      <source_locator>{"pdf_page": 3, "role": "extraction_evidence"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>a9197917-6bf7-5ee5-bae7-b771963833b3</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>5</ordinal>
+      <raw_text>principale. Il limite di cui al primo periodo è elevato a 2.000 euro per i lavoratori dipendenti con figli,
+compresi i figli nati fuori del matrimonio riconosciuti e i figli adottivi, affiliati o affidati, che si trovano
+nelle condizioni previste dall'articolo 12, comma 2, del citato testo unico di cui al decreto del
+Presidente della Repubblica n. 917 del 1986. […]";
+Preso atto che il Decreto Legislativo 19 giugno 2026, n. 117 “Testo unico delle disposizioni legislative
+in materia di imposte sui redditi”, all’articolo 376 ha disposto l’abrogazione, a decorrere dal 1°
+gennaio 2027, oltre che del D.P.R. n. 917/1986 “Approvazione del testo unico delle imposte sui
+redditi” (T.U.I.R.) e s.m.i., anche del succitato comma 390 dell’art.1 della L. 207/2024, le cui
+disposizioni risultano comunque riproposte pedissequamente nell’art. 53, comma 4, dello stesso
+D.Lgs. 117/2026;
+Ritenuto di poter individuare, in ottemperanza a quanto disposto dall'art. 1, comma 390, della L. n.
+207/2024, ulteriori tipologie di spesa rimborsabili, che, in quanto correlate ad un bene primario della
+persona, possano consentire a tutti i dipendenti regionali di fruire del welfare nella misura massima
+prevista di Euro 800,00, salvaguardando al contempo, per coloro che ne hanno i requisiti, la
+possibilità di avvalersi delle erogazioni del Fondo sociale;
+Dato atto, pertanto, che in base al combinato disposto di cui sopra, le tipologie di spesa
+rimborsabili a titolo di welfare nell’ambito della disciplina fiscale vigente, che non danno luogo a
+significative sovrapposizioni con i sussidi assistenziali erogati a valere sul Fondo sociale, risultano le
+seguenti:
+ -     utenze domestiche per il servizio idrico integrato, l’energia elettrica e il gas naturale;
+ -     interessi sul mutuo relativo all’abitazione principale;
+ -     locazione dell’abitazione principale;
+ -     abbonamento al trasporto pubblico, anche urbano;
+ -     assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non
+       autosufficienti;
+Visti i chiarimenti e le interpretazioni forniti in materia dall’Agenzia delle Entrate mediante, in
+particolare, le circolari n. 2/E del 03/01/2005, n. 28/E del 15/06/2016, n. 5/E del 29/03/2018, n.
+35/E del 04/11/2022, n. 14/E e n. 15/E del 19/06/2023, n. 23/E del 01/08/2023, n. 5/E del
+07/03/2024, n. 4/E del 16/05/2025, nonché la risoluzione n. 55/E del 25/09/2020 e le risposte ad
+interpelli n. 311/2021 e n. 163/2026;
+Ritenuto conseguentemente opportuno definire, ai fini della presentazione delle istanze di
+rimborso, i criteri di ammissibilità delle spese sopra individuate, mediante l’approvazione del
+documento “Linee guida operative per l’erogazione del welfare di cui all’art. 59 del Contratto
+collettivo di comparto del personale non dirigente, triennio normativo ed economico 2022-2024”,
+allegato alla presente deliberazione quale parte integrante e sostanziale, nel rispetto della disciplina
+stabilita agli artt. 56, 57 e 58 del medesimo Contratto;
+Su proposta dell’Assessore regionale alle autonomie locali, funzione pubblica, sicurezza e
+immigrazione,
+La Giunta regionale, all’unanimità,
+
+                                                 DELIBERA
+
+1.        Di individuare, in sede di prima applicazione, le seguenti tipologie di spese rimborsabili a
+titolo di welfare ex art. 59 del Contratto collettivo di comparto del personale non dirigente – triennio
+normativo ed economico 2022-2024, sottoscritto in data 14/10/2024, nell’ambito della disciplina
+</raw_text>
+      <normalized_text>principale. Il limite di cui al primo periodo è elevato a 2.000 euro per i lavoratori dipendenti con figli, compresi i figli nati fuori del matrimonio riconosciuti e i figli adottivi, affiliati o affidati, che si trovano nelle condizioni previste dall'articolo 12, comma 2, del citato testo unico di cui al decreto del Presidente della Repubblica n. 917 del 1986. […]"; Preso atto che il Decreto Legislativo 19 giugno 2026, n. 117 “Testo unico delle disposizioni legislative in materia di imposte sui redditi”, all’articolo 376 ha disposto l’abrogazione, a decorrere dal 1° gennaio 2027, oltre che del D.P.R. n. 917/1986 “Approvazione del testo unico delle imposte sui redditi” (T.U.I.R.) e s.m.i., anche del succitato comma 390 dell’art.1 della L. 207/2024, le cui disposizioni risultano comunque riproposte pedissequamente nell’art. 53, comma 4, dello stesso D.Lgs. 117/2026; Ritenuto di poter individuare, in ottemperanza a quanto disposto dall'art. 1, comma 390, della L. n. 207/2024, ulteriori tipologie di spesa rimborsabili, che, in quanto correlate ad un bene primario della persona, possano consentire a tutti i dipendenti regionali di fruire del welfare nella misura massima prevista di Euro 800,00, salvaguardando al contempo, per coloro che ne hanno i requisiti, la possibilità di avvalersi delle erogazioni del Fondo sociale; Dato atto, pertanto, che in base al combinato disposto di cui sopra, le tipologie di spesa rimborsabili a titolo di welfare nell’ambito della disciplina fiscale vigente, che non danno luogo a significative sovrapposizioni con i sussidi assistenziali erogati a valere sul Fondo sociale, risultano le seguenti: - utenze domestiche per il servizio idrico integrato, l’energia elettrica e il gas naturale; - interessi sul mutuo relativo all’abitazione principale; - locazione dell’abitazione principale; - abbonamento al trasporto pubblico, anche urbano; - assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non autosufficienti; Visti i chiarimenti e le interpretazioni forniti in materia dall’Agenzia delle Entrate mediante, in particolare, le circolari n. 2/E del 03/01/2005, n. 28/E del 15/06/2016, n. 5/E del 29/03/2018, n. 35/E del 04/11/2022, n. 14/E e n. 15/E del 19/06/2023, n. 23/E del 01/08/2023, n. 5/E del 07/03/2024, n. 4/E del 16/05/2025, nonché la risoluzione n. 55/E del 25/09/2020 e le risposte ad interpelli n. 311/2021 e n. 163/2026; Ritenuto conseguentemente opportuno definire, ai fini della presentazione delle istanze di rimborso, i criteri di ammissibilità delle spese sopra individuate, mediante l’approvazione del documento “Linee guida operative per l’erogazione del welfare di cui all’art. 59 del Contratto collettivo di comparto del personale non dirigente, triennio normativo ed economico 2022-2024”, allegato alla presente deliberazione quale parte integrante e sostanziale, nel rispetto della disciplina stabilita agli artt. 56, 57 e 58 del medesimo Contratto; Su proposta dell’Assessore regionale alle autonomie locali, funzione pubblica, sicurezza e immigrazione, La Giunta regionale, all’unanimità, DELIBERA 1. Di individuare, in sede di prima applicazione, le seguenti tipologie di spese rimborsabili a titolo di welfare ex art. 59 del Contratto collettivo di comparto del personale non dirigente – triennio normativo ed economico 2022-2024, sottoscritto in data 14/10/2024, nell’ambito della disciplina</normalized_text>
+      <source_locator>{"pdf_page": 4, "role": "extraction_evidence"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>6309a180-220d-575e-9fb9-2ea5744fb140</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>6</ordinal>
+      <raw_text>fiscale in materia di imposte sui redditi di cui al combinato disposto dell’art. 51, comma 2, del D.P.R.
+n. 917/1986 e s.m.i. e dell’art. 1, comma 390, della L. n. 207/2024, nonché all’art. 53 del D.Lgs. n.
+117/2026:
+ -    utenze domestiche per il servizio idrico integrato, l’energia elettrica e il gas naturale;
+ -    interessi sul mutuo relativo all’abitazione principale;
+ -    locazione dell’abitazione principale;
+ -    abbonamento al trasporto pubblico, anche urbano;
+ -    assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non
+      autosufficienti.
+2.       Di approvare il documento “Linee guida operative per l’erogazione del welfare di cui all’art.
+59 del Contratto collettivo di comparto del personale non dirigente, triennio normativo ed
+economico 2022-2024”, allegato alla presente deliberazione quale parte integrante e sostanziale,
+nel rispetto della disciplina stabilita agli artt. 56, 57 e 58 del medesimo Contratto.
+
+                                                                IL VICEPRESIDENTE
+                 IL SEGRETARIO GENERALE
+</raw_text>
+      <normalized_text>fiscale in materia di imposte sui redditi di cui al combinato disposto dell’art. 51, comma 2, del D.P.R. n. 917/1986 e s.m.i. e dell’art. 1, comma 390, della L. n. 207/2024, nonché all’art. 53 del D.Lgs. n. 117/2026: - utenze domestiche per il servizio idrico integrato, l’energia elettrica e il gas naturale; - interessi sul mutuo relativo all’abitazione principale; - locazione dell’abitazione principale; - abbonamento al trasporto pubblico, anche urbano; - assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non autosufficienti. 2. Di approvare il documento “Linee guida operative per l’erogazione del welfare di cui all’art. 59 del Contratto collettivo di comparto del personale non dirigente, triennio normativo ed economico 2022-2024”, allegato alla presente deliberazione quale parte integrante e sostanziale, nel rispetto della disciplina stabilita agli artt. 56, 57 e 58 del medesimo Contratto. IL VICEPRESIDENTE IL SEGRETARIO GENERALE</normalized_text>
+      <source_locator>{"pdf_page": 5, "role": "extraction_evidence"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>0bab06f3-11a6-5245-9e1b-18deab68e68b</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>PREAMBLE</unit_type>
+      <ordinal>7</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e73382cc-1d19-5478-9be3-8802907eb07a</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>Visto l’articolo 51 del Decreto del Presidente della Repubblica 22 dicembre 1986, n. 917
+“Approvazione del testo unico delle imposte sui redditi” e successive modifiche ed integrazioni, avente
+ad oggetto la determinazione del reddito da lavoro dipendente;</raw_text>
+      <normalized_text>Visto l’articolo 51 del Decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 “Approvazione del testo unico delle imposte sui redditi” e successive modifiche ed integrazioni, avente ad oggetto la determinazione del reddito da lavoro dipendente;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 1, "page": 2}, {"line": 2, "page": 2}, {"line": 3, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>bdee564a-d054-5de9-be5d-4abf9aec9c5a</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>2</ordinal>
+      <raw_text>Visto l’art. 12, comma 2, della Legge regionale 28 dicembre 2023, n. 16 “Legge di stabilità 2024”,
+come sostituito dall’art. 9, comma 251, lett. b) della Legge regionale 6 agosto 2025, n. 12
+“Assestamento del bilancio per gli anni 2025-2027 ai sensi dell’articolo 6 della legge regionale 10
+novembre 2015, n. 26”, che dispone, a decorrere dall’anno 2026, l’integrazione delle risorse destinate
+al personale regionale non dirigente, quale onere annuo derivante dal rinnovo del contratto
+collettivo del Comparto unico relativo al triennio contrattuale 2022-2024, al fine di finanziare misure
+di welfare integrativo, la cui disciplina è demandata alla contrattazione collettiva relativa al
+medesimo triennio contrattuale;</raw_text>
+      <normalized_text>Visto l’art. 12, comma 2, della Legge regionale 28 dicembre 2023, n. 16 “Legge di stabilità 2024”, come sostituito dall’art. 9, comma 251, lett. b) della Legge regionale 6 agosto 2025, n. 12 “Assestamento del bilancio per gli anni 2025-2027 ai sensi dell’articolo 6 della legge regionale 10 novembre 2015, n. 26”, che dispone, a decorrere dall’anno 2026, l’integrazione delle risorse destinate al personale regionale non dirigente, quale onere annuo derivante dal rinnovo del contratto collettivo del Comparto unico relativo al triennio contrattuale 2022-2024, al fine di finanziare misure di welfare integrativo, la cui disciplina è demandata alla contrattazione collettiva relativa al medesimo triennio contrattuale;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 4, "page": 2}, {"line": 5, "page": 2}, {"line": 6, "page": 2}, {"line": 7, "page": 2}, {"line": 8, "page": 2}, {"line": 9, "page": 2}, {"line": 10, "page": 2}, {"line": 11, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>034babad-d6b2-54ea-8639-b9e91db784cb</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>3</ordinal>
+      <raw_text>Visto il titolo VI del Contratto collettivo di comparto del personale non dirigente – triennio
+normativo ed economico 2022-2024, sottoscritto in data 14/10/2024, recante la disciplina delle
+misure di welfare - di cui alle previsioni contenute nell’articolo 51 del D.P.R. n. 917/1986 e
+successive modifiche e integrazioni nonché nell’art. 1, comma 390, della legge n. 207/2024, per
+l’anno 2026, e nell’art. 53 del d. lgs. n. 117/2026 e successive modifiche e integrazioni, dall’anno
+2027 – in ordine a beneficiari, modalità e tempi di erogazione, valore del beneficio e termini di
+utilizzo;</raw_text>
+      <normalized_text>Visto il titolo VI del Contratto collettivo di comparto del personale non dirigente – triennio normativo ed economico 2022-2024, sottoscritto in data 14/10/2024, recante la disciplina delle misure di welfare - di cui alle previsioni contenute nell’articolo 51 del D.P.R. n. 917/1986 e successive modifiche e integrazioni nonché nell’art. 1, comma 390, della legge n. 207/2024, per l’anno 2026, e nell’art. 53 del d. lgs. n. 117/2026 e successive modifiche e integrazioni, dall’anno 2027 – in ordine a beneficiari, modalità e tempi di erogazione, valore del beneficio e termini di utilizzo;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 12, "page": 2}, {"line": 13, "page": 2}, {"line": 14, "page": 2}, {"line": 15, "page": 2}, {"line": 16, "page": 2}, {"line": 17, "page": 2}, {"line": 18, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>43f24eeb-a1b6-56d5-9b46-663341e05f8c</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>4</ordinal>
+      <raw_text>Visto, in particolare, l’art. 56 del suddetto Contratto ove è previsto che le misure di welfare
+individuate dal medesimo articolo sono erogate, a decorrere dall’esercizio 2026, attraverso
+piattaforma web per la fruizione di beni e servizi e/o documenti di legittimazione nominativi, quali
+carte di debito o assegnazione di buoni spesa digitali multiuso e/o voucher;</raw_text>
+      <normalized_text>Visto, in particolare, l’art. 56 del suddetto Contratto ove è previsto che le misure di welfare individuate dal medesimo articolo sono erogate, a decorrere dall’esercizio 2026, attraverso piattaforma web per la fruizione di beni e servizi e/o documenti di legittimazione nominativi, quali carte di debito o assegnazione di buoni spesa digitali multiuso e/o voucher;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 19, "page": 2}, {"line": 20, "page": 2}, {"line": 21, "page": 2}, {"line": 22, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>f09d38d4-3980-58b7-8feb-18397876c5f0</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>5</ordinal>
+      <raw_text>Atteso che l’articolo 59 del medesimo Contratto stabilisce che in alternativa alla metodologia di cui
+sopra il welfare può essere erogato direttamente da ciascun ente tramite rimborsi al dipendente
+delle spese riconosciute come welfare dalla vigente disciplina fiscale nel tempo vigente.</raw_text>
+      <normalized_text>Atteso che l’articolo 59 del medesimo Contratto stabilisce che in alternativa alla metodologia di cui sopra il welfare può essere erogato direttamente da ciascun ente tramite rimborsi al dipendente delle spese riconosciute come welfare dalla vigente disciplina fiscale nel tempo vigente.</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 23, "page": 2}, {"line": 24, "page": 2}, {"line": 25, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>ef1d53e9-40fc-5a39-814f-f0d7a7b62370</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>6</ordinal>
+      <raw_text>Considerato che le tempistiche di una procedura di gara, sopra soglia di rilevanza europea, per
+l’affidamento del servizio per l’erogazione del welfare ai dipendenti regionali mediante piattaforma
+web non consentirebbero l’operatività della stessa entro l’anno in corso, con pregiudizio del
+personale in possesso dei requisiti;</raw_text>
+      <normalized_text>Considerato che le tempistiche di una procedura di gara, sopra soglia di rilevanza europea, per l’affidamento del servizio per l’erogazione del welfare ai dipendenti regionali mediante piattaforma web non consentirebbero l’operatività della stessa entro l’anno in corso, con pregiudizio del personale in possesso dei requisiti;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 26, "page": 2}, {"line": 27, "page": 2}, {"line": 28, "page": 2}, {"line": 29, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e33a3382-c63b-55fc-9cee-70dc8d84cfe8</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>7</ordinal>
+      <raw_text>Ritenuto in fase di prima applicazione e nelle more dell’affidamento del suddetto servizio di
+adottare soluzioni organizzative idonee ad assicurare procedure efficienti, tenuto conto dei tempi a
+disposizione e dell’ampiezza della platea dei potenziali beneficiari;</raw_text>
+      <normalized_text>Ritenuto in fase di prima applicazione e nelle more dell’affidamento del suddetto servizio di adottare soluzioni organizzative idonee ad assicurare procedure efficienti, tenuto conto dei tempi a disposizione e dell’ampiezza della platea dei potenziali beneficiari;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 30, "page": 2}, {"line": 31, "page": 2}, {"line": 32, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>76c65c0e-608c-5ad2-a866-e91818720fc9</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>8</ordinal>
+      <raw_text>Ritenuto pertanto di procedere all’erogazione del welfare tramite rimborsi diretti ai dipendenti e di
+individuare a tal fine le tipologie di spesa rimborsabili e i relativi criteri di ammissibilità, nell’ambito
+del perimetro delineato dalla vigente disciplina fiscale in materia di imposte sui redditi;</raw_text>
+      <normalized_text>Ritenuto pertanto di procedere all’erogazione del welfare tramite rimborsi diretti ai dipendenti e di individuare a tal fine le tipologie di spesa rimborsabili e i relativi criteri di ammissibilità, nell’ambito del perimetro delineato dalla vigente disciplina fiscale in materia di imposte sui redditi;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 33, "page": 2}, {"line": 34, "page": 2}, {"line": 35, "page": 2}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>2b4c1253-73e5-59c9-9462-a174ac38357d</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>9</ordinal>
+      <raw_text>Richiamato l’art. 51 del D.P.R. n. 917/1986 e s.m.i. che, al comma 2, individua tassativamente le
+somme che non concorrono a formare il reddito di lavoro dipendente, tra cui, a fronte di rimborso:
+-     “le somme erogate o rimborsate alla generalità o a categorie di dipendenti dal datore di
+lavoro […], per l'acquisto degli abbonamenti per il trasporto pubblico locale, regionale e
+interregionale del dipendente e dei familiari indicati nell'articolo 12 che si trovano nelle
+condizioni previste nel comma 2 del medesimo articolo 12” (lett. d-bis));
+-     “le somme, i servizi e le prestazioni erogati dal datore di lavoro alla generalità dei dipendenti o
+a categorie di dipendenti per la fruizione, da parte dei familiari indicati nell'articolo 12, dei
+servizi di educazione e istruzione anche in età prescolare, compresi i servizi integrativi e di
+mensa ad essi connessi, nonché per la frequenza di ludoteche e di centri estivi e invernali e
+per borse di studio a favore dei medesimi familiari” (lett. f-bis));
+-     “le somme e le prestazioni erogate dal datore di lavoro alla generalità dei dipendenti o a
+categorie di dipendenti per la fruizione dei servizi di assistenza ai familiari anziani o non
+autosufficienti indicati nell'articolo 12” (lett. f-ter));
+-     “[…] le erogazioni effettuate dal datore di lavoro in conformità a contratti collettivi o ad
+accordi e regolamenti aziendali a fronte delle spese sanitarie di cui allo stesso articolo 10,
+comma 1, lettera b). […]” (lett. h));</raw_text>
+      <normalized_text>Richiamato l’art. 51 del D.P.R. n. 917/1986 e s.m.i. che, al comma 2, individua tassativamente le somme che non concorrono a formare il reddito di lavoro dipendente, tra cui, a fronte di rimborso: - “le somme erogate o rimborsate alla generalità o a categorie di dipendenti dal datore di lavoro […], per l'acquisto degli abbonamenti per il trasporto pubblico locale, regionale e interregionale del dipendente e dei familiari indicati nell'articolo 12 che si trovano nelle condizioni previste nel comma 2 del medesimo articolo 12” (lett. d-bis)); - “le somme, i servizi e le prestazioni erogati dal datore di lavoro alla generalità dei dipendenti o a categorie di dipendenti per la fruizione, da parte dei familiari indicati nell'articolo 12, dei servizi di educazione e istruzione anche in età prescolare, compresi i servizi integrativi e di mensa ad essi connessi, nonché per la frequenza di ludoteche e di centri estivi e invernali e per borse di studio a favore dei medesimi familiari” (lett. f-bis)); - “le somme e le prestazioni erogate dal datore di lavoro alla generalità dei dipendenti o a categorie di dipendenti per la fruizione dei servizi di assistenza ai familiari anziani o non autosufficienti indicati nell'articolo 12” (lett. f-ter)); - “[…] le erogazioni effettuate dal datore di lavoro in conformità a contratti collettivi o ad accordi e regolamenti aziendali a fronte delle spese sanitarie di cui allo stesso articolo 10, comma 1, lettera b). […]” (lett. h));</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 36, "page": 2}, {"line": 37, "page": 2}, {"line": 38, "page": 2}, {"line": 39, "page": 2}, {"line": 40, "page": 2}, {"line": 41, "page": 2}, {"line": 42, "page": 2}, {"line": 43, "page": 2}, {"line": 44, "page": 2}, {"line": 45, "page": 2}, {"line": 46, "page": 2}, {"line": 1, "page": 3}, {"line": 2, "page": 3}, {"line": 3, "page": 3}, {"line": 4, "page": 3}, {"line": 5, "page": 3}, {"line": 6, "page": 3}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>297315ea-e4c9-5172-99ec-8a5cfa696e5a</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>10</ordinal>
+      <raw_text>Dato atto che ai sensi dello stesso articolo 56 del Contratto le misure di welfare vengono
+riconosciute quali “benefici di natura assistenziale e sociale, di benessere personale e familiare” a
+favore del personale delle amministrazioni ed enti facenti parte del Comparto unico;</raw_text>
+      <normalized_text>Dato atto che ai sensi dello stesso articolo 56 del Contratto le misure di welfare vengono riconosciute quali “benefici di natura assistenziale e sociale, di benessere personale e familiare” a favore del personale delle amministrazioni ed enti facenti parte del Comparto unico;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 7, "page": 3}, {"line": 8, "page": 3}, {"line": 9, "page": 3}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>fddf904b-8ab1-5c58-93f8-13d6419ef342</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>11</ordinal>
+      <raw_text>Richiamata la Legge regionale 31 agosto 1981, n. 53 “Stato giuridico e trattamento economico del
+personale della Regione autonoma Friuli - Venezia Giulia”, e successive modifiche e integrazioni, che
+agli artt. 152 e ss. ha istituito un fondo sociale in favore dei dipendenti regionali, individuando le
+prestazioni di natura sociale e assistenziale che l’Amministrazione regionale provvede a erogare -
+sussidi assistenziali, borse di studio, prestiti e mutui edilizi – e stabilendo che i requisiti, i criteri e le
+modalità di concessione delle stesse sono definiti da un apposito Comitato di gestione sulla base
+delle linee di indirizzo stabilite dalla Giunta regionale;</raw_text>
+      <normalized_text>Richiamata la Legge regionale 31 agosto 1981, n. 53 “Stato giuridico e trattamento economico del personale della Regione autonoma Friuli - Venezia Giulia”, e successive modifiche e integrazioni, che agli artt. 152 e ss. ha istituito un fondo sociale in favore dei dipendenti regionali, individuando le prestazioni di natura sociale e assistenziale che l’Amministrazione regionale provvede a erogare - sussidi assistenziali, borse di studio, prestiti e mutui edilizi – e stabilendo che i requisiti, i criteri e le modalità di concessione delle stesse sono definiti da un apposito Comitato di gestione sulla base delle linee di indirizzo stabilite dalla Giunta regionale;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 10, "page": 3}, {"line": 11, "page": 3}, {"line": 12, "page": 3}, {"line": 13, "page": 3}, {"line": 14, "page": 3}, {"line": 15, "page": 3}, {"line": 16, "page": 3}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>ff4e6650-7dc4-513d-8f2c-536dac21fd2a</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>12</ordinal>
+      <raw_text>Viste le Linee di indirizzo di cui sopra, da ultimo approvate con deliberazione della Giunta regionale
+n. 1538 del 18 ottobre 2024, e in particolare le tipologie di spesa contribuite a titolo di sussidio
+assistenziale;
+Rilevato che quota parte delle fattispecie di sussidio assistenziale individuate nelle Linee di
+indirizzo rientra nell’ambito di applicazione dell’art. 51, comma 2, del D.P.R. n. 917/1986 e s.m.i. e, in
+particolare:
+-     lett. d-bis (abbonamento al trasporto pubblico extraurbano per i dipendenti pendolari);
+-     lett. f-bis (scuola dell’infanzia, attività integrativa e servizi ausiliari scolastici, centri
+estivi/invernali diurni, soggiorni estivi, per figli minori fiscalmente a carico);
+-     lett. f-ter (assistenza alla persona non autosufficiente, per dipendente, coniuge e figli,
+fiscalmente a carico);
+-     lett. h (spese mediche/sanitare per disabilità, per dipendente, coniuge e figli, fiscalmente a
+carico);</raw_text>
+      <normalized_text>Viste le Linee di indirizzo di cui sopra, da ultimo approvate con deliberazione della Giunta regionale n. 1538 del 18 ottobre 2024, e in particolare le tipologie di spesa contribuite a titolo di sussidio assistenziale; Rilevato che quota parte delle fattispecie di sussidio assistenziale individuate nelle Linee di indirizzo rientra nell’ambito di applicazione dell’art. 51, comma 2, del D.P.R. n. 917/1986 e s.m.i. e, in particolare: - lett. d-bis (abbonamento al trasporto pubblico extraurbano per i dipendenti pendolari); - lett. f-bis (scuola dell’infanzia, attività integrativa e servizi ausiliari scolastici, centri estivi/invernali diurni, soggiorni estivi, per figli minori fiscalmente a carico); - lett. f-ter (assistenza alla persona non autosufficiente, per dipendente, coniuge e figli, fiscalmente a carico); - lett. h (spese mediche/sanitare per disabilità, per dipendente, coniuge e figli, fiscalmente a carico);</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 17, "page": 3}, {"line": 18, "page": 3}, {"line": 19, "page": 3}, {"line": 20, "page": 3}, {"line": 21, "page": 3}, {"line": 22, "page": 3}, {"line": 23, "page": 3}, {"line": 24, "page": 3}, {"line": 25, "page": 3}, {"line": 26, "page": 3}, {"line": 27, "page": 3}, {"line": 28, "page": 3}, {"line": 29, "page": 3}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>4666a083-f7b0-5bbc-8c60-d827be33670b</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>13</ordinal>
+      <raw_text>Ritenuto di garantire ai dipendenti regionali la massima fruizione della misura di welfare in oggetto,
+senza dar luogo a sovrapposizioni con il sostegno già fornito dall’Amministrazione regionale
+mediante i sussidi assistenziali a valere sul Fondo sociale dei dipendenti, semplificando al contempo
+l’attività amministrativa connessa alla gestione dei due istituti;</raw_text>
+      <normalized_text>Ritenuto di garantire ai dipendenti regionali la massima fruizione della misura di welfare in oggetto, senza dar luogo a sovrapposizioni con il sostegno già fornito dall’Amministrazione regionale mediante i sussidi assistenziali a valere sul Fondo sociale dei dipendenti, semplificando al contempo l’attività amministrativa connessa alla gestione dei due istituti;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 30, "page": 3}, {"line": 31, "page": 3}, {"line": 32, "page": 3}, {"line": 33, "page": 3}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e7a781e9-5d9f-50a5-9982-1840107e0080</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>14</ordinal>
+      <raw_text>Considerato che, per i periodi d'imposta 2025, 2026 e 2027, il quadro complessivo della vigente
+disciplina fiscale in materia di imposte sui redditi, atto a definire le tipologie di spesa riconosciute
+come welfare, ricomprende il succitato D.P.R. n. 917/1986 e s.m.i. nonché quanto disposto
+dall’articolo 1, comma 390, della Legge 30 dicembre 2024, n. 207 “Bilancio di previsione dello Stato
+per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027” secondo cui “Per i periodi
+d'imposta 2025, 2026 e 2027, in deroga a quanto previsto dall'articolo 51, comma 3, prima parte del
+terzo periodo, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della
+Repubblica 22 dicembre 1986, n. 917, non concorrono a formare il reddito, entro il limite
+complessivo di 1.000 euro, il valore dei beni ceduti e dei servizi prestati ai lavoratori dipendenti,
+nonché le somme erogate o rimborsate ai medesimi lavoratori dai datori di lavoro per il pagamento
+delle utenze domestiche del servizio idrico integrato, dell'energia elettrica e del gas naturale, delle
+spese per la locazione dell'abitazione principale o per gli interessi sul mutuo relativo all'abitazione
+principale. Il limite di cui al primo periodo è elevato a 2.000 euro per i lavoratori dipendenti con figli,
+compresi i figli nati fuori del matrimonio riconosciuti e i figli adottivi, affiliati o affidati, che si trovano
+nelle condizioni previste dall'articolo 12, comma 2, del citato testo unico di cui al decreto del
+Presidente della Repubblica n. 917 del 1986. […]";</raw_text>
+      <normalized_text>Considerato che, per i periodi d'imposta 2025, 2026 e 2027, il quadro complessivo della vigente disciplina fiscale in materia di imposte sui redditi, atto a definire le tipologie di spesa riconosciute come welfare, ricomprende il succitato D.P.R. n. 917/1986 e s.m.i. nonché quanto disposto dall’articolo 1, comma 390, della Legge 30 dicembre 2024, n. 207 “Bilancio di previsione dello Stato per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027” secondo cui “Per i periodi d'imposta 2025, 2026 e 2027, in deroga a quanto previsto dall'articolo 51, comma 3, prima parte del terzo periodo, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, non concorrono a formare il reddito, entro il limite complessivo di 1.000 euro, il valore dei beni ceduti e dei servizi prestati ai lavoratori dipendenti, nonché le somme erogate o rimborsate ai medesimi lavoratori dai datori di lavoro per il pagamento delle utenze domestiche del servizio idrico integrato, dell'energia elettrica e del gas naturale, delle spese per la locazione dell'abitazione principale o per gli interessi sul mutuo relativo all'abitazione principale. Il limite di cui al primo periodo è elevato a 2.000 euro per i lavoratori dipendenti con figli, compresi i figli nati fuori del matrimonio riconosciuti e i figli adottivi, affiliati o affidati, che si trovano nelle condizioni previste dall'articolo 12, comma 2, del citato testo unico di cui al decreto del Presidente della Repubblica n. 917 del 1986. […]";</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 34, "page": 3}, {"line": 35, "page": 3}, {"line": 36, "page": 3}, {"line": 37, "page": 3}, {"line": 38, "page": 3}, {"line": 39, "page": 3}, {"line": 40, "page": 3}, {"line": 41, "page": 3}, {"line": 42, "page": 3}, {"line": 43, "page": 3}, {"line": 44, "page": 3}, {"line": 45, "page": 3}, {"line": 1, "page": 4}, {"line": 2, "page": 4}, {"line": 3, "page": 4}, {"line": 4, "page": 4}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>2f1754d2-f995-5099-9bd9-0396d0ba5a63</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>15</ordinal>
+      <raw_text>Preso atto che il Decreto Legislativo 19 giugno 2026, n. 117 “Testo unico delle disposizioni legislative
+in materia di imposte sui redditi”, all’articolo 376 ha disposto l’abrogazione, a decorrere dal 1°
+gennaio 2027, oltre che del D.P.R. n. 917/1986 “Approvazione del testo unico delle imposte sui
+redditi” (T.U.I.R.) e s.m.i., anche del succitato comma 390 dell’art.1 della L. 207/2024, le cui
+disposizioni risultano comunque riproposte pedissequamente nell’art. 53, comma 4, dello stesso
+D.Lgs. 117/2026;</raw_text>
+      <normalized_text>Preso atto che il Decreto Legislativo 19 giugno 2026, n. 117 “Testo unico delle disposizioni legislative in materia di imposte sui redditi”, all’articolo 376 ha disposto l’abrogazione, a decorrere dal 1° gennaio 2027, oltre che del D.P.R. n. 917/1986 “Approvazione del testo unico delle imposte sui redditi” (T.U.I.R.) e s.m.i., anche del succitato comma 390 dell’art.1 della L. 207/2024, le cui disposizioni risultano comunque riproposte pedissequamente nell’art. 53, comma 4, dello stesso D.Lgs. 117/2026;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 5, "page": 4}, {"line": 6, "page": 4}, {"line": 7, "page": 4}, {"line": 8, "page": 4}, {"line": 9, "page": 4}, {"line": 10, "page": 4}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>8e4467ae-04ae-51ac-972a-9f599e641ff9</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>16</ordinal>
+      <raw_text>Ritenuto di poter individuare, in ottemperanza a quanto disposto dall'art. 1, comma 390, della L. n.
+207/2024, ulteriori tipologie di spesa rimborsabili, che, in quanto correlate ad un bene primario della
+persona, possano consentire a tutti i dipendenti regionali di fruire del welfare nella misura massima
+prevista di Euro 800,00, salvaguardando al contempo, per coloro che ne hanno i requisiti, la
+possibilità di avvalersi delle erogazioni del Fondo sociale;</raw_text>
+      <normalized_text>Ritenuto di poter individuare, in ottemperanza a quanto disposto dall'art. 1, comma 390, della L. n. 207/2024, ulteriori tipologie di spesa rimborsabili, che, in quanto correlate ad un bene primario della persona, possano consentire a tutti i dipendenti regionali di fruire del welfare nella misura massima prevista di Euro 800,00, salvaguardando al contempo, per coloro che ne hanno i requisiti, la possibilità di avvalersi delle erogazioni del Fondo sociale;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 11, "page": 4}, {"line": 12, "page": 4}, {"line": 13, "page": 4}, {"line": 14, "page": 4}, {"line": 15, "page": 4}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>fe075ee2-dbc1-5f56-943f-536f6a7e4bea</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>17</ordinal>
+      <raw_text>Dato atto, pertanto, che in base al combinato disposto di cui sopra, le tipologie di spesa
+rimborsabili a titolo di welfare nell’ambito della disciplina fiscale vigente, che non danno luogo a
+significative sovrapposizioni con i sussidi assistenziali erogati a valere sul Fondo sociale, risultano le
+seguenti:
+-     utenze domestiche per il servizio idrico integrato, l’energia elettrica e il gas naturale;
+-     interessi sul mutuo relativo all’abitazione principale;
+-     locazione dell’abitazione principale;
+-     abbonamento al trasporto pubblico, anche urbano;
+-     assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non
+autosufficienti;</raw_text>
+      <normalized_text>Dato atto, pertanto, che in base al combinato disposto di cui sopra, le tipologie di spesa rimborsabili a titolo di welfare nell’ambito della disciplina fiscale vigente, che non danno luogo a significative sovrapposizioni con i sussidi assistenziali erogati a valere sul Fondo sociale, risultano le seguenti: - utenze domestiche per il servizio idrico integrato, l’energia elettrica e il gas naturale; - interessi sul mutuo relativo all’abitazione principale; - locazione dell’abitazione principale; - abbonamento al trasporto pubblico, anche urbano; - assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non autosufficienti;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 16, "page": 4}, {"line": 17, "page": 4}, {"line": 18, "page": 4}, {"line": 19, "page": 4}, {"line": 20, "page": 4}, {"line": 21, "page": 4}, {"line": 22, "page": 4}, {"line": 23, "page": 4}, {"line": 24, "page": 4}, {"line": 25, "page": 4}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>065b395d-11e6-5fe0-a34d-d0e19dfc7b59</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>18</ordinal>
+      <raw_text>Visti i chiarimenti e le interpretazioni forniti in materia dall’Agenzia delle Entrate mediante, in
+particolare, le circolari n. 2/E del 03/01/2005, n. 28/E del 15/06/2016, n. 5/E del 29/03/2018, n.
+35/E del 04/11/2022, n. 14/E e n. 15/E del 19/06/2023, n. 23/E del 01/08/2023, n. 5/E del
+07/03/2024, n. 4/E del 16/05/2025, nonché la risoluzione n. 55/E del 25/09/2020 e le risposte ad
+interpelli n. 311/2021 e n. 163/2026;</raw_text>
+      <normalized_text>Visti i chiarimenti e le interpretazioni forniti in materia dall’Agenzia delle Entrate mediante, in particolare, le circolari n. 2/E del 03/01/2005, n. 28/E del 15/06/2016, n. 5/E del 29/03/2018, n. 35/E del 04/11/2022, n. 14/E e n. 15/E del 19/06/2023, n. 23/E del 01/08/2023, n. 5/E del 07/03/2024, n. 4/E del 16/05/2025, nonché la risoluzione n. 55/E del 25/09/2020 e le risposte ad interpelli n. 311/2021 e n. 163/2026;</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 26, "page": 4}, {"line": 27, "page": 4}, {"line": 28, "page": 4}, {"line": 29, "page": 4}, {"line": 30, "page": 4}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e8022379-223c-51c9-b4e9-ad2ed452c303</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>0bab06f3-11a6-5245-9e1b-18deab68e68b</parent_unit_id>
+      <unit_type>RECITAL</unit_type>
+      <ordinal>19</ordinal>
+      <raw_text>Ritenuto conseguentemente opportuno definire, ai fini della presentazione delle istanze di
+rimborso, i criteri di ammissibilità delle spese sopra individuate, mediante l’approvazione del
+documento “Linee guida operative per l’erogazione del welfare di cui all’art. 59 del Contratto
+collettivo di comparto del personale non dirigente, triennio normativo ed economico 2022-2024”,
+allegato alla presente deliberazione quale parte integrante e sostanziale, nel rispetto della disciplina
+stabilita agli artt. 56, 57 e 58 del medesimo Contratto;
+Su proposta dell’Assessore regionale alle autonomie locali, funzione pubblica, sicurezza e
+immigrazione,
+La Giunta regionale, all’unanimità,</raw_text>
+      <normalized_text>Ritenuto conseguentemente opportuno definire, ai fini della presentazione delle istanze di rimborso, i criteri di ammissibilità delle spese sopra individuate, mediante l’approvazione del documento “Linee guida operative per l’erogazione del welfare di cui all’art. 59 del Contratto collettivo di comparto del personale non dirigente, triennio normativo ed economico 2022-2024”, allegato alla presente deliberazione quale parte integrante e sostanziale, nel rispetto della disciplina stabilita agli artt. 56, 57 e 58 del medesimo Contratto; Su proposta dell’Assessore regionale alle autonomie locali, funzione pubblica, sicurezza e immigrazione, La Giunta regionale, all’unanimità,</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 31, "page": 4}, {"line": 32, "page": 4}, {"line": 33, "page": 4}, {"line": 34, "page": 4}, {"line": 35, "page": 4}, {"line": 36, "page": 4}, {"line": 37, "page": 4}, {"line": 38, "page": 4}, {"line": 39, "page": 4}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>e0d80961-ff6f-5b6d-b958-1ed521ba67e6</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>OPERATIVE_SECTION</unit_type>
+      <ordinal>8</ordinal>
+      <raw_text>DELIBERA</raw_text>
+      <normalized_text>DELIBERA</normalized_text>
+      <source_locator>{"line": 41, "pdf_page": 4}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>a1836957-5843-5340-9a89-941759d88db7</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>e0d80961-ff6f-5b6d-b958-1ed521ba67e6</parent_unit_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>1</unit_label>
+      <ordinal>1</ordinal>
+      <raw_text>1.        Di individuare, in sede di prima applicazione, le seguenti tipologie di spese rimborsabili a
+titolo di welfare ex art. 59 del Contratto collettivo di comparto del personale non dirigente – triennio
+normativo ed economico 2022-2024, sottoscritto in data 14/10/2024, nell’ambito della disciplina
+fiscale in materia di imposte sui redditi di cui al combinato disposto dell’art. 51, comma 2, del D.P.R.
+n. 917/1986 e s.m.i. e dell’art. 1, comma 390, della L. n. 207/2024, nonché all’art. 53 del D.Lgs. n.
+117/2026:
+-    utenze domestiche per il servizio idrico integrato, l’energia elettrica e il gas naturale;
+-    interessi sul mutuo relativo all’abitazione principale;
+-    locazione dell’abitazione principale;
+-    abbonamento al trasporto pubblico, anche urbano;
+-    assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non
+autosufficienti.</raw_text>
+      <normalized_text>1. Di individuare, in sede di prima applicazione, le seguenti tipologie di spese rimborsabili a titolo di welfare ex art. 59 del Contratto collettivo di comparto del personale non dirigente – triennio normativo ed economico 2022-2024, sottoscritto in data 14/10/2024, nell’ambito della disciplina fiscale in materia di imposte sui redditi di cui al combinato disposto dell’art. 51, comma 2, del D.P.R. n. 917/1986 e s.m.i. e dell’art. 1, comma 390, della L. n. 207/2024, nonché all’art. 53 del D.Lgs. n. 117/2026: - utenze domestiche per il servizio idrico integrato, l’energia elettrica e il gas naturale; - interessi sul mutuo relativo all’abitazione principale; - locazione dell’abitazione principale; - abbonamento al trasporto pubblico, anche urbano; - assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non autosufficienti.</normalized_text>
+      <source_locator>{"candidate_provision_key": "IT-FVG:DGR:2026:1507:PUNTO1", "pdf_lines": [{"line": 43, "page": 4}, {"line": 44, "page": 4}, {"line": 45, "page": 4}, {"line": 1, "page": 5}, {"line": 2, "page": 5}, {"line": 3, "page": 5}, {"line": 4, "page": 5}, {"line": 5, "page": 5}, {"line": 6, "page": 5}, {"line": 7, "page": 5}, {"line": 8, "page": 5}, {"line": 9, "page": 5}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>fcdcf6bd-6f0b-55f0-b7ad-4ca43584a1c2</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>e0d80961-ff6f-5b6d-b958-1ed521ba67e6</parent_unit_id>
+      <unit_type>OPERATIVE_POINT</unit_type>
+      <unit_label>2</unit_label>
+      <ordinal>2</ordinal>
+      <raw_text>2.       Di approvare il documento “Linee guida operative per l’erogazione del welfare di cui all’art.
+59 del Contratto collettivo di comparto del personale non dirigente, triennio normativo ed
+economico 2022-2024”, allegato alla presente deliberazione quale parte integrante e sostanziale,
+nel rispetto della disciplina stabilita agli artt. 56, 57 e 58 del medesimo Contratto.</raw_text>
+      <normalized_text>2. Di approvare il documento “Linee guida operative per l’erogazione del welfare di cui all’art. 59 del Contratto collettivo di comparto del personale non dirigente, triennio normativo ed economico 2022-2024”, allegato alla presente deliberazione quale parte integrante e sostanziale, nel rispetto della disciplina stabilita agli artt. 56, 57 e 58 del medesimo Contratto.</normalized_text>
+      <source_locator>{"candidate_provision_key": "IT-FVG:DGR:2026:1507:PUNTO2", "pdf_lines": [{"line": 10, "page": 5}, {"line": 11, "page": 5}, {"line": 12, "page": 5}, {"line": 13, "page": 5}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>d6aecbb0-b6f9-5863-994c-bf7269affe7f</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>SIGNATURE</unit_type>
+      <ordinal>9</ordinal>
+      <raw_text>IL VICEPRESIDENTE</raw_text>
+      <normalized_text>IL VICEPRESIDENTE</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 15, "page": 5}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>f10736d3-70e0-54fb-9dc1-4d691e30c8f2</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>SIGNATURE</unit_type>
+      <ordinal>10</ordinal>
+      <raw_text>IL SEGRETARIO GENERALE</raw_text>
+      <normalized_text>IL SEGRETARIO GENERALE</normalized_text>
+      <source_locator>{"pdf_lines": [{"line": 16, "page": 5}]}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>7bc9faed-16ac-5c99-afb3-33359a2a347f</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>9e177c44-f870-54e4-aaf8-1f812f9b1ee4</parent_unit_id>
+      <unit_type>ANNEX</unit_type>
+      <unit_label>1</unit_label>
+      <ordinal>11</ordinal>
+      <raw_text></raw_text>
+      <normalized_text></normalized_text>
+      <source_locator>{"attachment_index": 1}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>24c82fab-1b37-5a31-abf6-0a4eba4fcc6f</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>7bc9faed-16ac-5c99-afb3-33359a2a347f</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>1</ordinal>
+      <raw_text>                      ALLEGATO ALLA DELIBERA N. 1507 DEL 16 OTTOBRE 2026
+
+
+
+
+Linee guida operative per l’erogazione del welfare di cui all’art. 59 del Contratto
+collettivo di comparto del personale non dirigente, triennio normativo ed economico
+2022-2024
+
+
+Articolo 1 – Oggetto, finalità e quadro normativo di riferimento
+1. Le presenti Linee guida disciplinano, in sede di prima applicazione, l’erogazione del welfare di cui
+    all’art. 59 del Contratto collettivo di comparto del personale non dirigente, triennio normativo ed
+    economico 2022-2024 (di seguito Contratto), quale beneficio di natura assistenziale e sociale, di
+    benessere personale e familiare, ai dipendenti della Regione Autonoma Friuli Venezia Giulia, nonché
+    al personale proveniente da enti pubblici in comando e ai lavoratori in somministrazione presso
+    l’Amministrazione regionale, mediante rimborsi delle spese riconosciute come welfare dalla
+    normativa fiscale in materia di imposte sui redditi.
+2. Per la finalità di cui al precedente comma, esplicati i requisiti di cui alla disciplina stabilita agli artt.
+    56, 57 e 58 del Contratto, sono definite le tipologie di spesa rimborsabili a titolo di welfare e i criteri
+    di ammissibilità delle stesse.
+3. Le presenti Linee guida sono redatte in conformità alle disposizioni di cui al D.P.R. 917/1986
+    “Approvazione del testo unico delle imposte sui redditi” (T.U.I.R.) e s.m.i. e, in particolare, all’art. 51,
+    commi 2 e 3, quest’ultimo in combinato disposto con la L. 207/2024 “Bilancio di previsione dello
+    Stato per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027”, al D.Lgs
+    117/2026 “Testo unico delle disposizioni legislative in materia di imposte sui redditi”, le cui
+    disposizioni si applicano a decorrere dal 1° gennaio 2027, all’art. 27 della L.r. 18/2016, nonché ai
+    chiarimenti e alle interpretazioni in materia forniti dall’Agenzia delle Entrate.
+
+Articolo 2 – Beneficiari e richiedenti
+1. Sono destinatari delle misure di welfare di cui all’articolo 59 del Contratto, i dipendenti a tempo
+    determinato o indeterminato della Regione Autonoma Friuli Venezia Giulia, il cui rapporto di lavoro
+    abbia una durata di almeno 180 giorni (solari), anche non continuativi, nell’anno solare di
+    riferimento, nonché il personale proveniente da enti pubblici in comando e i lavoratori in
+
+                                                       1
+</raw_text>
+      <normalized_text>ALLEGATO ALLA DELIBERA N. 1507 DEL 16 OTTOBRE 2026 Linee guida operative per l’erogazione del welfare di cui all’art. 59 del Contratto collettivo di comparto del personale non dirigente, triennio normativo ed economico 2022-2024 Articolo 1 – Oggetto, finalità e quadro normativo di riferimento 1. Le presenti Linee guida disciplinano, in sede di prima applicazione, l’erogazione del welfare di cui all’art. 59 del Contratto collettivo di comparto del personale non dirigente, triennio normativo ed economico 2022-2024 (di seguito Contratto), quale beneficio di natura assistenziale e sociale, di benessere personale e familiare, ai dipendenti della Regione Autonoma Friuli Venezia Giulia, nonché al personale proveniente da enti pubblici in comando e ai lavoratori in somministrazione presso l’Amministrazione regionale, mediante rimborsi delle spese riconosciute come welfare dalla normativa fiscale in materia di imposte sui redditi. 2. Per la finalità di cui al precedente comma, esplicati i requisiti di cui alla disciplina stabilita agli artt. 56, 57 e 58 del Contratto, sono definite le tipologie di spesa rimborsabili a titolo di welfare e i criteri di ammissibilità delle stesse. 3. Le presenti Linee guida sono redatte in conformità alle disposizioni di cui al D.P.R. 917/1986 “Approvazione del testo unico delle imposte sui redditi” (T.U.I.R.) e s.m.i. e, in particolare, all’art. 51, commi 2 e 3, quest’ultimo in combinato disposto con la L. 207/2024 “Bilancio di previsione dello Stato per l'anno finanziario 2025 e bilancio pluriennale per il triennio 2025-2027”, al D.Lgs 117/2026 “Testo unico delle disposizioni legislative in materia di imposte sui redditi”, le cui disposizioni si applicano a decorrere dal 1° gennaio 2027, all’art. 27 della L.r. 18/2016, nonché ai chiarimenti e alle interpretazioni in materia forniti dall’Agenzia delle Entrate. Articolo 2 – Beneficiari e richiedenti 1. Sono destinatari delle misure di welfare di cui all’articolo 59 del Contratto, i dipendenti a tempo determinato o indeterminato della Regione Autonoma Friuli Venezia Giulia, il cui rapporto di lavoro abbia una durata di almeno 180 giorni (solari), anche non continuativi, nell’anno solare di riferimento, nonché il personale proveniente da enti pubblici in comando e i lavoratori in 1</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "cb3ca3a6fff1b8b72ed533beef2420c2e7995c88b606beccd65fc35c8d3d069e", "pdf_page": 1, "role": "attachment_content", "source_url": "inputs/Allegato%201%20alla%20Delibera%201507-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>2a77b149-5e45-5e6c-bf81-37dbee7ed84d</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>7bc9faed-16ac-5c99-afb3-33359a2a347f</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>2</ordinal>
+      <raw_text>   somministrazione presso l’Amministrazione regionale i cui periodi di comando/somministrazione,
+   anche non continuativi, nell’anno solare di riferimento siano di durata complessiva almeno pari a
+   180 giorni (solari).
+   Qualora nell’anno solare di riferimento risultino in capo ad un medesimo soggetto periodi, anche
+   non continuativi, di rapporto di lavoro dipendente, comando e/o lavoro in somministrazione presso
+   l’Amministrazione regionale, gli stessi concorreranno congiuntamente al calcolo del requisito
+   minimo dei 180 giorni (solari) nell’anno solare di riferimento.
+2. Nel caso di dipendenti comandati presso altri enti pubblici il welfare è riconosciuto nella misura in
+   cui non sia corrisposto dall’ente utilizzatore.
+3. Il welfare è riconosciuto anche ai richiedenti che conseguono i requisiti di cui al presente articolo
+   entro il 31 dicembre dell’anno di riferimento, salvo revoca e ripetizione dell’indebito qualora gli stessi
+   non risultino effettivamente soddisfatti per l’anno solare di riferimento.
+
+Articolo 3 – Causa di esclusione
+1. Sono esclusi dal beneficio i richiedenti che, nell’anno solare di riferimento, abbiano usufruito per un
+   periodo superiore a 180 giorni (solari), anche non continuativi, dei seguenti istituti:
+   - aspettativa per motivi personali e familiari;
+   - aspettativa per l’assunzione di incarichi dirigenziali;
+   - aspettativa per assunzione di incarichi non dirigenziali presso altro ente;
+   - congedo straordinario per dottorato di ricerca;
+   - part-time non superiore al 50% per lo svolgimento di altra attività lavorativa.
+2. Ai fini del computo del periodo di cui al precedente comma si considera il cumulo dei periodi, anche
+   non continuativi, relativi a tutte le causali ivi indicate, in relazione all’anno solare di riferimento.
+3. Per il personale proveniente da altro ente pubblico in comando presso l’Amministrazione regionale,
+   non si considerano i periodi di cui al comma 1 fruiti presso l’ente di provenienza.
+
+Articolo 4 – Ammontare del welfare
+1. L’importo erogabile a ciascun richiedente a titolo di welfare mediante rimborso spese ex art 59 del
+   Contratto, ammonta ad Euro 800,00 per anno solare. Tale somma non è commisurata né
+   riproporzionata al periodo di lavoro effettivo prestato nell’anno solare di riferimento.
+2. La misura del welfare di cui al comma 1 può essere riconosciuta, nell’ambito del Comparto unico,
+   solo una volta ad anno solare. Pertanto, nel caso di dipendenti comandati presso altri enti pubblici
+   l’importo rimborsabile di cui al comma 1 è detratto della quota eventualmente già corrisposta
+                                                       2
+</raw_text>
+      <normalized_text>somministrazione presso l’Amministrazione regionale i cui periodi di comando/somministrazione, anche non continuativi, nell’anno solare di riferimento siano di durata complessiva almeno pari a 180 giorni (solari). Qualora nell’anno solare di riferimento risultino in capo ad un medesimo soggetto periodi, anche non continuativi, di rapporto di lavoro dipendente, comando e/o lavoro in somministrazione presso l’Amministrazione regionale, gli stessi concorreranno congiuntamente al calcolo del requisito minimo dei 180 giorni (solari) nell’anno solare di riferimento. 2. Nel caso di dipendenti comandati presso altri enti pubblici il welfare è riconosciuto nella misura in cui non sia corrisposto dall’ente utilizzatore. 3. Il welfare è riconosciuto anche ai richiedenti che conseguono i requisiti di cui al presente articolo entro il 31 dicembre dell’anno di riferimento, salvo revoca e ripetizione dell’indebito qualora gli stessi non risultino effettivamente soddisfatti per l’anno solare di riferimento. Articolo 3 – Causa di esclusione 1. Sono esclusi dal beneficio i richiedenti che, nell’anno solare di riferimento, abbiano usufruito per un periodo superiore a 180 giorni (solari), anche non continuativi, dei seguenti istituti: - aspettativa per motivi personali e familiari; - aspettativa per l’assunzione di incarichi dirigenziali; - aspettativa per assunzione di incarichi non dirigenziali presso altro ente; - congedo straordinario per dottorato di ricerca; - part-time non superiore al 50% per lo svolgimento di altra attività lavorativa. 2. Ai fini del computo del periodo di cui al precedente comma si considera il cumulo dei periodi, anche non continuativi, relativi a tutte le causali ivi indicate, in relazione all’anno solare di riferimento. 3. Per il personale proveniente da altro ente pubblico in comando presso l’Amministrazione regionale, non si considerano i periodi di cui al comma 1 fruiti presso l’ente di provenienza. Articolo 4 – Ammontare del welfare 1. L’importo erogabile a ciascun richiedente a titolo di welfare mediante rimborso spese ex art 59 del Contratto, ammonta ad Euro 800,00 per anno solare. Tale somma non è commisurata né riproporzionata al periodo di lavoro effettivo prestato nell’anno solare di riferimento. 2. La misura del welfare di cui al comma 1 può essere riconosciuta, nell’ambito del Comparto unico, solo una volta ad anno solare. Pertanto, nel caso di dipendenti comandati presso altri enti pubblici l’importo rimborsabile di cui al comma 1 è detratto della quota eventualmente già corrisposta 2</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "cb3ca3a6fff1b8b72ed533beef2420c2e7995c88b606beccd65fc35c8d3d069e", "pdf_page": 2, "role": "attachment_content", "source_url": "inputs/Allegato%201%20alla%20Delibera%201507-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>bb5bdd88-e8ca-51f1-8a81-d6587fb58c7d</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>7bc9faed-16ac-5c99-afb3-33359a2a347f</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>3</ordinal>
+      <raw_text>   dall’ente utilizzatore. In analogia, per il personale di altri enti pubblici in comando presso
+   l’Amministrazione regionale l’importo erogabile di cui al comma 1 è detratto della quota
+   eventualmente già corrisposta dall’ente di provenienza.
+3. Posto il divieto di monetizzazione, l’importo effettivamente erogato a titolo di welfare ex art 59 del
+   Contratto, corrisponderà all’ammontare delle spese rimborsabili presentate o dichiarate, secondo
+   quanto previsto ai successivi artt. 5, 6, 7, 8 e 9.
+4. Il welfare è erogato salvo revoca e ripetizione dell’indebito qualora nell’anno solare di riferimento,
+   successivamente alla presentazione dell’istanza, il beneficiario si sia trovato nella causa di
+   esclusione di cui all’art. 3.
+5. Ai sensi dell’art. 58, comma 4, del Contratto, l’eventuale credito welfare, rappresentato dalla
+   differenza tra l’importo rimborsato a titolo di welfare e la misura di Euro 800,00 stabilita per anno
+   solare, potrà essere utilizzato entro e non oltre il 31 dicembre dell’anno successivo a quello di
+   riferimento.
+
+Articolo 5 – Spese rimborsabili a titolo di welfare ex art. 59 del Contratto
+1. In sede di prima applicazione sono rimborsabili a titolo di welfare ex art. 59 del Contratto le seguenti
+   tipologie di spesa:
+   a. utenze domestiche per il servizio idrico integrato, l’energia elettrica e il gas naturale;
+   b. interessi sul mutuo relativo all’abitazione principale;
+   c. locazione dell’abitazione principale;
+   d. abbonamento al trasporto pubblico, anche urbano;
+   e. assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non autosufficienti.
+2. Le spese di cui al precedente comma devono essere di competenza dell’anno solare di
+   presentazione dell’istanza ed effettivamente sostenute nel medesimo anno. Non è pertanto
+   ammessa la presentazione di istanze per spese per le quali non è ancora avvenuto il relativo
+   esborso. Sono in ogni caso esclusi i costi di commissione per i pagamenti.
+3. La documentazione di spesa per la quale viene avanzata istanza di welfare non deve essere già stata
+   oggetto di richiesta di rimborso, totale o parziale, non solo presso l’Amministrazione regionale, ma
+   anche presso altri soggetti, pubblici o privati.
+4. Sono rimborsate esclusivamente le spese che rispondono ai requisiti, presupposti e criteri previsti ai
+   commi 1, 2 e 3 del presente articolo, nonché ai seguenti artt. 6, 7, 8 e 9.
+5. Le spese di cui alle lettere a., b. e c. del comma 1 possono essere autocertificate; in tal caso, il
+   welfare viene erogato salvo revoca e ripetizione dell’indebito qualora, in sede di controlli, si accerti
+                                                         3
+</raw_text>
+      <normalized_text>dall’ente utilizzatore. In analogia, per il personale di altri enti pubblici in comando presso l’Amministrazione regionale l’importo erogabile di cui al comma 1 è detratto della quota eventualmente già corrisposta dall’ente di provenienza. 3. Posto il divieto di monetizzazione, l’importo effettivamente erogato a titolo di welfare ex art 59 del Contratto, corrisponderà all’ammontare delle spese rimborsabili presentate o dichiarate, secondo quanto previsto ai successivi artt. 5, 6, 7, 8 e 9. 4. Il welfare è erogato salvo revoca e ripetizione dell’indebito qualora nell’anno solare di riferimento, successivamente alla presentazione dell’istanza, il beneficiario si sia trovato nella causa di esclusione di cui all’art. 3. 5. Ai sensi dell’art. 58, comma 4, del Contratto, l’eventuale credito welfare, rappresentato dalla differenza tra l’importo rimborsato a titolo di welfare e la misura di Euro 800,00 stabilita per anno solare, potrà essere utilizzato entro e non oltre il 31 dicembre dell’anno successivo a quello di riferimento. Articolo 5 – Spese rimborsabili a titolo di welfare ex art. 59 del Contratto 1. In sede di prima applicazione sono rimborsabili a titolo di welfare ex art. 59 del Contratto le seguenti tipologie di spesa: a. utenze domestiche per il servizio idrico integrato, l’energia elettrica e il gas naturale; b. interessi sul mutuo relativo all’abitazione principale; c. locazione dell’abitazione principale; d. abbonamento al trasporto pubblico, anche urbano; e. assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non autosufficienti. 2. Le spese di cui al precedente comma devono essere di competenza dell’anno solare di presentazione dell’istanza ed effettivamente sostenute nel medesimo anno. Non è pertanto ammessa la presentazione di istanze per spese per le quali non è ancora avvenuto il relativo esborso. Sono in ogni caso esclusi i costi di commissione per i pagamenti. 3. La documentazione di spesa per la quale viene avanzata istanza di welfare non deve essere già stata oggetto di richiesta di rimborso, totale o parziale, non solo presso l’Amministrazione regionale, ma anche presso altri soggetti, pubblici o privati. 4. Sono rimborsate esclusivamente le spese che rispondono ai requisiti, presupposti e criteri previsti ai commi 1, 2 e 3 del presente articolo, nonché ai seguenti artt. 6, 7, 8 e 9. 5. Le spese di cui alle lettere a., b. e c. del comma 1 possono essere autocertificate; in tal caso, il welfare viene erogato salvo revoca e ripetizione dell’indebito qualora, in sede di controlli, si accerti 3</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "cb3ca3a6fff1b8b72ed533beef2420c2e7995c88b606beccd65fc35c8d3d069e", "pdf_page": 3, "role": "attachment_content", "source_url": "inputs/Allegato%201%20alla%20Delibera%201507-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>27b0379c-3efa-51a3-8014-1f58fe661589</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>7bc9faed-16ac-5c99-afb3-33359a2a347f</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>4</ordinal>
+      <raw_text>   che l’importo, o quota parte dello stesso, sia stato corrisposto in relazione a spese non conformi a
+   quanto previsto dalle presenti Linee guida.
+
+Articolo 6 – Criteri di ammissibilità delle spese per le utenze domestiche
+1. Sono ammesse le spese per le utenze domestiche relative al servizio idrico integrato, l’energia
+   elettrica e il gas naturale, purché relative ad immobili ad uso abitativo posseduti o detenuti, sulla
+   base di un titolo idoneo, dal richiedente, dal coniuge o dai familiari indicati all’articolo 12 del testo
+   unico delle imposte sui redditi, a prescindere che negli stessi abbiano o meno stabilito la residenza o
+   il domicilio, a condizione che ne sostengano effettivamente le relative spese.
+2. Le spese di cui al comma precedente devono essere intestate al richiedente o al coniuge o ai
+   familiari indicati all’articolo 12 del testo unico delle imposte sui redditi; possono essere intestate al
+   condominio e al locatore nelle sole ipotesi previste al comma 3.
+3. Sono incluse le spese per le utenze per uso domestico intestate al condominio e ripartite tra i
+   condomini, per la quota spettante al richiedente, al coniuge o ai familiari indicati all’articolo 12 del
+   testo unico delle imposte sui redditi in base ai millesimi di proprietà, e le spese per le utenze
+   intestate al locatore (proprietario dell’immobile) quando nel contratto di locazione è prevista
+   espressamente una forma di addebito analitico e non forfettario delle stesse a carico del
+   richiedente, coniuge o familiare indicato all’articolo 12 del testo unico delle imposte sui redditi, in
+   qualità di locatari, sempre a condizione che tali soggetti sostengano effettivamente la relativa
+   spesa.
+4. Le spese di cui al presente articolo devono riguardare fatture o altri documenti assimilati emessi,
+   anche in relazione ad immobili diversi dall’abitazione principale, nell’anno solare di presentazione
+   dell’istanza, indipendentemente dal periodo di riferimento dei consumi.
+5. Sono escluse le componenti di spesa non direttamente correlate ai consumi, quali, a titolo
+   esemplificativo e non esaustivo, il canone RAI, i costi di allacciamento di una nuova utenza, i depositi
+   cauzionali, le formule assicurative, i costi una tantum per l’aumento della potenza kw impegnata, gli
+   interessi di mora.
+
+
+Articolo 7 – Criteri di ammissibilità delle spese per la locazione dell’abitazione principale e gli
+interessi sul mutuo relativi all’abitazione principale
+1. Sono ammesse le spese per la locazione dell’abitazione principale e/o gli interessi sul mutuo
+   relativo all’abitazione principale, in relazione ad immobili ad uso abitativo posseduti o detenuti, sulla
+   base di un titolo idoneo, dal richiedente, dal coniuge o dai familiari di cui all’articolo 12 del testo
+                                                     4
+</raw_text>
+      <normalized_text>che l’importo, o quota parte dello stesso, sia stato corrisposto in relazione a spese non conformi a quanto previsto dalle presenti Linee guida. Articolo 6 – Criteri di ammissibilità delle spese per le utenze domestiche 1. Sono ammesse le spese per le utenze domestiche relative al servizio idrico integrato, l’energia elettrica e il gas naturale, purché relative ad immobili ad uso abitativo posseduti o detenuti, sulla base di un titolo idoneo, dal richiedente, dal coniuge o dai familiari indicati all’articolo 12 del testo unico delle imposte sui redditi, a prescindere che negli stessi abbiano o meno stabilito la residenza o il domicilio, a condizione che ne sostengano effettivamente le relative spese. 2. Le spese di cui al comma precedente devono essere intestate al richiedente o al coniuge o ai familiari indicati all’articolo 12 del testo unico delle imposte sui redditi; possono essere intestate al condominio e al locatore nelle sole ipotesi previste al comma 3. 3. Sono incluse le spese per le utenze per uso domestico intestate al condominio e ripartite tra i condomini, per la quota spettante al richiedente, al coniuge o ai familiari indicati all’articolo 12 del testo unico delle imposte sui redditi in base ai millesimi di proprietà, e le spese per le utenze intestate al locatore (proprietario dell’immobile) quando nel contratto di locazione è prevista espressamente una forma di addebito analitico e non forfettario delle stesse a carico del richiedente, coniuge o familiare indicato all’articolo 12 del testo unico delle imposte sui redditi, in qualità di locatari, sempre a condizione che tali soggetti sostengano effettivamente la relativa spesa. 4. Le spese di cui al presente articolo devono riguardare fatture o altri documenti assimilati emessi, anche in relazione ad immobili diversi dall’abitazione principale, nell’anno solare di presentazione dell’istanza, indipendentemente dal periodo di riferimento dei consumi. 5. Sono escluse le componenti di spesa non direttamente correlate ai consumi, quali, a titolo esemplificativo e non esaustivo, il canone RAI, i costi di allacciamento di una nuova utenza, i depositi cauzionali, le formule assicurative, i costi una tantum per l’aumento della potenza kw impegnata, gli interessi di mora. Articolo 7 – Criteri di ammissibilità delle spese per la locazione dell’abitazione principale e gli interessi sul mutuo relativi all’abitazione principale 1. Sono ammesse le spese per la locazione dell’abitazione principale e/o gli interessi sul mutuo relativo all’abitazione principale, in relazione ad immobili ad uso abitativo posseduti o detenuti, sulla base di un titolo idoneo, dal richiedente, dal coniuge o dai familiari di cui all’articolo 12 del testo 4</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "cb3ca3a6fff1b8b72ed533beef2420c2e7995c88b606beccd65fc35c8d3d069e", "pdf_page": 4, "role": "attachment_content", "source_url": "inputs/Allegato%201%20alla%20Delibera%201507-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>94f27a26-88f0-5ca5-a2ea-5e54a4af7637</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>7bc9faed-16ac-5c99-afb3-33359a2a347f</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>5</ordinal>
+      <raw_text>    unico delle imposte sui redditi, nel quale il richiedente o i predetti familiari di cui all’articolo 12 del
+    testo unico delle imposte sui redditi dimorino abitualmente, a condizione che ne sostengano
+    effettivamente le relative spese.
+2. Il contratto di locazione e/o di mutuo edilizio devono essere intestati al richiedente o ai familiari di
+    cui al precedente comma 1.
+3. Per l’individuazione delle spese di locazione dell’abitazione principale rimborsabili si fa riferimento al
+    canone dell’anno solare di presentazione dell’istanza risultante dal contratto regolarmente
+    registrato, effettivamente pagato nel medesimo anno, al netto di eventuali costi forfettari per le
+    utenze domestiche.
+4. Per l’individuazione degli interessi sul mutuo relativo all’abitazione principale rimborsabili, si
+    considera la quota di interessi pagata nell’anno solare di presentazione dell’istanza in relazione alle
+    rate di competenza del medesimo anno, come risultanti dal piano di ammortamento e, per i mutui a
+    tasso variabile, dal dettaglio delle rate versate, dall’estratto conto periodico o da altri documenti
+    rilasciati dall’istituto di credito ai fini della corresponsione degli interessi sulle rate del piano di
+    ammortamento.
+
+Articolo 8 – Criteri di ammissibilità delle spese per l’abbonamento al trasporto pubblico urbano
+ed extraurbano
+1. Sono ammesse le spese per l’acquisto degli abbonamenti per il trasporto pubblico urbano ed
+    extraurbano (anche interregionale), intestate al richiedente o ai familiari indicati all’articolo 12 del
+    testo unico delle imposte sui redditi, purché fiscalmente a carico. I familiari, diversi dal coniuge e dai
+    figli, elencati dall'articolo 433 del codice civile devono inoltre convivere con il richiedente o percepire
+    da questi assegni alimentari non risultanti da provvedimenti dell'autorità giudiziaria.
+2. Per abbonamento al trasporto pubblico si intende un titolo di trasporto che consenta al titolare di
+    poter effettuare, su mezzi pubblici, un numero illimitato di viaggi lungo un percorso determinato o
+    sull’intera rete, per più giorni, entro un dato periodo di tempo. Non sono ammissibili né i titoli di
+    viaggio con durata oraria, anche se superiore alla giornata, né le carte turistiche che abbinano al
+    trasporto pubblico l’ingresso a musei o a spettacoli.
+3. L’abbonamento al trasporto pubblico pagato nell’anno solare di presentazione dell’istanza può
+    anche riferirsi a periodi di fruizione dell’anno successivo.
+
+
+
+
+                                                       5
+</raw_text>
+      <normalized_text>unico delle imposte sui redditi, nel quale il richiedente o i predetti familiari di cui all’articolo 12 del testo unico delle imposte sui redditi dimorino abitualmente, a condizione che ne sostengano effettivamente le relative spese. 2. Il contratto di locazione e/o di mutuo edilizio devono essere intestati al richiedente o ai familiari di cui al precedente comma 1. 3. Per l’individuazione delle spese di locazione dell’abitazione principale rimborsabili si fa riferimento al canone dell’anno solare di presentazione dell’istanza risultante dal contratto regolarmente registrato, effettivamente pagato nel medesimo anno, al netto di eventuali costi forfettari per le utenze domestiche. 4. Per l’individuazione degli interessi sul mutuo relativo all’abitazione principale rimborsabili, si considera la quota di interessi pagata nell’anno solare di presentazione dell’istanza in relazione alle rate di competenza del medesimo anno, come risultanti dal piano di ammortamento e, per i mutui a tasso variabile, dal dettaglio delle rate versate, dall’estratto conto periodico o da altri documenti rilasciati dall’istituto di credito ai fini della corresponsione degli interessi sulle rate del piano di ammortamento. Articolo 8 – Criteri di ammissibilità delle spese per l’abbonamento al trasporto pubblico urbano ed extraurbano 1. Sono ammesse le spese per l’acquisto degli abbonamenti per il trasporto pubblico urbano ed extraurbano (anche interregionale), intestate al richiedente o ai familiari indicati all’articolo 12 del testo unico delle imposte sui redditi, purché fiscalmente a carico. I familiari, diversi dal coniuge e dai figli, elencati dall'articolo 433 del codice civile devono inoltre convivere con il richiedente o percepire da questi assegni alimentari non risultanti da provvedimenti dell'autorità giudiziaria. 2. Per abbonamento al trasporto pubblico si intende un titolo di trasporto che consenta al titolare di poter effettuare, su mezzi pubblici, un numero illimitato di viaggi lungo un percorso determinato o sull’intera rete, per più giorni, entro un dato periodo di tempo. Non sono ammissibili né i titoli di viaggio con durata oraria, anche se superiore alla giornata, né le carte turistiche che abbinano al trasporto pubblico l’ingresso a musei o a spettacoli. 3. L’abbonamento al trasporto pubblico pagato nell’anno solare di presentazione dell’istanza può anche riferirsi a periodi di fruizione dell’anno successivo. 5</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "cb3ca3a6fff1b8b72ed533beef2420c2e7995c88b606beccd65fc35c8d3d069e", "pdf_page": 5, "role": "attachment_content", "source_url": "inputs/Allegato%201%20alla%20Delibera%201507-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+    <document_unit>
+      <id>463a80ef-2ab3-5821-8c24-97db3e5f478c</id>
+      <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+      <parent_unit_id>7bc9faed-16ac-5c99-afb3-33359a2a347f</parent_unit_id>
+      <unit_type>PAGE_TRANSCRIPT</unit_type>
+      <ordinal>6</ordinal>
+      <raw_text>Articolo 9 – Criteri di ammissibilità delle spese per l’assistenza a familiari anziani (over 75) e a
+familiari, diversi da coniuge e figli, non autosufficienti.
+1. Sono ammesse le spese di assistenza sostenute in favore dei familiari del richiedente di cui all’art.
+    12 del testo unico delle imposte sui redditi con età superiore a 75 anni oppure in favore dei familiari
+    indicati dal medesimo articolo, diversi dal coniuge e dai figli, che si trovino in condizione di non
+    autosufficienza certificata. In entrambe le ipotesi, non è richiesto il requisito della vivenza a carico né
+    la convivenza con il richiedente.
+2. E’ non autosufficiente la persona che non è in grado di compiere gli atti della vita quotidiana, quali, a
+    titolo esemplificativo e non esaustivo, assumere alimenti, espletare le funzioni fisiologiche o
+    provvedere all'igiene personale, deambulare, indossare gli indumenti, nonché la persona che
+    necessita di sorveglianza continuativa.
+3. Sono rimborsabili le spese per l’assistenza fornita da badanti con regolare contratto (anche in
+    assenza di specifica qualifica), OSS, case di cura, RSA, case di riposo, strutture socio-assistenziali
+    residenziali per anziani (anche diurne), nonché per le prestazioni infermieristiche e le terapie
+    riabilitative eseguite da figure professionali sanitarie della riabilitazione.
+    Le prestazioni di assistenza possono essere rese anche da una cooperativa di servizi o da un’agenzia
+    di somministrazione. E’ escluso il rimborso dei contributi previdenziali e assistenziali versati per il
+    soggetto che presta l’assistenza.
+4. Le spese devono essere intestate al richiedente o al familiare assistito di cui al comma 1. Il
+    dipendente deve dichiarare di aver sostenuto la spesa.
+
+                                                                  IL VICEPRESIDENTE
+                        IL SEGRETARIO GENERALE
+
+
+
+
+                                                       6
+</raw_text>
+      <normalized_text>Articolo 9 – Criteri di ammissibilità delle spese per l’assistenza a familiari anziani (over 75) e a familiari, diversi da coniuge e figli, non autosufficienti. 1. Sono ammesse le spese di assistenza sostenute in favore dei familiari del richiedente di cui all’art. 12 del testo unico delle imposte sui redditi con età superiore a 75 anni oppure in favore dei familiari indicati dal medesimo articolo, diversi dal coniuge e dai figli, che si trovino in condizione di non autosufficienza certificata. In entrambe le ipotesi, non è richiesto il requisito della vivenza a carico né la convivenza con il richiedente. 2. E’ non autosufficiente la persona che non è in grado di compiere gli atti della vita quotidiana, quali, a titolo esemplificativo e non esaustivo, assumere alimenti, espletare le funzioni fisiologiche o provvedere all'igiene personale, deambulare, indossare gli indumenti, nonché la persona che necessita di sorveglianza continuativa. 3. Sono rimborsabili le spese per l’assistenza fornita da badanti con regolare contratto (anche in assenza di specifica qualifica), OSS, case di cura, RSA, case di riposo, strutture socio-assistenziali residenziali per anziani (anche diurne), nonché per le prestazioni infermieristiche e le terapie riabilitative eseguite da figure professionali sanitarie della riabilitazione. Le prestazioni di assistenza possono essere rese anche da una cooperativa di servizi o da un’agenzia di somministrazione. E’ escluso il rimborso dei contributi previdenziali e assistenziali versati per il soggetto che presta l’assistenza. 4. Le spese devono essere intestate al richiedente o al familiare assistito di cui al comma 1. Il dipendente deve dichiarare di aver sostenuto la spesa. IL VICEPRESIDENTE IL SEGRETARIO GENERALE 6</normalized_text>
+      <source_locator>{"attachment_index": 1, "content_hash": "cb3ca3a6fff1b8b72ed533beef2420c2e7995c88b606beccd65fc35c8d3d069e", "pdf_page": 6, "role": "attachment_content", "source_url": "inputs/Allegato%201%20alla%20Delibera%201507-2026.pdf"}</source_locator>
+      <review_status>UNREVIEWED</review_status>
+    </document_unit>
+  </document_units>
+  <ingestion_run>
+    <id>e2b1b391-a7bb-4812-9aab-ddb10453fdcf</id>
+    <source_representation_id>d40d85a8-3b47-5291-89a5-4eadcdec3a05</source_representation_id>
+    <parser_name>fvg_pdf_deliberation</parser_name>
+    <parser_version>1.2.0</parser_version>
+    <status>COMPLETED_WITH_ISSUES</status>
+    <started_at>2026-10-23T17:44:17.648533+00:00</started_at>
+    <finished_at>2026-10-23T17:44:17.843330+00:00</finished_at>
+    <statistics>{"attachment_pages": 6, "attachments": 1, "document_units": 39, "pages": 5, "parser_issues": 6}</statistics>
+  </ingestion_run>
+  <parser_issues>
+    <parser_issue>
+      <id>72e84ca2-5def-5c86-8a25-1a277a169670</id>
+      <ingestion_run_id>e2b1b391-a7bb-4812-9aab-ddb10453fdcf</ingestion_run_id>
+      <issue_type>OCR_COVER_REQUIRES_REVIEW</issue_type>
+      <candidate_text>oggetto:
+
+¥
+
+REGIONE AUTONOMA
+FRIYLI VENEZIA GIULIA
+
+Giunta
+
+ReGcionaLe
+
+Delibera n° 1507
+
+Estratto del processo verbale della seduta del
+
+16 ottobre 2026
+
+LR 16/2023, ART 12, COMMA 2. MISURE DI WELFARE DI CUI AGLI ARTT 56-59 DEL CONTRATTO
+COLLETTIVO DI COMPARTO DEL PERSONALE NON DIRIGENTE, TRIENNIO NORMATIVO ED
+
+ECONOMICO 2022-2024. LINEE GUIDA OPERATIVE IN SEDE DI PRIMA APPLICAZIONE.
+
+Massimiliano FEDRIGA Presidente assente
+Mario ANZIL Vice Presidente presente
+Cristina AMIRANTE Assessore presente
+Sergio Emidio BINI Assessore assente
+Sebastiano CALLARI Assessore presente
+Riccardo RICCARDI Assessore presente
+Pierpaolo ROBERTI Assessore presente
+Alessia ROSOLEN Assessore assente
+Fabio SCOCCIMARRO Assessore presente
+Stefano ZANNIER Assessore presente
+Barbara ZILLI Assessore presente
+
+Gianni CORTIULA
+
+Segretario generale
+
+In riferimento all'oggetto, la Giunta Regionale ha discusso e deliberato quanto segue:
+</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"language": "eng", "pdf_page": 1}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>6fb06dd5-8e5c-5c62-a1f0-cc6416ec8766</id>
+      <ingestion_run_id>e2b1b391-a7bb-4812-9aab-ddb10453fdcf</ingestion_run_id>
+      <issue_type>PROVISION_VALIDITY_NOT_INFERRED</issue_type>
+      <candidate_text>Act date and signature dates do not establish provision validity.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>eaa14c47-1a52-5af8-a3de-3ca639b4d308</id>
+      <ingestion_run_id>e2b1b391-a7bb-4812-9aab-ddb10453fdcf</ingestion_run_id>
+      <issue_type>UNKNOWN_RETRIEVAL_TIME</issue_type>
+      <candidate_text>Acquisition time was not supplied.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>c7d24bd9-7d8e-548c-bea2-56fe9667ab0b</id>
+      <ingestion_run_id>e2b1b391-a7bb-4812-9aab-ddb10453fdcf</ingestion_run_id>
+      <issue_type>ANNEX_STRUCTURE_REQUIRES_REVIEW</issue_type>
+      <candidate_text>Allegato 1 alla Delibera 1507-2026.pdf</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"attachment_index": 1, "policy": "Full extracted text retained; article, table and list structure not inferred."}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>02be9ff4-c9f3-58aa-b0fe-48dbe27f3ed2</id>
+      <ingestion_run_id>e2b1b391-a7bb-4812-9aab-ddb10453fdcf</ingestion_run_id>
+      <issue_type>ANNEX_REFERENCE_REQUIRES_REVIEW</issue_type>
+      <candidate_text>Verify supplied attachments against decree references; completeness is not inferred.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"policy": "No completeness inferred from references or filenames.", "supplied_attachment_count": 1}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+    <parser_issue>
+      <id>aad623cc-b9a0-5252-ba8a-71063a3ae601</id>
+      <ingestion_run_id>e2b1b391-a7bb-4812-9aab-ddb10453fdcf</ingestion_run_id>
+      <issue_type>PDF_STRUCTURE_REQUIRES_REVIEW</issue_type>
+      <candidate_text>Review inferred paragraph boundaries, tables, annexes and reading order against the PDF.</candidate_text>
+      <source_locator>{}</source_locator>
+      <parser_context>{"page_transcripts_preserved": true, "transcripts_duplicate_structured_content": true}</parser_context>
+      <resolution_status>OPEN</resolution_status>
+    </parser_issue>
+  </parser_issues>
+  <citations/>
+  <knowledge_entities/>
+  <legal_assertions/>
+  <legal_relations/>
+</legal_ingestion>

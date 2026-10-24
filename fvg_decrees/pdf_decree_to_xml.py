@@ -6,6 +6,7 @@ import hashlib
 import re
 import subprocess
 import uuid
+import tempfile
 from pathlib import Path
 from lxml import etree
 from ingestion_model import ORDER, XSD, validate, xml_from_rows
@@ -33,6 +34,25 @@ def extract_pages(path):
         raise ValueError('Empty or image-only page detected; OCR/review is required before conversion.')
     return pages
 
+def xml_safe(text):
+    # PDF font mappings can contain XML 1.0 control characters. Preserve their
+    # numeric values as visible escapes rather than silently deleting them.
+    return re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f]',
+                  lambda m: '\\u%04x' % ord(m[0]), text)
+
+
+def extract_cover_ocr(path, language):
+    with tempfile.TemporaryDirectory(prefix='fvg-cover-') as directory:
+        prefix = str(Path(directory) / 'cover')
+        subprocess.run(['pdftoppm', '-f', '1', '-singlefile', '-scale-to', '2200',
+                        '-png', str(path), prefix], capture_output=True, check=True)
+        result = subprocess.run(['tesseract', prefix + '.png', 'stdout', '-l', language],
+                                capture_output=True, text=True, check=True)
+        if not result.stdout.strip():
+            raise ValueError('Cover OCR returned no text')
+        return result.stdout
+
+
 def cover_metadata(cover):
     number = re.search(r'Decreto\s+n[°º.]*\s*(\d+)\s*/\s*Pres\.', cover, re.I)
     issued = re.search(r'Trieste,\s*(\d{1,2})\s+(' + '|'.join(MONTHS) + r')\s+(\d{4})', cover, re.I)
@@ -56,7 +76,7 @@ def cover_metadata(cover):
                 countersigners=people('Siglato da'),
                 copy_statement=next((norm(x) for x in cover.splitlines() if "originale firmato" in x.lower()), None))
 
-def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None, annexes=()):
+def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None, annexes=(), act_type="DPREG", ocr_cover=False, ocr_language="ita"):
     input_path, output_path = Path(input_path), Path(output_path)
     annexes = [Path(path) for path in annexes]
     if len({path.resolve() for path in [input_path, *annexes]}) != 1 + len(annexes):
@@ -64,7 +84,18 @@ def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None
     if output_path.resolve() in {path.resolve() for path in [input_path, *annexes]}:
         raise ValueError("Output must not overwrite an input PDF.")
     pages = extract_pages(input_path)
-    metadata = cover_metadata(pages[0])
+    if act_type not in ('DPREG', 'DGR'):
+        raise ValueError('Unsupported act type')
+    header_text = pages[0]
+    if ocr_cover:
+        header_text = extract_cover_ocr(input_path, ocr_language)
+    if act_type == 'DGR':
+        from pdf_deliberation_to_xml import cover_metadata as deliberation_metadata
+        metadata = deliberation_metadata(header_text)
+    else:
+        metadata = cover_metadata(header_text)
+    metadata['cover_extraction'] = 'TESSERACT_OCR' if ocr_cover else 'PDF_TEXT_LAYER'
+    metadata['cover_review_required'] = bool(ocr_cover)
     if len(pages) < 2:
         raise ValueError('The PDF contains no decree body after the cover.')
     if retrieved_at:
@@ -72,17 +103,17 @@ def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None
         if stamp.tzinfo is None:
             raise ValueError('--retrieved-at requires a timezone.')
     digest = hashlib.sha256(input_path.read_bytes()).hexdigest()
-    key = f'IT-FVG:DPREG:{metadata["document_date"][:4]}:{metadata["number"]}'
+    key = f'IT-FVG:{act_type}:{metadata["document_date"][:4]}:{metadata["number"]}'
     doc_id, rep_id = uid(key), uid(key + ':PDF:' + digest)
     run_id = str(uuid.uuid4())
     now = datetime.now(timezone.utc).isoformat()
     rows = {t: [] for t in ORDER}
-    rows['source_document'] = [dict(id=doc_id, jurisdiction='IT-FVG', document_type='DPREG',
+    rows['source_document'] = [dict(id=doc_id, jurisdiction='IT-FVG', document_type=act_type,
         number=metadata['number'], year=int(metadata['document_date'][:4]), document_date=metadata['document_date'],
-        title=metadata['title'], issuer='Presidente della Regione autonoma Friuli Venezia Giulia',
+        title=metadata['title'], issuer=('Giunta regionale del Friuli Venezia Giulia' if act_type == 'DGR' else 'Presidente della Regione autonoma Friuli Venezia Giulia'),
         metadata={**metadata, 'canonical_key': key, 'metadata_source': {'pdf_page': 1},
                   'signature_cryptographically_verified': False})]
-    rows['source_representation'] = [dict(id=rep_id, source_document_id=doc_id, source_system='FVG_DPREG_PDF',
+    rows['source_representation'] = [dict(id=rep_id, source_document_id=doc_id, source_system=f'FVG_{act_type}_PDF',
         format='PDF', source_url=source_url or input_path.resolve().as_uri(), retrieved_at=retrieved_at,
         content_hash=digest, local_object_key=str(input_path.resolve()), media_type='application/pdf',
         is_official=False, legal_authority=False,
@@ -102,7 +133,10 @@ def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None
         rows['parser_issue'].append(dict(id=uid(run_id + ':' + str(len(rows['parser_issue']))), ingestion_run_id=run_id,
             issue_type=kind, candidate_text=text, source_locator={}, parser_context=context or {}, resolution_status='OPEN'))
     root = unit('DOCUMENT', '', loc={'pdf_pages': list(range(1, len(pages) + 1))})
-    unit('HEADER', pages[0], root, loc={'pdf_page': 1})
+    unit('HEADER', xml_safe(pages[0]), root, loc={'pdf_page': 1, 'extraction': 'PDF_TEXT_LAYER', 'xml_control_characters_escaped': True})
+    if ocr_cover:
+        unit('HEADER_OCR', header_text, root, loc={'pdf_page': 1, 'extraction': 'TESSERACT_OCR', 'language': ocr_language})
+        issue('OCR_COVER_REQUIRES_REVIEW', header_text, {'language': ocr_language, 'pdf_page': 1})
     # Exact extracted page text remains available even when paragraph boundaries are uncertain.
     for i, page in enumerate(pages[1:], 2):
         unit('PAGE_TRANSCRIPT', page, root, loc={'pdf_page': i, 'role': 'extraction_evidence'})
@@ -129,7 +163,7 @@ def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None
             line = raw_line.strip()
             if not line:
                 continue
-            if re.fullmatch(r'Decreta\s*:?', line, re.I):
+            if re.fullmatch((r'Delibera\s*:?' if act_type == 'DGR' else r'Decreta\s*:?'), line, re.I):
                 flush()
                 if operative:
                     raise ValueError('Multiple Decreta headings; manual review required.')
@@ -138,6 +172,7 @@ def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None
                 continue
             point = re.match(r'^(\d+)\s*[.)]\s+', line) if operative else None
             signature = bool(re.match(r'^[-–]\s*.+\s*[-–]$', line))
+            signature = signature or (act_type == 'DGR' and bool(re.match(r'^IL\s+(?:PRESIDENTE|VICEPRESIDENTE|SEGRETARIO GENERALE)\b', line, re.I)))
             closing = bool(re.match(r'^Il presente decreto\s+(sarà|è)\s+pubblicato', line, re.I))
             if point or signature or closing or (not operative and RECITAL.match(line)):
                 flush()
@@ -148,8 +183,8 @@ def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None
             locations.append({'page': page_no, 'line': line_no})
     flush()
     if not operative:
-        raise ValueError('No standalone Decreta heading found; refusing an incomplete structural conversion.')
-    issue('PROVISION_VALIDITY_NOT_INFERRED', 'Decree date and signature dates do not establish provision validity.')
+        raise ValueError('No standalone operative heading found; refusing an incomplete structural conversion.')
+    issue('PROVISION_VALIDITY_NOT_INFERRED', 'Act date and signature dates do not establish provision validity.')
     if not retrieved_at:
         issue('UNKNOWN_RETRIEVAL_TIME', 'Acquisition time was not supplied.')
     attachment_metadata = []
@@ -176,8 +211,8 @@ def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None
               {'supplied_attachment_count': len(annexes), 'policy': 'No completeness inferred from references or filenames.'})
     issue('PDF_STRUCTURE_REQUIRES_REVIEW', 'Review inferred paragraph boundaries, tables, annexes and reading order against the PDF.',
           {'page_transcripts_preserved': True, 'transcripts_duplicate_structured_content': True})
-    rows['ingestion_run'] = [dict(id=run_id, source_representation_id=rep_id, parser_name='fvg_pdf_decree',
-        parser_version='1.1.0', status='COMPLETED_WITH_ISSUES', started_at=now,
+    rows['ingestion_run'] = [dict(id=run_id, source_representation_id=rep_id, parser_name=('fvg_pdf_deliberation' if act_type == 'DGR' else 'fvg_pdf_decree'),
+        parser_version='1.2.0', status='COMPLETED_WITH_ISSUES', started_at=now,
         finished_at=datetime.now(timezone.utc).isoformat(), statistics={'pages': len(pages), 'attachments': len(annexes),
         'attachment_pages': sum(a['page_count'] for a in attachment_metadata),
         'document_units': len(rows['document_unit']), 'parser_issues': len(rows['parser_issue'])})]
