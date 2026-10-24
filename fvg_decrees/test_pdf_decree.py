@@ -25,6 +25,36 @@ class DecreeTests(unittest.TestCase):
                 self.assertEqual(len(rows['provision_identity']), 2)
                 if number == '266':
                     self.assertTrue(any('integrazioni;' in u['raw_text'] and len({x['page'] for x in u['source_locator'].get('pdf_lines', [])}) == 2 for u in rows['document_unit']))
+    def test_annex_content_and_provenance(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source, annex, target = (Path(tmp)/n for n in ('a.pdf', 'annex.pdf', 'a.xml'))
+            source.write_bytes(b'decree')
+            annex.write_bytes(b'annex')
+            cover = 'Decreto n° 1 / Pres.\nTrieste, 1 gennaio 2026\noggetto:\nExample\nFirmato da:\nNAME in data 01/01/2026'
+            with patch('pdf_decree_to_xml.extract_pages', side_effect=[[cover, 'Decreta\n1. Example'], ['Regolamento\nArt. 1', 'Art. 2']]), patch('pdf_decree_to_xml.pdf_info', return_value={}):
+                rows = convert(source, target, annexes=[annex])
+            validate(etree.parse(str(target)).getroot())
+            metadata = rows['source_document'][0]['metadata']['attachments'][0]
+            self.assertEqual(metadata['page_count'], 2)
+            self.assertEqual(len(metadata['content_hash']), 64)
+            container = next(u for u in rows['document_unit'] if u['unit_type'] == 'ANNEX')
+            pages = [u for u in rows['document_unit'] if u.get('parent_unit_id') == container['id']]
+            self.assertEqual([u['source_locator']['pdf_page'] for u in pages], [1, 2])
+            self.assertEqual(pages[0]['raw_text'], 'Regolamento\nArt. 1')
+            self.assertTrue(all(u['source_locator']['content_hash'] == metadata['content_hash'] for u in pages))
+
+    def test_failed_annex_preserves_existing_output(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            source, annex, target = (Path(tmp)/n for n in ('a.pdf', 'annex.pdf', 'a.xml'))
+            source.write_bytes(b'decree')
+            annex.write_bytes(b'annex')
+            target.write_bytes(b'previous output')
+            cover = 'Decreto n° 1 / Pres.\nTrieste, 1 gennaio 2026\noggetto:\nExample\nFirmato da:\nNAME in data 01/01/2026'
+            with patch('pdf_decree_to_xml.extract_pages', side_effect=[[cover, 'Decreta\n1. Example'], ValueError('OCR required')]), patch('pdf_decree_to_xml.pdf_info', return_value={}):
+                with self.assertRaises(ValueError):
+                    convert(source, target, annexes=[annex])
+            self.assertEqual(target.read_bytes(), b'previous output')
+
     def test_missing_identity_is_rejected(self):
         with self.assertRaises(ValueError):
             cover_metadata('A reference to decreto 36/2023 is not the decree identity')
@@ -39,3 +69,4 @@ class DecreeTests(unittest.TestCase):
             self.assertFalse(target.exists())
 if __name__ == '__main__':
     unittest.main()
+

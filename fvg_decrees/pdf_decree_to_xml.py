@@ -56,7 +56,13 @@ def cover_metadata(cover):
                 countersigners=people('Siglato da'),
                 copy_statement=next((norm(x) for x in cover.splitlines() if "originale firmato" in x.lower()), None))
 
-def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None):
+def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None, annexes=()):
+    input_path, output_path = Path(input_path), Path(output_path)
+    annexes = [Path(path) for path in annexes]
+    if len({path.resolve() for path in [input_path, *annexes]}) != 1 + len(annexes):
+        raise ValueError("Decree and annex paths must be distinct.")
+    if output_path.resolve() in {path.resolve() for path in [input_path, *annexes]}:
+        raise ValueError("Output must not overwrite an input PDF.")
     pages = extract_pages(input_path)
     metadata = cover_metadata(pages[0])
     if len(pages) < 2:
@@ -146,14 +152,34 @@ def convert(input_path, output_path, xsd=XSD, source_url=None, retrieved_at=None
     issue('PROVISION_VALIDITY_NOT_INFERRED', 'Decree date and signature dates do not establish provision validity.')
     if not retrieved_at:
         issue('UNKNOWN_RETRIEVAL_TIME', 'Acquisition time was not supplied.')
+    attachment_metadata = []
+    for index, path in enumerate(annexes, 1):
+        annex_pages = extract_pages(path)
+        provenance = dict(attachment_index=index, filename=path.name,
+            source_url=path.resolve().as_uri(), content_hash=hashlib.sha256(path.read_bytes()).hexdigest(),
+            page_count=len(annex_pages), pdf_metadata=pdf_info(path),
+            relationship_basis='USER_SUPPLIED', completeness_verified=False)
+        attachment_metadata.append(provenance)
+        annex_root = unit('ANNEX', '', root, str(index), {'attachment_index': index})
+        for page_no, text in enumerate(annex_pages, 1):
+            unit('PAGE_TRANSCRIPT', text, annex_root,
+                 loc={'attachment_index': index, 'pdf_page': page_no,
+                      'source_url': provenance['source_url'], 'content_hash': provenance['content_hash'],
+                      'role': 'attachment_content'})
+        issue('ANNEX_STRUCTURE_REQUIRES_REVIEW', path.name,
+              {'attachment_index': index, 'policy': 'Full extracted text retained; article, table and list structure not inferred.'})
+    rows['source_document'][0]['metadata']['attachments'] = attachment_metadata
+    rows['source_representation'][0]['raw_metadata']['attachment_policy'] = (
+        'Separate PDF artifacts carried as ANNEX children; locators identify their own files, not decree pages.')
     if re.search(r'\ballegat[oaie]\b', ' '.join(pages[1:]), re.I):
-        issue('ANNEX_REFERENCE_REQUIRES_REVIEW', 'The decree refers to attachments; verify whether separate files are required.',
-              {'policy': 'No attachment content or completeness inferred from the reference.'})
+        issue('ANNEX_REFERENCE_REQUIRES_REVIEW', 'Verify supplied attachments against decree references; completeness is not inferred.',
+              {'supplied_attachment_count': len(annexes), 'policy': 'No completeness inferred from references or filenames.'})
     issue('PDF_STRUCTURE_REQUIRES_REVIEW', 'Review inferred paragraph boundaries, tables, annexes and reading order against the PDF.',
           {'page_transcripts_preserved': True, 'transcripts_duplicate_structured_content': True})
     rows['ingestion_run'] = [dict(id=run_id, source_representation_id=rep_id, parser_name='fvg_pdf_decree',
-        parser_version='1.0.0', status='COMPLETED_WITH_ISSUES', started_at=now,
-        finished_at=datetime.now(timezone.utc).isoformat(), statistics={'pages': len(pages),
+        parser_version='1.1.0', status='COMPLETED_WITH_ISSUES', started_at=now,
+        finished_at=datetime.now(timezone.utc).isoformat(), statistics={'pages': len(pages), 'attachments': len(annexes),
+        'attachment_pages': sum(a['page_count'] for a in attachment_metadata),
         'document_units': len(rows['document_unit']), 'parser_issues': len(rows['parser_issue'])})]
     xml = xml_from_rows(rows)
     validate(xml, xsd)
@@ -172,14 +198,17 @@ def main():
     parser.add_argument('input', type=Path)
     parser.add_argument('output', type=Path)
     parser.add_argument('--xsd', type=Path, default=XSD)
+    parser.add_argument('--annex', type=Path, action='append', default=[],
+                        help='Separate attachment PDF; repeat in attachment order')
     parser.add_argument('--source-url')
     parser.add_argument('--retrieved-at', help='Known acquisition time, with timezone (not conversion time)')
     args = parser.parse_args()
     try:
-        rows = convert(args.input, args.output, args.xsd, args.source_url, args.retrieved_at)
+        rows = convert(args.input, args.output, args.xsd, args.source_url, args.retrieved_at, args.annex)
     except (ValueError, OSError, subprocess.CalledProcessError, etree.Error) as exc:
         parser.exit(1, f'Conversion failed: {exc}\n')
     print(f'Validated {args.output}: {len(rows["document_unit"])} units, {len(rows["parser_issue"])} review issues')
 
 if __name__ == '__main__':
     main()
+
