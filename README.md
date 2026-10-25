@@ -146,3 +146,11 @@ optional OCR, repeatable attachments and validated DGR examples.
 cd fvg_decrees
 python pdf_deliberation_to_xml.py deliberation.pdf deliberation.xml --ocr-cover --annex attachment.pdf
 ```
+
+## Presidential decree and deliberation downloaders
+
+[Act archive scrapers](act_scrapers/README.md) download full texts and discoverable
+attachments, record provenance and hashes, and independently compare filenames
+with PDF identities, dates, titles and preamble/operative structure. Conflicts are
+quarantined; uncertain evidence is recorded for review. Live archive adapter
+verification is pending because both hosts were blocked by the development proxy.
