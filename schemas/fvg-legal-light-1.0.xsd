@@ -22,21 +22,20 @@
   <xs:complexType name="PubblicazioneType">
     <xs:sequence><xs:element name="testata" type="xs:string"/><xs:element name="numero" type="xs:string" minOccurs="0"/><xs:element name="data" type="xs:date" minOccurs="0"/></xs:sequence>
   </xs:complexType>
-  <xs:group name="IdentificazioneAtto"><xs:sequence>
+  <xs:simpleType name="DataAttoType">
+    <xs:union memberTypes="xs:date">
+      <xs:simpleType><xs:restriction base="xs:string"><xs:length value="0"/></xs:restriction></xs:simpleType>
+    </xs:union>
+  </xs:simpleType>
+  <xs:complexType name="MetadatiType"><xs:sequence>
     <xs:element name="tipo" type="fvg:TipoDocumentoType"/>
     <xs:element name="numero" type="xs:string" minOccurs="0"/>
-  </xs:sequence></xs:group>
-  <xs:group name="DescrizioneAtto"><xs:sequence>
+    <xs:element name="data" type="fvg:DataAttoType"/>
     <xs:element name="titolo" type="xs:string"/>
     <xs:element name="ente" type="xs:string"/>
     <xs:element name="organo" type="xs:string" minOccurs="0"/>
     <xs:element name="pubblicazione" type="fvg:PubblicazioneType" minOccurs="0"/>
     <xs:element name="fonte" type="fvg:FonteType" minOccurs="0" maxOccurs="unbounded"/>
-  </xs:sequence></xs:group>
-  <xs:complexType name="MetadatiType"><xs:sequence>
-    <xs:group ref="fvg:IdentificazioneAtto"/>
-    <xs:element name="data" type="xs:date"/>
-    <xs:group ref="fvg:DescrizioneAtto"/>
   </xs:sequence></xs:complexType>
   <xs:complexType name="TestoType"><xs:simpleContent><xs:extension base="xs:string"><xs:attribute name="id" type="xs:ID"/></xs:extension></xs:simpleContent></xs:complexType>
   <xs:complexType name="LetteraType"><xs:sequence><xs:element name="testo" type="fvg:TestoType"/></xs:sequence>
@@ -93,17 +92,9 @@
     <xs:element name="citazioni" type="fvg:CitazioniType" minOccurs="0"/>
   </xs:sequence><xs:attribute name="id" type="xs:string" use="required"/><xs:attribute name="versioneSchema" type="xs:string" fixed="1.0"/></xs:complexType></xs:element>
   <xs:element name="raccoltaAtti"><xs:complexType>
-    <xs:choice minOccurs="1" maxOccurs="unbounded">
-      <xs:element ref="fvg:documento"/>
-      <xs:element name="voceSenzaData"><xs:complexType><xs:sequence>
-        <xs:element name="metadati"><xs:complexType><xs:sequence>
-          <xs:group ref="fvg:IdentificazioneAtto"/>
-          <xs:group ref="fvg:DescrizioneAtto"/>
-        </xs:sequence></xs:complexType></xs:element>
-        <xs:element name="contenuto" type="fvg:ContenutoType"/>
-        <xs:element name="citazioni" type="fvg:CitazioniType" minOccurs="0"/>
-      </xs:sequence><xs:attribute name="id" type="xs:string" use="required"/></xs:complexType></xs:element>
-    </xs:choice>
+    <xs:sequence>
+      <xs:element ref="fvg:documento" maxOccurs="unbounded"/>
+    </xs:sequence>
     <xs:attribute name="versioneSchema" type="xs:string" fixed="1.0"/>
   </xs:complexType></xs:element>
 </xs:schema>
